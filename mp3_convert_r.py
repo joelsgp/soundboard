@@ -7,8 +7,8 @@ def convert(folder: Path):
         if content.is_dir():
             convert(content)
 
-        elif content.is_file() and content.suffix == '.wav':
-            file_converted = content.with_suffix('.mp3')
+        elif content.is_file() and content.suffix == ".wav":
+            file_converted = content.with_suffix(".mp3")
 
             command = f'ffmpeg -y -i "{content}" "{file_converted}"'
             print(command)
@@ -17,5 +17,5 @@ def convert(folder: Path):
             content.unlink()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     convert(Path())

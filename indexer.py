@@ -6,15 +6,15 @@ from argparse import ArgumentParser
 from pathlib import Path
 
 
-INDEX_NAME = 'index.json'
-RE_YT_ID = re.compile(r'^(.*)-([a-zA-Z0-9]{11}).*$')
+INDEX_NAME = "index.json"
+RE_YT_ID = re.compile(r"^(.*)-([a-zA-Z0-9]{11}).*$")
 
 Index = dict[str, str]
 
 
 def get_parser() -> ArgumentParser:
     parser = ArgumentParser()
-    parser.add_argument('directory', type=Path)
+    parser.add_argument("directory", type=Path)
     return parser
 
 
@@ -36,14 +36,14 @@ def index_directory(directory: Path):
         elif p.is_file():
             index_file(index, p)
 
-    print(len(index))
+    print(f"'{directory}': {len(index)}")
 
     write_index(index, directory)
 
 
 def write_index(index: Index, directory: Path):
-    index_path = directory.parent.joinpath(INDEX_NAME)
-    with open(index_path, 'x') as fp:
+    index_path = directory.joinpath(INDEX_NAME)
+    with open(index_path, "w") as fp:
         json.dump(index, fp)
 
 
@@ -53,5 +53,5 @@ def main():
     index_directory(args.directory)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
