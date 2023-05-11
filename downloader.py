@@ -48,7 +48,8 @@ def read_index(directory: Path) -> Index:
 def main():
     parser = get_parser()
     args = parser.parse_args()
-    download_directory(args.directory)
+    for directory in args.directory:
+        download_directory(directory)
 
 
 if __name__ == "__main__":

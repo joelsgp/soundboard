@@ -14,7 +14,7 @@ Index = dict[str, str]
 
 def get_parser() -> ArgumentParser:
     parser = ArgumentParser()
-    parser.add_argument("directory", type=Path)
+    parser.add_argument("directory", nargs="+", type=Path)
     return parser
 
 
@@ -53,7 +53,8 @@ def write_index(index: Index, directory: Path):
 def main():
     parser = get_parser()
     args = parser.parse_args()
-    index_directory(args.directory)
+    for directory in args.directory:
+        index_directory(directory)
 
 
 if __name__ == "__main__":
