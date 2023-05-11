@@ -9,7 +9,9 @@ import yt_dlp.utils
 from indexer import INDEX_NAME, Index, get_parser
 
 
-DEFAULT_OUTTMPL = yt_dlp.utils.DEFAULT_OUTTMPL
+# soundux doesn't support ogg or opus >:(
+AUDIO_FORMAT = "mp3"
+DEFAULT_OUTTMPL = yt_dlp.utils.DEFAULT_OUTTMPL["default"]
 
 
 def download_directory(directory: Path, recurse: bool = True):
@@ -17,18 +19,19 @@ def download_directory(directory: Path, recurse: bool = True):
         if recurse and p.is_dir():
             download_directory(p)
 
-    output = directory.joinpath(DEFAULT_OUTTMPL)
-    argv = [
-        "--format='bestaudio*'",
-        "--extract-audio",
-        "--audio-format='opus'",
-        f"--output='{output}'",
-    ]
-
     index = read_index(directory)
-    argv.extend(f"https://youtube.com/watch?v={k}" for k in index.keys())
+    video_ids = index.keys()
+    if video_ids:
+        output = directory.joinpath(DEFAULT_OUTTMPL)
+        argv = [
+            "--format=bestaudio*",
+            "--extract-audio",
+            f"--audio-format={AUDIO_FORMAT}",
+            f"--output={output}",
+        ]
+        argv.extend(f"https://youtube.com/watch?v={k}" for k in index.keys())
 
-    yt_ylp.main(argv=argv)
+        yt_ylp._real_main(argv=argv)
 
 
 def read_index(directory: Path) -> Index:

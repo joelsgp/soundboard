@@ -1,10 +1,19 @@
-*.aup3
+# audio files
 *.flac
 *.mp3
 *.ogg
 *.opus
 *.wav
+# editing files
+*.aup3
+# download files
+*.part
+# video files
+*.mkv
+*.mp4
+*.webm
 
+# scratch directory
 ignore/
 
 
