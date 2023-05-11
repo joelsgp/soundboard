@@ -27,6 +27,7 @@ def download_directory(directory: Path, recurse: bool = True):
     if video_ids:
         output = directory.joinpath(DEFAULT_OUTTMPL)
         argv = [
+            "--embed-metadata",
             f"--format={FORMAT}",
             "--extract-audio",
             f"--audio-format={AUDIO_FORMAT}",
