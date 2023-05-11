@@ -7,7 +7,7 @@ from pathlib import Path
 
 
 INDEX_NAME = "index.json"
-RE_YT_ID = re.compile(r"^(.*)-([\w\-]{11})(\..+)?$")
+RE_YT_ID = re.compile(r"^(.*) \[([\w\-]{11})\]\..+$")
 
 Index = dict[str, str]
 
