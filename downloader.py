@@ -9,6 +9,10 @@ import yt_dlp.utils
 from indexer import INDEX_NAME, Index, get_parser
 
 
+# don't allow video
+FORMAT = "bestaudio"
+# allow video
+# FORMAT = "bestaudio*"
 # soundux doesn't support ogg or opus >:(
 AUDIO_FORMAT = "mp3"
 DEFAULT_OUTTMPL = yt_dlp.utils.DEFAULT_OUTTMPL["default"]
@@ -24,7 +28,7 @@ def download_directory(directory: Path, recurse: bool = True):
     if video_ids:
         output = directory.joinpath(DEFAULT_OUTTMPL)
         argv = [
-            "--format=bestaudio*",
+            f"--format={FORMAT}",
             "--extract-audio",
             f"--audio-format={AUDIO_FORMAT}",
             f"--output={output}",
