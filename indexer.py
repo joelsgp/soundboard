@@ -26,13 +26,13 @@ def index_file(index: Index, filepath: Path):
         index[video_id] = video_title
 
 
-def index_directory(directory: Path):
+def index_directory(directory: Path, recurse: bool = True):
     print(f"Entering '{directory}'")
 
     index = {}
     files_indexed = 0
     for p in directory.iterdir():
-        if p.is_dir():
+        if recurse and p.is_dir():
             index_directory(p)
         elif p.is_file():
             index_file(index, p)
@@ -47,7 +47,7 @@ def write_index(index: Index, directory: Path):
     index_path = directory.joinpath(INDEX_NAME)
     with open(index_path, "w") as fp:
         json.dump(index, fp, indent=4)
-        fp.write('\n')
+        fp.write("\n")
 
 
 def main():
