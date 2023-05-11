@@ -1,12 +1,11 @@
 #!/usr/bin/env python
 
-import json
 from pathlib import Path
 
 import yt_dlp as yt_ylp
 import yt_dlp.utils
 
-from indexer import INDEX_NAME, Index, get_parser
+import indexer
 
 
 # don't allow video
@@ -23,7 +22,7 @@ def download_directory(directory: Path, recurse: bool = True):
         if recurse and p.is_dir():
             download_directory(p)
 
-    index = read_index(directory)
+    index = indexer.read_index(directory)
     video_ids = index.keys()
     if video_ids:
         output = directory.joinpath(DEFAULT_OUTTMPL)
@@ -38,15 +37,8 @@ def download_directory(directory: Path, recurse: bool = True):
         yt_ylp._real_main(argv=argv)
 
 
-def read_index(directory: Path) -> Index:
-    index_path = directory.joinpath(INDEX_NAME)
-    with open(index_path, "r") as fp:
-        index = json.load(fp)
-    return index
-
-
 def main():
-    parser = get_parser()
+    parser = indexer.get_parser()
     args = parser.parse_args()
     for directory in args.directory:
         download_directory(directory)

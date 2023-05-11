@@ -29,7 +29,10 @@ def index_file(index: Index, filepath: Path):
 def index_directory(directory: Path, recurse: bool = True):
     print(f"Entering '{directory}'")
 
-    index = {}
+    try:
+        index = read_index(directory)
+    except FileNotFoundError:
+        index = {}
     files_indexed = 0
     for p in directory.iterdir():
         if recurse and p.is_dir():
@@ -41,6 +44,13 @@ def index_directory(directory: Path, recurse: bool = True):
     print(f"'{directory}': {len(index)}/{files_indexed}")
 
     write_index(index, directory)
+
+
+def read_index(directory: Path) -> Index:
+    index_path = directory.joinpath(INDEX_NAME)
+    with open(index_path, "r") as fp:
+        index = json.load(fp)
+    return index
 
 
 def write_index(index: Index, directory: Path):
