@@ -9,3 +9,7 @@ For these reasons you should call both of them like this:
 ```shell
 ./downloader.py bites/ clips/
 ```
+
+to do:
+[ ] remove ids from titles, relying entirely on index
+[ ] functionality to segment one from audacity label track
