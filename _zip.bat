@@ -1,0 +1,2 @@
+del "C:\Users\joelm\OneDrive\Music\soundboard.zip"
+7z a "C:\Users\joelm\OneDrive\Music\soundboard.zip" "C:\Users\joelm\Music\Sound Effects\Sound Board" "C:\Program Files (x86)\Jingle Palette\palette.ini"

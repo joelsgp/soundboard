@@ -1,0 +1,8 @@
+*.aup3
+*.flac
+*.mp3
+*.ogg
+*.opus
+*.wav
+
+ignore/

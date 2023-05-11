@@ -1,0 +1,1 @@
+ffmpeg-normalize *.wav -of /amp -ext wav
