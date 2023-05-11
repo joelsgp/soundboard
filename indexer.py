@@ -56,7 +56,7 @@ def read_index(directory: Path) -> Index:
 def write_index(index: Index, directory: Path):
     index_path = directory.joinpath(INDEX_NAME)
     with open(index_path, "w") as fp:
-        json.dump(index, fp, indent=4)
+        json.dump(index, fp, indent=4, sort_keys=True)
         fp.write("\n")
 
 
