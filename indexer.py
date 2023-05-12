@@ -48,15 +48,15 @@ def index_directory(directory: Path, recurse: bool = True):
 
 def read_index(directory: Path) -> Index:
     index_path = directory.joinpath(INDEX_NAME)
-    with open(index_path, "r") as fp:
+    with open(index_path, "r", encoding="utf-8") as fp:
         index = json.load(fp)
     return index
 
 
 def write_index(index: Index, directory: Path):
     index_path = directory.joinpath(INDEX_NAME)
-    with open(index_path, "w") as fp:
-        json.dump(index, fp, indent=4, sort_keys=True)
+    with open(index_path, "w", encoding="utf-8") as fp:
+        json.dump(index, fp, ensure_ascii=False, indent=4, sort_keys=True)
         fp.write("\n")
 
 
