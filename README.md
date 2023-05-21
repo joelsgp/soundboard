@@ -17,5 +17,10 @@ to do:
 [ ] recover unavailable
 [ ] index non-youtube files in a subobject
 
+
+windows lnks:
+- fock - fock C:\Users\joelm\Videos\Editing\we will we will fock\3 fock.wav
+- sound - stellaris sound effects folder D:\SteamLibrary\steamapps\common\Stellaris\sound
+
 to add:
 - https://keep.google.com/u/0/#LIST/1rfDJbcZ-Vo1iEtzaPQH2av-v1wNCDYtJPaa4vpCiDcMvs_YAUpZivnyLe5Rnzw
