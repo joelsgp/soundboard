@@ -22,18 +22,31 @@ def download_directory(directory: Path, recurse: bool = True):
         if recurse and p.is_dir():
             download_directory(p)
 
+    # todo could use os.chdir to simplify this
+
+    outtmpl = directory.joinpath(DEFAULT_OUTTMPL)
+
     index = indexer.read_index(directory)
-    video_ids = index.keys()
+    video_ids = []
+    for k, v in index.items():
+        dest_path = directory.joinpath(
+            DEFAULT_OUTTMPL % {"title": v, "id": k, "ext": AUDIO_FORMAT}
+        )
+        if dest_path.is_file():
+            print(f"Already downloaded: {dest_path}")
+        else:
+            video_ids.append(k)
+
     if video_ids:
-        output = directory.joinpath(DEFAULT_OUTTMPL)
         argv = [
             "--embed-metadata",
             f"--format={FORMAT}",
             "--extract-audio",
             f"--audio-format={AUDIO_FORMAT}",
-            f"--output={output}",
+            f"--output={outtmpl}",
         ]
-        argv.extend(f"https://youtube.com/watch?v={k}" for k in index.keys())
+        argv.extend(f"https://youtube.com/watch?v={vid}" for vid in video_ids)
+        print(argv)
 
         yt_ylp._real_main(argv=argv)
 
