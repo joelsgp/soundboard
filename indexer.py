@@ -1,13 +1,12 @@
 #!/usr/bin/env python
 
 import json
-import re
+import subprocess
 from argparse import ArgumentParser
 from pathlib import Path
 
 
 INDEX_NAME = "index.json"
-RE_YT_ID = re.compile(r"^(.*) \[([\w\-]{11})\]\..+$")
 
 Index = dict[str, str]
 
@@ -18,12 +17,27 @@ def get_parser() -> ArgumentParser:
     return parser
 
 
+def get_purl(filepath: Path) -> str:
+    args = [
+        "ffprobe",
+        "-loglevel", "error",
+        "-print_format", "json",
+        "-show_entries", "format_tags=purl",
+        str(filepath),
+    ]
+    stdout = subprocess.check_output(args, text=True)
+    obj = json.loads(stdout)
+    purl = obj["format"]["tags"]["purl"]
+    return purl
+
+
 def index_file(index: Index, filepath: Path):
-    m = RE_YT_ID.fullmatch(filepath.name)
-    if m is not None:
-        video_title = m.group(1)
-        video_id = m.group(2)
-        index[video_id] = video_title
+    video_title = filepath.name
+    try:
+        video_id = get_purl(filepath)
+    except (KeyError, subprocess.CalledProcessError):
+        return
+    index[video_id] = video_title
 
 
 def index_directory(directory: Path, recurse: bool = True):
