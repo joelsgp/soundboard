@@ -28,14 +28,17 @@ def index_file(index: Index, filepath: Path):
 
 def index_directory(directory: Path, recurse: bool = True):
     print(f"Entering '{directory}'")
-
     try:
         index = read_index(directory)
     except FileNotFoundError:
         index = {}
+
     files_indexed = 0
     for p in directory.iterdir():
-        if recurse and p.is_dir():
+        if p.name.startswith("."):
+            # ignore hidden entries
+            pass
+        elif recurse and p.is_dir():
             index_directory(p)
         elif p.is_file():
             index_file(index, p)
