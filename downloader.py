@@ -15,6 +15,7 @@ FORMAT = "bestaudio"
 # soundux doesn't support ogg or opus >:(
 AUDIO_FORMAT = "mp3"
 DEFAULT_OUTTMPL = yt_dlp.utils.DEFAULT_OUTTMPL["default"]
+OUTTMPL = "%(title)s.%(ext)s"
 
 
 def download_directory(directory: Path, recurse: bool = True):
@@ -22,14 +23,13 @@ def download_directory(directory: Path, recurse: bool = True):
         if recurse and p.is_dir():
             download_directory(p)
 
-    outtmpl = directory.joinpath(DEFAULT_OUTTMPL)
+    outtmpl = directory.joinpath(OUTTMPL)
 
     index = indexer.read_index(directory)
     video_ids = []
     for k, v in index.items():
-        # todo change
         dest_path = directory.joinpath(
-            DEFAULT_OUTTMPL % {"title": v, "id": k, "ext": AUDIO_FORMAT}
+            OUTTMPL % {"title": v, "id": k, "ext": AUDIO_FORMAT}
         )
         # if False and dest_path.is_file():
         if dest_path.is_file():

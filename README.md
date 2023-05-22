@@ -11,7 +11,7 @@ For these reasons you should call both of them like this:
 ```
 
 to do:
-[ ] remove ids from titles, relying entirely on index
+[x] remove ids from titles, relying entirely on index
 [ ] functionality to segment one from audacity label track
 [x] recover ones from shortcuts
 [ ] recover unavailable
@@ -22,6 +22,9 @@ to do:
 windows lnks:
 - fock - fock "C:\Users\joelm\Videos\Editing\we will we will fock\3 fock.wav"
 - sound - stellaris sound effects folder "D:\SteamLibrary\steamapps\common\Stellaris\sound"
+
+for renaming:
+`find bites/ | perl-rename "s/ \[[\w\-]{11}]//"`
 
 to add:
 - https://keep.google.com/u/0/#LIST/1rfDJbcZ-Vo1iEtzaPQH2av-v1wNCDYtJPaa4vpCiDcMvs_YAUpZivnyLe5Rnzw

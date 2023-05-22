@@ -6,6 +6,7 @@ from argparse import ArgumentParser
 from pathlib import Path
 
 
+AUDIO_SUFFIX = ".mp3"
 INDEX_NAME = "index.json"
 
 Index = dict[str, str]
@@ -32,20 +33,22 @@ def get_purl(filepath: Path) -> str:
 
 
 def index_file(index: Index, filepath: Path):
-    video_title = filepath.name
+    video_title = filepath.stem
     try:
         video_id = get_purl(filepath)
-    except (KeyError, subprocess.CalledProcessError):
+    except KeyError:
         return
     index[video_id] = video_title
 
 
 def index_directory(directory: Path, recurse: bool = True):
     print(f"Entering '{directory}'")
-    try:
-        index = read_index(directory)
-    except FileNotFoundError:
-        index = {}
+    # todo cli option to disable this
+    # try:
+    #     index = read_index(directory)
+    # except FileNotFoundError:
+    #     index = {}
+    index = {}
 
     files_indexed = 0
     for p in directory.iterdir():
@@ -54,7 +57,8 @@ def index_directory(directory: Path, recurse: bool = True):
             pass
         elif recurse and p.is_dir():
             index_directory(p)
-        elif p.is_file():
+        elif p.is_file() and p.suffix == AUDIO_SUFFIX:
+            # todo multithreading
             index_file(index, p)
             files_indexed += 1
 
