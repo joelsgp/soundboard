@@ -63,6 +63,7 @@ def index_directory(directory: Path, recurse: bool = True):
     write_index(index, directory)
 
 
+# todo make into an index Class
 def read_index(directory: Path) -> Index:
     index_path = directory.joinpath(INDEX_NAME)
     with open(index_path, "r", encoding="utf-8") as fp:

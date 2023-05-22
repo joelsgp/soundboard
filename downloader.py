@@ -31,6 +31,7 @@ def download_directory(directory: Path, recurse: bool = True):
         dest_path = directory.joinpath(
             DEFAULT_OUTTMPL % {"title": v, "id": k, "ext": AUDIO_FORMAT}
         )
+        # if False and dest_path.is_file():
         if dest_path.is_file():
             print(f"Already downloaded: {dest_path}")
         else:
@@ -44,9 +45,11 @@ def download_directory(directory: Path, recurse: bool = True):
             f"--audio-format={AUDIO_FORMAT}",
             f"--output={outtmpl}",
         ]
+        # argv.extend(f"https://youtube.com/watch?v={vid}" for vid in video_ids)
         argv.extend(video_ids)
         print(argv)
 
+        # todo switch to subprocess
         yt_ylp._real_main(argv=argv)
 
 
