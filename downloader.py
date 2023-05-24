@@ -1,12 +1,9 @@
 #!/usr/bin/env python
-
+import shutil
+import subprocess
 from pathlib import Path
 
-import yt_dlp as yt_ylp
-import yt_dlp.utils
-
 import indexer
-
 
 # don't allow video
 FORMAT = "bestaudio"
@@ -14,23 +11,38 @@ FORMAT = "bestaudio"
 # FORMAT = "bestaudio*"
 # soundux doesn't support ogg or opus >:(
 AUDIO_FORMAT = "mp3"
-DEFAULT_OUTTMPL = yt_dlp.utils.DEFAULT_OUTTMPL["default"]
 OUTTMPL = "%(title)s.%(ext)s"
 
+YT_DL_ARGS = (
+    "--embed-metadata",
+    f"--format={FORMAT}",
+    "--extract-audio",
+    f"--audio-format={AUDIO_FORMAT}",
+)
+YT_DL_NAME = "yt-dlp"
 
-def download_directory(directory: Path, recurse: bool = True):
+
+def download_urls(urls: list[str], outtmpl: str, executable: str):
+    args = [executable]
+    args.extend(YT_DL_ARGS)
+    args.append(f"--output={outtmpl}")
+    args.extend(urls)
+
+    subprocess.run(args)
+
+
+def download_directory(directory: Path, executable: str, recurse: bool = True):
     for p in directory.iterdir():
         if recurse and p.is_dir():
-            download_directory(p)
+            download_directory(p, executable)
 
-    outtmpl = directory.joinpath(OUTTMPL)
+    outtmpl = OUTTMPL
 
     index = indexer.read_index(directory)
     video_ids = []
     for k, v in index.items():
-        dest_path = directory.joinpath(
-            OUTTMPL % {"title": v, "id": k, "ext": AUDIO_FORMAT}
-        )
+        dest_name = outtmpl % {"title": v, "id": k, "ext": AUDIO_FORMAT}
+        dest_path = directory.joinpath(dest_name)
         # if False and dest_path.is_file():
         if dest_path.is_file():
             print(f"Already downloaded: {dest_path}")
@@ -38,26 +50,18 @@ def download_directory(directory: Path, recurse: bool = True):
             video_ids.append(k)
 
     if video_ids:
-        argv = [
-            "--embed-metadata",
-            f"--format={FORMAT}",
-            "--extract-audio",
-            f"--audio-format={AUDIO_FORMAT}",
-            f"--output={outtmpl}",
-        ]
-        # argv.extend(f"https://youtube.com/watch?v={vid}" for vid in video_ids)
-        argv.extend(video_ids)
-        print(argv)
-
-        # todo switch to subprocess
-        yt_ylp._real_main(argv=argv)
+        outmpl_directory = directory.joinpath(outtmpl)
+        download_urls(video_ids, str(outmpl_directory), executable)
 
 
 def main():
     parser = indexer.get_parser()
     args = parser.parse_args()
+
+    executable = shutil.which(YT_DL_NAME)
+
     for directory in args.directory:
-        download_directory(directory)
+        download_directory(directory, executable)
 
 
 if __name__ == "__main__":

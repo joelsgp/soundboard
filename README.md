@@ -16,6 +16,7 @@ to do:
 [x] recover ones from shortcuts
 [ ] recover unavailable
 [ ] index non-youtube files in a subobject
+    [ ] acoustid fingerprints
 [x] downloader - ignore already downloaded files before sending to ytdl
 
 
@@ -23,8 +24,19 @@ windows lnks:
 - fock - fock "C:\Users\joelm\Videos\Editing\we will we will fock\3 fock.wav"
 - sound - stellaris sound effects folder "D:\SteamLibrary\steamapps\common\Stellaris\sound"
 
-for renaming:
-`find bites/ | perl-rename "s/ \[[\w\-]{11}]//"`
+for renaming new-style downloads:
+```shell
+find bites/ | perl-rename "s/ \[[\w\-]{11}]//"
+```
+for finding old-style downloads:
+```shell
+find bites/ | grep --perl-regexp --regexp='-[\w\-]{11}'
+```
+for searching indexes:
+```shell
+find . -name 'index.json' | xargs grep -i <pattern>
+```
+^ NOT WORKING YET FUCK XARGS
 
 to add:
 - https://keep.google.com/u/0/#LIST/1rfDJbcZ-Vo1iEtzaPQH2av-v1wNCDYtJPaa4vpCiDcMvs_YAUpZivnyLe5Rnzw

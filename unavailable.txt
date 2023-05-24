@@ -6,15 +6,23 @@ doom only thing they fear is you
 
 ERROR: [youtube] ye8KvYKn9-0: Video unavailable. This video contains content from SME, who has blocked it in your country on copyright grounds
 james bond theme
+./clips/songs/James Bond 007 Theme Tune (original)-ye8KvYKn9-0.mp3
+
 
 ERROR: [youtube] 9ayYeLLT8bs: Video unavailable
 cyberpunk hyper spoiler
+./clips/songs/Cyberpunk 2077 - E3 2018 Trailer Music _ Hyper - ''SPOILER'' (4K)-9ayYeLLT8bs.mp3
+
 
 ERROR: [youtube] XI1VpElKWF8: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
 mgs Encounter
 
 ERROR: [youtube] cYbCZxmpkUI: Video unavailable
 hogasm
+./clips/Hogasm Caught On Tape-cYbCZxmpkUI.mp3
+
 
 ERROR: [youtube] Bur2HgqAW23: Video unavailable
 Video by khadi (that's why yo shoes raggedy)
+./clips/Video by khadi-Bur2HgqAW23.mp3
+
