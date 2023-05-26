@@ -9,11 +9,15 @@ from common import Index
 def get_parser() -> ArgumentParser:
     parser = ArgumentParser()
     parser.add_argument("directory", nargs="+", type=Path)
+    parser.add_argument("--no-recurse", dest="recursive", action="store_false")
+    parser.add_argument("--no-preserve", dest="preserve", action="store_false")
     return parser
 
 
 class Args:
     directory: list[Path]
+    recursive: bool
+    preserve: bool
 
 
 def parse_args() -> Args:
@@ -24,18 +28,24 @@ def parse_args() -> Args:
 
 
 def main():
-    # todo cli option to enable or disable preserving
-    # todo cli option for recursing
     args = parse_args()
 
-    for directory in args.directory:
-        for inner_directory in directory.rglob("*"):
-            print(f"Entering '{inner_directory}'")
-            index = Index(inner_directory)
+    if args.recursive:
+        all_directories = []
+        for directory in args.directory:
+            glob = directory.rglob("*")
+            all_directories.extend(glob)
+    else:
+        all_directories = args.directory
+
+    for directory in all_directories:
+        print(f"Entering '{directory}'")
+        index = Index(directory)
+        if args.preserve:
             index.load()
-            processed, indexed = index.index_directory()
-            index.save()
-            print(f"'{inner_directory}': {indexed}/{processed}")
+        processed, indexed = index.index_directory()
+        index.save()
+        print(f"'{directory}': {indexed}/{processed}")
 
 
 if __name__ == "__main__":

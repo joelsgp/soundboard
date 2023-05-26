@@ -27,11 +27,15 @@ YT_DL_NAME = "yt-dlp"
 def get_parser() -> ArgumentParser:
     parser = ArgumentParser()
     parser.add_argument("directory", nargs="+", type=Path)
+    parser.add_argument("--no-recurse", dest="recursive", action="store_false")
+    parser.add_argument("--yt-dl-executable", type=shutil.which, default=YT_DL_NAME)
     return parser
 
 
 class Args:
     directory: list[Path]
+    recursive: bool
+    yt_dl_executable: str
 
 
 def parse_args() -> Args:
@@ -71,14 +75,19 @@ def download_index(index: Index, executable: str, outtmpl: str = OUTTMPL):
 def main():
     args = parse_args()
 
-    executable = shutil.which(YT_DL_NAME)
+    if args.recursive:
+        all_directories = []
+        for directory in args.directory:
+            glob = directory.rglob("*")
+            all_directories.extend(glob)
+    else:
+        all_directories = args.directory
 
-    for directory in args.directory:
-        for inner_directory in directory.rglob("*"):
-            print(f"Entering '{inner_directory}'")
-            index = Index(inner_directory)
-            index.load()
-            download_index(index, executable)
+    for directory in all_directories:
+        print(f"Entering '{directory}'")
+        index = Index(directory)
+        index.load()
+        download_index(index, args.yt_dl_executable)
 
 
 if __name__ == "__main__":
