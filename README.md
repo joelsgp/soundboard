@@ -14,7 +14,7 @@ to do:
 [x] remove ids from titles, relying entirely on index
 [ ] functionality to segment one from audacity label track
 [x] recover ones from shortcuts
-[ ] recover unavailable
+[x] recover unavailable
 [ ] index non-youtube files in a subobject
     [ ] acoustid fingerprints
 [x] downloader - ignore already downloaded files before sending to ytdl
