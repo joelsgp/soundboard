@@ -34,9 +34,8 @@ find bites/ | grep --perl-regexp --regexp='-[\w\-]{11}'
 ```
 for searching indexes:
 ```shell
-find . -name 'index.json' | xargs grep -i <pattern>
+find . -name 'index.json' -print0 | xargs -0 grep -i 'james may'
 ```
-^ NOT WORKING YET FUCK XARGS
 
 to add:
 - https://keep.google.com/u/0/#LIST/1rfDJbcZ-Vo1iEtzaPQH2av-v1wNCDYtJPaa4vpCiDcMvs_YAUpZivnyLe5Rnzw
