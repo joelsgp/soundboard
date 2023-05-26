@@ -34,7 +34,8 @@ def main():
         all_directories = []
         for directory in args.directory:
             glob = directory.rglob("*")
-            all_directories.extend(glob)
+            inner_directories = filter(lambda p: p.is_dir(), glob)
+            all_directories.extend(inner_directories)
     else:
         all_directories = args.directory
 

@@ -1,5 +1,6 @@
 import json
 import subprocess
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 
@@ -57,15 +58,18 @@ class Index:
 
     def index_directory(self, ignore_hidden: bool = True) -> tuple[int, int]:
         files_processed = 0
-        files_added = 0
 
+        valid_paths = []
         for path in self.directory.iterdir():
             files_processed += 1
             if ignore_hidden and path.name.startswith("."):
                 pass
             elif path.is_file() and path.suffix == AUDIO_SUFFIX:
-                # todo multithreading for getting purls
-                self.index_file(path)
+                valid_paths.append(path)
+
+        files_added = 0
+        with ThreadPoolExecutor() as executor:
+            for _ in executor.map(self.index_file, valid_paths):
                 files_added += 1
 
         return files_processed, files_added
