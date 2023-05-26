@@ -5,7 +5,7 @@ import subprocess
 from argparse import ArgumentParser
 from pathlib import Path
 
-from common import AUDIO_FORMAT, read_index
+from common import AUDIO_FORMAT, Index
 
 
 # don't allow video
@@ -30,6 +30,17 @@ def get_parser() -> ArgumentParser:
     return parser
 
 
+class Args:
+    directory: list[Path]
+
+
+def parse_args() -> Args:
+    parser = get_parser()
+    args = Args()
+    parser.parse_args(namespace=args)
+    return args
+
+
 def download_urls(urls: list[str], outtmpl: str, executable: str):
     args = [executable]
     args.extend(YT_DL_ARGS)
@@ -39,16 +50,11 @@ def download_urls(urls: list[str], outtmpl: str, executable: str):
     subprocess.run(args)
 
 
-def download_directory(directory: Path, executable: str, recurse: bool = True):
-    for p in directory.iterdir():
-        if recurse and p.is_dir():
-            download_directory(p, executable)
+def download_index(index: Index, executable: str, outtmpl: str = OUTTMPL):
+    directory = index.directory
 
-    outtmpl = OUTTMPL
-
-    index = read_index(directory)
     video_ids = []
-    for k, v in index.items():
+    for k, v in index.index.items():
         dest_name = outtmpl % {"title": v, "id": k, "ext": AUDIO_FORMAT}
         dest_path = directory.joinpath(dest_name)
         # if False and dest_path.is_file():
@@ -58,18 +64,21 @@ def download_directory(directory: Path, executable: str, recurse: bool = True):
             video_ids.append(k)
 
     if video_ids:
-        outmpl_directory = directory.joinpath(outtmpl)
-        download_urls(video_ids, str(outmpl_directory), executable)
+        outtmpl_directory = directory.joinpath(outtmpl)
+        download_urls(video_ids, str(outtmpl_directory), executable)
 
 
 def main():
-    parser = get_parser()
-    args = parser.parse_args()
+    args = parse_args()
 
     executable = shutil.which(YT_DL_NAME)
 
     for directory in args.directory:
-        download_directory(directory, executable)
+        for inner_directory in directory.rglob("*"):
+            print(f"Entering '{inner_directory}'")
+            index = Index(inner_directory)
+            index.load()
+            download_index(index, executable)
 
 
 if __name__ == "__main__":
