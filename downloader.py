@@ -5,7 +5,7 @@ import subprocess
 from argparse import ArgumentParser
 from pathlib import Path
 
-from common import AUDIO_FORMAT, Index
+from common import AUDIO_FORMAT, INDEX_NAME, Index
 
 
 # don't allow video
@@ -78,9 +78,8 @@ def main():
     if args.recursive:
         all_directories = []
         for directory in args.directory:
-            # todo glob only ones that contain index.json
-            glob = directory.rglob("*")
-            inner_directories = filter(lambda p: p.is_dir(), glob)
+            glob = directory.rglob(INDEX_NAME)
+            inner_directories = (p.parent for p in glob)
             all_directories.extend(inner_directories)
     else:
         all_directories = args.directory
