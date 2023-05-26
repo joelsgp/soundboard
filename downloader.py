@@ -1,16 +1,18 @@
 #!/usr/bin/env python
+
 import shutil
 import subprocess
+from argparse import ArgumentParser
 from pathlib import Path
 
-import indexer
+from common import AUDIO_FORMAT, read_index
+
 
 # don't allow video
 FORMAT = "bestaudio"
 # allow video
 # FORMAT = "bestaudio*"
-# soundux doesn't support ogg or opus >:(
-AUDIO_FORMAT = "mp3"
+
 OUTTMPL = "%(title)s.%(ext)s"
 
 YT_DL_ARGS = (
@@ -20,6 +22,12 @@ YT_DL_ARGS = (
     f"--audio-format={AUDIO_FORMAT}",
 )
 YT_DL_NAME = "yt-dlp"
+
+
+def get_parser() -> ArgumentParser:
+    parser = ArgumentParser()
+    parser.add_argument("directory", nargs="+", type=Path)
+    return parser
 
 
 def download_urls(urls: list[str], outtmpl: str, executable: str):
@@ -38,7 +46,7 @@ def download_directory(directory: Path, executable: str, recurse: bool = True):
 
     outtmpl = OUTTMPL
 
-    index = indexer.read_index(directory)
+    index = read_index(directory)
     video_ids = []
     for k, v in index.items():
         dest_name = outtmpl % {"title": v, "id": k, "ext": AUDIO_FORMAT}
@@ -55,7 +63,7 @@ def download_directory(directory: Path, executable: str, recurse: bool = True):
 
 
 def main():
-    parser = indexer.get_parser()
+    parser = get_parser()
     args = parser.parse_args()
 
     executable = shutil.which(YT_DL_NAME)

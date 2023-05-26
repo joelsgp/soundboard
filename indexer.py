@@ -5,11 +5,7 @@ import subprocess
 from argparse import ArgumentParser
 from pathlib import Path
 
-
-AUDIO_SUFFIX = ".mp3"
-INDEX_NAME = "index.json"
-
-Index = dict[str, str]
+from common import AUDIO_SUFFIX, Index, write_index
 
 
 def get_parser() -> ArgumentParser:
@@ -68,18 +64,6 @@ def index_directory(directory: Path, recurse: bool = True):
 
 
 # todo make into an index Class
-def read_index(directory: Path) -> Index:
-    index_path = directory.joinpath(INDEX_NAME)
-    with open(index_path, "r", encoding="utf-8") as fp:
-        index = json.load(fp)
-    return index
-
-
-def write_index(index: Index, directory: Path):
-    index_path = directory.joinpath(INDEX_NAME)
-    with open(index_path, "w", encoding="utf-8") as fp:
-        json.dump(index, fp, ensure_ascii=False, indent=4, sort_keys=True)
-        fp.write("\n")
 
 
 def main():
