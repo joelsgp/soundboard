@@ -24,14 +24,19 @@ windows lnks:
 - fock - fock "C:\Users\joelm\Videos\Editing\we will we will fock\3 fock.wav"
 - sound - stellaris sound effects folder "D:\SteamLibrary\steamapps\common\Stellaris\sound"
 
-for renaming new-style downloads:
-```shell
-find bites/ | perl-rename "s/ \[[\w\-]{11}]//"
-```
 for finding old-style downloads:
 ```shell
-find bites/ | grep --perl-regexp --regexp='-[\w\-]{11}'
+find . | grep --perl-regexp --regexp='-[\w\-]{11}'
 ```
+for finding new-style downloads:
+```shell
+find . | grep --perl-regexp --regexp='\[[\w\-]{11}]'
+```
+for renaming new-style downloads:
+```shell
+find . | perl-rename "s/ \[[\w\-]{11}]//"
+```
+
 for searching indexes:
 ```shell
 find . -name 'index.json' -print0 | xargs -0 grep -i 'james may'
