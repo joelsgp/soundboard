@@ -28,6 +28,7 @@ def get_parser() -> ArgumentParser:
     parser = ArgumentParser()
     parser.add_argument("directory", nargs="+", type=Path)
     parser.add_argument("--no-recurse", dest="recursive", action="store_false")
+    parser.add_argument("--no-skip-existing", dest="skip_existing", action="store_false")
     parser.add_argument("--yt-dl-executable", type=shutil.which, default=YT_DL_NAME)
     return parser
 
@@ -36,6 +37,7 @@ class Args:
     directory: list[Path]
     recursive: bool
     yt_dl_executable: str
+    skip_existing: bool
 
 
 def parse_args() -> Args:
@@ -54,18 +56,18 @@ def download_urls(urls: list[str], outtmpl: str, executable: str):
     subprocess.run(args)
 
 
-def download_index(index: Index, executable: str, outtmpl: str = OUTTMPL):
+def download_index(index: Index, executable: str, skip_existing: bool = True, outtmpl: str = OUTTMPL):
     directory = index.directory
 
     video_ids = []
     for k, v in index.index.items():
-        dest_name = outtmpl % {"title": v, "id": k, "ext": AUDIO_FORMAT}
-        dest_path = directory.joinpath(dest_name)
-        # if False and dest_path.is_file():
-        if dest_path.is_file():
-            print(f"Already downloaded: {dest_path}")
-        else:
-            video_ids.append(k)
+        if skip_existing:
+            dest_name = outtmpl % {"title": v, "id": k, "ext": AUDIO_FORMAT}
+            dest_path = directory.joinpath(dest_name)
+            if dest_path.is_file():
+                print(f"Already downloaded: {dest_path}")
+
+        video_ids.append(k)
 
     if video_ids:
         outtmpl_directory = directory.joinpath(outtmpl)
@@ -88,7 +90,7 @@ def main():
         print(f"Entering '{directory}'")
         index = Index(directory)
         index.load()
-        download_index(index, args.yt_dl_executable)
+        download_index(index, args.yt_dl_executable, skip_existing=args.skip_existing)
 
 
 if __name__ == "__main__":
