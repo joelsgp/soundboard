@@ -1,3 +1,4 @@
+import hashlib
 import json
 import subprocess
 import sys
@@ -18,6 +19,7 @@ Video = TypedDict(
     {
         "title": str,
         "duration": float,
+        "md5sum": str,
         "fingerprint": Optional[str],
         "url": Optional[str],
     },
@@ -83,8 +85,16 @@ class Index:
         except subprocess.CalledProcessError:
             fingerprint = None
 
+        with open(file_path, "rb") as f:
+            # noinspection PyTypeChecker
+            md5sum = hashlib.file_digest(f, hashlib.md5).hexdigest()
+
         video = Video(
-            title=file_path.stem, duration=duration, fingerprint=fingerprint, url=purl
+            title=file_path.stem,
+            duration=duration,
+            md5sum=md5sum,
+            fingerprint=fingerprint,
+            url=purl,
         )
         self.index.append(video)
 
