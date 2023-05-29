@@ -15,8 +15,8 @@ to do:
 [ ] functionality to segment one from audacity label track
 [x] recover ones from shortcuts
 [x] recover unavailable
-[ ] index non-youtube files in a subobject
-    [ ] acoustid fingerprints
+[x] index non-youtube files in a subobject
+    [x] acoustid fingerprints
 [x] downloader - ignore already downloaded files before sending to ytdl
 
 
