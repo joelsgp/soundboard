@@ -1,23 +1,254 @@
-{
-    "https://www.youtube.com/watch?v=1p-DA0zvuQ8": "Inception [Sound Effect]",
-    "https://www.youtube.com/watch?v=2P5qbcRAXVk": "Metal Gear Solid： Alert (!) メタルギアソリッド",
-    "https://www.youtube.com/watch?v=2ZIpFytCSVc": "Bruh Sound Effect #2",
-    "https://www.youtube.com/watch?v=7i9CUvlfby0": "Bro you just posted Cringe you are going to lose subscriber Dr Robotnik",
-    "https://www.youtube.com/watch?v=AxKEG7U8ENs": "Pingas SFX",
-    "https://www.youtube.com/watch?v=B3N9rU6dJ5s": "engineer gaming",
-    "https://www.youtube.com/watch?v=ERvofdiuJxA": "I like ya cut g",
-    "https://www.youtube.com/watch?v=J6OmF4wL3b4": "Soulja Boy YOUUU -  Sound Effect",
-    "https://www.youtube.com/watch?v=Jrru9SHCPqc": "rick astley says you posted cringe meme",
-    "https://www.youtube.com/watch?v=NIgfiSzCy1o": "J. Jonah Jameson Laughing",
-    "https://www.youtube.com/watch?v=SyimUCBIo6c": "James May says cheese.",
-    "https://www.youtube.com/watch?v=V1EHtX7ykEY": "Okay, That's All The Time I've Got - Reggie Animal Crossing New Leaf",
-    "https://www.youtube.com/watch?v=VKMw2it8dQY": "yooooooooooo",
-    "https://www.youtube.com/watch?v=WTWyosdkx44": "Doot Doot - Mr Skeltal Original",
-    "https://www.youtube.com/watch?v=_nce9A5S5uM": "My Name is Jeff - Sound Effect (HD)",
-    "https://www.youtube.com/watch?v=c02Jo5GR2dU": "Boneless Pizza Sound Effect",
-    "https://www.youtube.com/watch?v=du-TY1GUFGk": "It Is Wednesday My Dudes Vine",
-    "https://www.youtube.com/watch?v=hK20d1hWnqE": "Gangsta's Paradise Choir Sound Effect",
-    "https://www.youtube.com/watch?v=sk-_UnBRLcI": "Vsauce - Hey Vsauce, Michael Here - Sound Effect",
-    "https://www.youtube.com/watch?v=vfthzU3V4zo": "Psycho Violin Screech",
-    "https://www.youtube.com/watch?v=wuvmEDtiyRI": "Urine and Feces"
-}
+[
+    {
+        "duration": 3.072,
+        "fingerprint": "AQAAA6yilgqO_CMBaAg\n",
+        "md5sum": "2cdd8fb886c35f550fa0397e6d2779f8",
+        "title": "Inception [Sound Effect]",
+        "url": "https://www.youtube.com/watch?v=1p-DA0zvuQ8"
+    },
+    {
+        "duration": 1.704,
+        "fingerprint": null,
+        "md5sum": "0add4572e970bf2c29e7451116a8de94",
+        "title": "Metal Gear Solid： Alert (!) メタルギアソリッド",
+        "url": "https://www.youtube.com/watch?v=2P5qbcRAXVk"
+    },
+    {
+        "duration": 1.008,
+        "fingerprint": null,
+        "md5sum": "7bde6e33307f020955598cb6c763ac87",
+        "title": "Big chungus",
+        "url": null
+    },
+    {
+        "duration": 0.548571,
+        "fingerprint": null,
+        "md5sum": "64e76ca6698e2348ac15971ff16a2a3f",
+        "title": "neil cic says swag",
+        "url": null
+    },
+    {
+        "duration": 2.16,
+        "fingerprint": null,
+        "md5sum": "0280099f865f34de02ecc230f3cbe1c7",
+        "title": "James May says cheese.",
+        "url": "https://www.youtube.com/watch?v=SyimUCBIo6c"
+    },
+    {
+        "duration": 2.04,
+        "fingerprint": null,
+        "md5sum": "1e2baaf8c26d05ad4dcd61c1874cc542",
+        "title": "My Name is Jeff - Sound Effect (HD)",
+        "url": "https://www.youtube.com/watch?v=_nce9A5S5uM"
+    },
+    {
+        "duration": 1.8,
+        "fingerprint": null,
+        "md5sum": "d006c4a8097971bcaaa539589ce59baf",
+        "title": "Big big chungus",
+        "url": null
+    },
+    {
+        "duration": 1.128,
+        "fingerprint": null,
+        "md5sum": "475448f1d2d921fa5a80f4a0c6d44ff1",
+        "title": "Pingas SFX",
+        "url": "https://www.youtube.com/watch?v=AxKEG7U8ENs"
+    },
+    {
+        "duration": 1.541224,
+        "fingerprint": null,
+        "md5sum": "9e3238e9cee8a83138babda110c0961f",
+        "title": "I boutta go to bed",
+        "url": null
+    },
+    {
+        "duration": 4.752,
+        "fingerprint": "AQAAEUuoJEkSOVFgpjkYGvnxFIrkoumO92j3BN4jb2jc6chNnB1hpVljXMcx8QDEDGCEGAEcAE48\n",
+        "md5sum": "3c50584e2e6bbbc8628c17f813bfb097",
+        "title": "I like ya cut g",
+        "url": "https://www.youtube.com/watch?v=ERvofdiuJxA"
+    },
+    {
+        "duration": 0.768,
+        "fingerprint": null,
+        "md5sum": "86d14ff1e583e170fd07acdbbf626b6c",
+        "title": "sans",
+        "url": null
+    },
+    {
+        "duration": 3.696,
+        "fingerprint": "AQAACItzJVqi4CHOH9utFO9hJ9Jx6cgBAABwBAGAkAs\n",
+        "md5sum": "fe4ab085f9a48f9a410908f02f5c8f63",
+        "title": "Urine and Feces",
+        "url": "https://www.youtube.com/watch?v=wuvmEDtiyRI"
+    },
+    {
+        "duration": 2.232,
+        "fingerprint": null,
+        "md5sum": "d0bbd99153da100605a94491020f44ce",
+        "title": "Vsauce - Hey Vsauce, Michael Here - Sound Effect",
+        "url": "https://www.youtube.com/watch?v=sk-_UnBRLcI"
+    },
+    {
+        "duration": 9.792,
+        "fingerprint": "AQAAOQyTJdGSw8wpRHqgI-8ycC-qHH9gH5cTJK8QqzV6_MVvReiloImOb4yQCxoPf0f68ER1oTsulsITbfiIUk3Qp4LDI5mSNRXy-Civ4dTRlziJK0IeBqqPVE1GfHglXCfKnci5QeRSI5SIH9-DnxqaMyg5BteRQ-OD9HAcH6EUE0YhhYhASAkghEGCCCAQBcwQQ4BiSFBCBHCEASOVUMAAg5ggBg\n",
+        "md5sum": "dd84a0b4830604ecd099ac11cb84cca3",
+        "title": "engineer gaming",
+        "url": "https://www.youtube.com/watch?v=B3N9rU6dJ5s"
+    },
+    {
+        "duration": 0.264,
+        "fingerprint": null,
+        "md5sum": "471c4458f6ed52ad555c6637858b940e",
+        "title": "hotel mario note 1 one",
+        "url": null
+    },
+    {
+        "duration": 9.142857,
+        "fingerprint": "AQAANInCR1KiJMHtoVmU48WzNOhXNFWkQzeFJsqObjbeTCmmdB-qf9AVHzHHEK-OcDea-9AXBieiL2ji_LiPo2ncId9T_Bu0IFyPmfnwVT96WVHwJjWewBWPssf3JSh5OF9WWAdjhJKUXPADPcrxI_CLfi8Yp3DoqAgVX_hOAIAMZUAApYQhABgkEFHiEgAgNcYAAwQAAlAHDDCACKMUZYAAYwQ\n",
+        "md5sum": "c10eb3751dbc1ab9305f04ef8a5962fd",
+        "title": "hackerman",
+        "url": null
+    },
+    {
+        "duration": 1.176,
+        "fingerprint": null,
+        "md5sum": "9ea7ee20dc2691b9480742c55d9f25c4",
+        "title": "Bruh Sound Effect #2",
+        "url": "https://www.youtube.com/watch?v=2ZIpFytCSVc"
+    },
+    {
+        "duration": 0.264,
+        "fingerprint": null,
+        "md5sum": "fe4a5ac3e0ef79ece85eeba74573a4d3",
+        "title": "op",
+        "url": null
+    },
+    {
+        "duration": 2.115918,
+        "fingerprint": null,
+        "md5sum": "39bda104601ad9bfa599a0d899c5b7d5",
+        "title": "explosion",
+        "url": null
+    },
+    {
+        "duration": 5.472,
+        "fingerprint": "AQAAFvwWJVpwh3iKnpiii_g0Enk8yOwwUkl0nBFDNOtR8hmaxhraPJgLP9mC58GrGk92zC9uSxmeAwLAVIQAA5QCkABBCGAA\n",
+        "md5sum": "e0ce2ea80bd93a5f9ba3941e7c32ac49",
+        "title": "Boneless Pizza Sound Effect",
+        "url": "https://www.youtube.com/watch?v=c02Jo5GR2dU"
+    },
+    {
+        "duration": 12.24,
+        "fingerprint": "AQAATVTCjNGUBD18lB0uXDlyQotSHaG241aoBNOFpp_AH_WRLrswF5rVMOg3hElxXbiKX7EQfvgO_chz_MGUs8cvXEfj_AOrlWgWXkFSI8d944tYvFFE4ceTD89xIVq3MBEDHTmjofSTo4mPNdqxI7ygJUeO68GFkI2hpQzy42MTXHJe7A-YVET5Ys6dDh9u5Gt6PF_w46aMN8mHX0fJwlWG8MJRytieH6UEQQZQYoFQSioiBADGEAKNMU4IIhABBACgEEAOEAK5MQIY64D0QBjhDACEEYCYEIYQAgQAAlgFBAA\n",
+        "md5sum": "720e8afe98e88adab4842955a07bc949",
+        "title": "Gangsta's Paradise Choir Sound Effect",
+        "url": "https://www.youtube.com/watch?v=hK20d1hWnqE"
+    },
+    {
+        "duration": 1.802449,
+        "fingerprint": null,
+        "md5sum": "131e81a4f2b8042a4ca4e2841722d924",
+        "title": "oh hey (couldn't skype tonight)",
+        "url": null
+    },
+    {
+        "duration": 10.272,
+        "fingerprint": "AQAAPUqSZJKSRImk4D-olXnQH-eDZEKYXbhz8EOtVfCPZw2-UYOfIxZbiNaF2kGvI11DoX1OVIcnFX5-5IS-7PBznEQ2sTbaZQ_ypJDTodkRarFxhkd_4e_wEtRpVD0YMjtSp4H2KUc-XHiWDBfRHPWPX-iJSzn8HOU7ZFajQ8-aIUzMFJ1Q1Ye_HB9-AAQEUMYIAAg1UgAgjQFAAACIEAAIQqAhiggECMBAKACIRUwwIRgBBCBkAECMAA\n",
+        "md5sum": "d5cac5a6c0b9ecc9cf68e44a6b36a93f",
+        "title": "rick astley says you posted cringe meme",
+        "url": "https://www.youtube.com/watch?v=Jrru9SHCPqc"
+    },
+    {
+        "duration": 1.368,
+        "fingerprint": null,
+        "md5sum": "4fdbc586203e4f29dd75d3ada324c2ae",
+        "title": "Doot Doot - Mr Skeltal Original",
+        "url": "https://www.youtube.com/watch?v=WTWyosdkx44"
+    },
+    {
+        "duration": 1.32,
+        "fingerprint": null,
+        "md5sum": "0c7d79ee77de191767499835bd4efc17",
+        "title": "Soulja Boy YOUUU -  Sound Effect",
+        "url": "https://www.youtube.com/watch?v=J6OmF4wL3b4"
+    },
+    {
+        "duration": 8.064,
+        "fingerprint": "AQAAK4sSSU3EJTjxoNk0oZvqCG-GJD_iD02JMnKFS-KLTy_s4jpiMQq-b2j2eAi9DpXWHNdx-cF4uGFC1Lxw5gmaz0OfE8mF-ASzKE8CR4k-4clmuEXjHPwm4mWMfX0QZvJRNdlxZnjyodI1GWEeAmKoUQAAIRAyAgBkBDCCGCIIQggwDAgAzjGhjAA\n",
+        "md5sum": "04d2f6b44863005e8e0cba28a9ace247",
+        "title": "Okay, That's All The Time I've Got - Reggie Animal Crossing New Leaf",
+        "url": "https://www.youtube.com/watch?v=V1EHtX7ykEY"
+    },
+    {
+        "duration": 5.976,
+        "fingerprint": "AQAAG1uyLnnQOEJ4MdCUTNnRLNGRLEdx5GkIL7GD19HxB-KXIz7iUNDyLWB-_MdP48ehcUImHpXIMSGeK5Pw72iYSwBDHBLcEEGFAJ4IQQwyhECEASAGCA\n",
+        "md5sum": "bdb6a676f009228a96ef9f922a6c69c9",
+        "title": "It Is Wednesday My Dudes Vine",
+        "url": "https://www.youtube.com/watch?v=du-TY1GUFGk"
+    },
+    {
+        "duration": 0.648,
+        "fingerprint": null,
+        "md5sum": "86d9f787e59747b00919d205c8d04fbc",
+        "title": "goku drip",
+        "url": null
+    },
+    {
+        "duration": 0.384,
+        "fingerprint": null,
+        "md5sum": "bebbba553a822248279ea0311c599be6",
+        "title": "Minecraft Alpha Damage - Sound Effect",
+        "url": null
+    },
+    {
+        "duration": 1.824,
+        "fingerprint": null,
+        "md5sum": "cfa9818d40c094df4c529149ef974e73",
+        "title": "audiojungle",
+        "url": null
+    },
+    {
+        "duration": 4.08,
+        "fingerprint": "AQAAC4oSLVEUTRNenMCP3jiCHuI6Iz0A4qBQGAk\n",
+        "md5sum": "bb32db55d3d534250d7c7d88afbeae0d",
+        "title": "Psycho Violin Screech",
+        "url": "https://www.youtube.com/watch?v=vfthzU3V4zo"
+    },
+    {
+        "duration": 4.92,
+        "fingerprint": "AQAAElGkaEsSJlEC_R3OBo2HCpcGOVnmDT2yiMInHZdCpIliD7o0fEekj4I5Dn4WBgdAHMEEMgyEBAg\n",
+        "md5sum": "497e33e31b17b324290eb036642c3c71",
+        "title": "Bro you just posted Cringe you are going to lose subscriber Dr Robotnik",
+        "url": "https://www.youtube.com/watch?v=7i9CUvlfby0"
+    },
+    {
+        "duration": 0.384,
+        "fingerprint": null,
+        "md5sum": "7a755804e08a5de12655d1d5703f4696",
+        "title": "Roblox Death Sound - OOF Sound Effect",
+        "url": null
+    },
+    {
+        "duration": 0.522583,
+        "fingerprint": null,
+        "md5sum": "04e96fef3c1776aca5f74eff6925a3f6",
+        "title": "hey-beter-mp3cut",
+        "url": null
+    },
+    {
+        "duration": 10.944,
+        "fingerprint": "AQAAQ5q0KJKiJEoQ7TsO4fhhQDxw4AcOH8fhAwdw3fiJDwnuwzau4T_M4x-M43jAZBny5tBoGf-R8_jhGy1KiYefsvjRfMcj6WAySagcVD9-4bSHOcm1odmFI-cOHce31LiUB_9xiYH4SArkFwGtsU4ZK6wyRplnnBMEAcQAIQ4gCiABhhBoKADIEUGIcRYA5RgzKiMgjBAMIA\n",
+        "md5sum": "c7995150cbdd27bdf63dea0f9e1604b9",
+        "title": "yooooooooooo",
+        "url": "https://www.youtube.com/watch?v=VKMw2it8dQY"
+    },
+    {
+        "duration": 8.112,
+        "fingerprint": "AQAALFE0Ro7RHjeu47dw6DOeCfmHXMnxw_nQ56h92IN26MO1HSVy5cKxL1dwCds7VM2RHzryH9PxwO4RP8Gm7VCt4zKYXNCPCy1vxCKD9D7wQ8sAiBRFACtzCAGIKUEIdQAZAoAgigpBCSPYE4OEBNqAhQgkAA\n",
+        "md5sum": "24c3704800cb48e1730311e7b040864d",
+        "title": "J. Jonah Jameson Laughing",
+        "url": "https://www.youtube.com/watch?v=NIgfiSzCy1o"
+    }
+]
