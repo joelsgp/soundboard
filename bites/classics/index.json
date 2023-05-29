@@ -1,1 +1,128 @@
-{}
+[
+    {
+        "duration": 4.440816,
+        "fingerprint": "AQAADkmUSFqSRImSCM0l6Mc31EdzZNeRb8KJB1-koaI-iLj4AAkFMkQAQhkRAAE\n",
+        "md5sum": "aab965a1d49e307b29d9f67326635376",
+        "title": "Thunder Strike",
+        "url": null
+    },
+    {
+        "duration": 5.642449,
+        "fingerprint": "AQAAGEoSRYqiJhqMlIeO_OiPt8Fv3DCeE2-OKmVwjkJauegTHfqL6PFxXMc-ooezHTkPQ5oFkhnAGQLECCEFEFIxwARgAA\n",
+        "md5sum": "f6343a73fefef17c614f155b6ba96d15",
+        "title": "Evil Laugh",
+        "url": null
+    },
+    {
+        "duration": 3.813878,
+        "fingerprint": "AQAACZGSJJGyRAkjnIEPjV1S9BJ--IqFkJQ9tAOjBSMC\n",
+        "md5sum": "10617c7de998665ae58ee3a1a5584b86",
+        "title": "Laugh Track",
+        "url": null
+    },
+    {
+        "duration": 1.227755,
+        "fingerprint": null,
+        "md5sum": "a08f0d2b3cfe7228c9558e26aa55335a",
+        "title": "Wilhelm Scream",
+        "url": null
+    },
+    {
+        "duration": 3.056327,
+        "fingerprint": "AQAAA8ojKlsivKWwGwEE\n",
+        "md5sum": "37332206d18e5453cefaf4d4641c1d7d",
+        "title": "DUN DUN DUUUNN",
+        "url": null
+    },
+    {
+        "duration": 2.063673,
+        "fingerprint": null,
+        "md5sum": "86229fc28709686e3b27af9dc1a505e1",
+        "title": "Ba Dum Tss",
+        "url": null
+    },
+    {
+        "duration": 4.075102,
+        "fingerprint": "AQAAC0mm5cd_9EEzyO9xZ4VG0sYPH9eDJ3kBYpAxRAjoECDAAA\n",
+        "md5sum": "7beba8a048b9cdec69fd1daf001676aa",
+        "title": "Darth Vader NOOOOO",
+        "url": null
+    },
+    {
+        "duration": 4.205714,
+        "fingerprint": "AQAADFGSR4qkJHBo4gw8Bj8O_5gUSRl-9Dv84AAkDBABUyMcMAE\n",
+        "md5sum": "bf4dd95ed002fe3c4635bdbd48619475",
+        "title": "Applause",
+        "url": null
+    },
+    {
+        "duration": 4.257959,
+        "fingerprint": "AQAADJykJJkWDcePHj_64seP6EkOvpGwHTqzAIWgGUYAiwAwhgE\n",
+        "md5sum": "e3bd7297370102b0052a1f189b112a5c",
+        "title": "Sad Trombone",
+        "url": null
+    },
+    {
+        "duration": 5.642449,
+        "fingerprint": "AQAAGEoSRYqiJhqMlIeO_OiPt8Fv3DCeE2-OKmVwjkJauegTHfqL6PFxXMc-ooezHTkPQ5oFkhnAGQLECCEFEFIxwARgAA\n",
+        "md5sum": "f6343a73fefef17c614f155b6ba96d15",
+        "title": "Evil Laugh",
+        "url": null
+    },
+    {
+        "duration": 3.813878,
+        "fingerprint": "AQAACZGSJJGyRAkjnIEPjV1S9BJ--IqFkJQ9tAOjBSMC\n",
+        "md5sum": "10617c7de998665ae58ee3a1a5584b86",
+        "title": "Laugh Track",
+        "url": null
+    },
+    {
+        "duration": 4.075102,
+        "fingerprint": "AQAAC0mm5cd_9EEzyO9xZ4VG0sYPH9eDJ3kBYpAxRAjoECDAAA\n",
+        "md5sum": "7beba8a048b9cdec69fd1daf001676aa",
+        "title": "Darth Vader NOOOOO",
+        "url": null
+    },
+    {
+        "duration": 2.063673,
+        "fingerprint": null,
+        "md5sum": "86229fc28709686e3b27af9dc1a505e1",
+        "title": "Ba Dum Tss",
+        "url": null
+    },
+    {
+        "duration": 1.227755,
+        "fingerprint": null,
+        "md5sum": "a08f0d2b3cfe7228c9558e26aa55335a",
+        "title": "Wilhelm Scream",
+        "url": null
+    },
+    {
+        "duration": 3.056327,
+        "fingerprint": "AQAAA8ojKlsivKWwGwEE\n",
+        "md5sum": "37332206d18e5453cefaf4d4641c1d7d",
+        "title": "DUN DUN DUUUNN",
+        "url": null
+    },
+    {
+        "duration": 4.257959,
+        "fingerprint": "AQAADJykJJkWDcePHj_64seP6EkOvpGwHTqzAIWgGUYAiwAwhgE\n",
+        "md5sum": "e3bd7297370102b0052a1f189b112a5c",
+        "title": "Sad Trombone",
+        "url": null
+    },
+    {
+        "duration": 4.440816,
+        "fingerprint": "AQAADkmUSFqSRImSCM0l6Mc31EdzZNeRb8KJB1-koaI-iLj4AAkFMkQAQhkRAAE\n",
+        "md5sum": "aab965a1d49e307b29d9f67326635376",
+        "title": "Thunder Strike",
+        "url": null
+    },
+    {
+        "duration": 4.205714,
+        "fingerprint": "AQAADFGSR4qkJHBo4gw8Bj8O_5gUSRl-9Dv84AAkDBABUyMcMAE\n",
+        "md5sum": "bf4dd95ed002fe3c4635bdbd48619475",
+        "title": "Applause",
+        "url": null
+    }
+]

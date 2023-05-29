@@ -1,5 +1,58 @@
-{
-    "https://www.youtube.com/watch?v=0lhhrUuw2N8": "Microsoft Windows XP Error - Sound Effect (HD)",
-    "https://www.youtube.com/watch?v=4-fjuyE4fJo": "Creeper Explosion - Sound Effect",
-    "https://www.youtube.com/watch?v=qlUFWSiOXpM": "Windows 10 Error Sound"
-}
+[
+    {
+        "duration": 3.048,
+        "fingerprint": "AQAAA8moREoY4jnUPQDjIA\n",
+        "md5sum": "75bf57e5961343af84d45b9376176e25",
+        "title": "Microsoft Windows XP Error - Sound Effect (HD)",
+        "url": "https://www.youtube.com/watch?v=0lhhrUuw2N8"
+    },
+    {
+        "duration": 2.899592,
+        "fingerprint": "AQAAApGYKEkihYmCAA\n",
+        "md5sum": "04134a21538edc879d5c10cb1d2cc753",
+        "title": "creeper",
+        "url": null
+    },
+    {
+        "duration": 4.416,
+        "fingerprint": "AQAADkkkZVKkMFEQ6sLRD85v0Cx-_EN0KsJPCuJDhNsuVM6F_QBBChKCIoMUQcAoAQ\n",
+        "md5sum": "120087106e59c3bc21d6b2f6d2eddc70",
+        "title": "Creeper Explosion - Sound Effect",
+        "url": "https://www.youtube.com/watch?v=4-fjuyE4fJo"
+    },
+    {
+        "duration": 2.784,
+        "fingerprint": "AQAAAZGkJVMWJwA\n",
+        "md5sum": "3013dd5d3e34f72eda00a74bd01ad141",
+        "title": "Windows 10 Error Sound",
+        "url": "https://www.youtube.com/watch?v=qlUFWSiOXpM"
+    },
+    {
+        "duration": 2.899592,
+        "fingerprint": "AQAAApGYKEkihYmCAA\n",
+        "md5sum": "04134a21538edc879d5c10cb1d2cc753",
+        "title": "creeper",
+        "url": null
+    },
+    {
+        "duration": 4.416,
+        "fingerprint": "AQAADkkkZVKkMFEQ6sLRD85v0Cx-_EN0KsJPCuJDhNsuVM6F_QBBChKCIoMUQcAoAQ\n",
+        "md5sum": "120087106e59c3bc21d6b2f6d2eddc70",
+        "title": "Creeper Explosion - Sound Effect",
+        "url": "https://www.youtube.com/watch?v=4-fjuyE4fJo"
+    },
+    {
+        "duration": 3.048,
+        "fingerprint": "AQAAA8moREoY4jnUPQDjIA\n",
+        "md5sum": "75bf57e5961343af84d45b9376176e25",
+        "title": "Microsoft Windows XP Error - Sound Effect (HD)",
+        "url": "https://www.youtube.com/watch?v=0lhhrUuw2N8"
+    },
+    {
+        "duration": 2.784,
+        "fingerprint": "AQAAAZGkJVMWJwA\n",
+        "md5sum": "3013dd5d3e34f72eda00a74bd01ad141",
+        "title": "Windows 10 Error Sound",
+        "url": "https://www.youtube.com/watch?v=qlUFWSiOXpM"
+    }
+]

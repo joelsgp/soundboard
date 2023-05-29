@@ -1,3 +1,30 @@
-{
-    "https://www.youtube.com/watch?v=oD9nAHuZsJU": "Mmm Monke"
-}
+[
+    {
+        "duration": 1.992,
+        "fingerprint": null,
+        "md5sum": "3b4470cbe2d3b3f42213d272dcb766fc",
+        "title": "mmm monke",
+        "url": null
+    },
+    {
+        "duration": 7.656,
+        "fingerprint": "AQAAKM-kRDIqP3ii4Dx-_OhR_miTRDcuXQl-B72OHb0C5oOi_HjwD-MfPD2YoD9eZF3oQJdSBftwHb-KPosG-9CP9jmeGO_RTbmAP8ZplP2h8zsAYQAiElAjgCLECIKYIQBYZhggwBqFkFfEAAEtAYwCRwxggAACAA\n",
+        "md5sum": "c4623d6113135fd192cb077a3948f99d",
+        "title": "Mmm Monke",
+        "url": "https://www.youtube.com/watch?v=oD9nAHuZsJU"
+    },
+    {
+        "duration": 1.992,
+        "fingerprint": null,
+        "md5sum": "3b4470cbe2d3b3f42213d272dcb766fc",
+        "title": "mmm monke",
+        "url": null
+    },
+    {
+        "duration": 7.656,
+        "fingerprint": "AQAAKM-kRDIqP3ii4Dx-_OhR_miTRDcuXQl-B72OHb0C5oOi_HjwD-MfPD2YoD9eZF3oQJdSBftwHb-KPosG-9CP9jmeGO_RTbmAP8ZplP2h8zsAYQAiElAjgCLECIKYIQBYZhggwBqFkFfEAAEtAYwCRwxggAACAA\n",
+        "md5sum": "c4623d6113135fd192cb077a3948f99d",
+        "title": "Mmm Monke",
+        "url": "https://www.youtube.com/watch?v=oD9nAHuZsJU"
+    }
+]
