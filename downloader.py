@@ -5,7 +5,7 @@ import subprocess
 from argparse import ArgumentParser
 from pathlib import Path
 
-from common import AUDIO_FORMAT, INDEX_NAME, Index
+from common import AUDIO_FORMAT, INDEX_NAME, SoundsIndex
 
 
 # don't allow video
@@ -59,12 +59,12 @@ def download_urls(urls: list[str], outtmpl: str, executable: str):
 
 
 def download_index(
-    index: Index, executable: str, skip_existing: bool = True, outtmpl: str = OUTTMPL
+    index: SoundsIndex, executable: str, skip_existing: bool = True, outtmpl: str = OUTTMPL
 ) -> int:
     directory = index.directory
 
     video_urls = []
-    for video in index.index:
+    for video in index.index.values():
         if skip_existing:
             dest_name = outtmpl % video
             dest_path = directory.joinpath(dest_name)
@@ -96,7 +96,7 @@ def main():
 
     for directory in all_directories:
         print(f"Entering '{directory}'")
-        index = Index(directory)
+        index = SoundsIndex(directory)
         index.load()
         downloaded = download_index(
             index, args.yt_dl_executable, skip_existing=args.skip_existing

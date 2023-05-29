@@ -3,7 +3,7 @@
 from argparse import ArgumentParser
 from pathlib import Path
 
-from common import Index
+from common import SoundsIndex
 
 
 def get_parser() -> ArgumentParser:
@@ -29,7 +29,7 @@ def parse_args() -> Args:
 
 def main():
     args = parse_args()
-
+    # todo refactor
     all_directories = []
     if args.recursive:
         for directory in args.directory:
@@ -40,7 +40,7 @@ def main():
 
     for directory in all_directories:
         print(f"Entering '{directory}'")
-        index = Index(directory)
+        index = SoundsIndex(directory)
         if args.preserve:
             index.load()
         indexed = index.index_directory()

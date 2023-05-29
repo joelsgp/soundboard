@@ -55,27 +55,30 @@ def fpcalc(file_path: Path) -> str:
     return fingerprint
 
 
-class Index:
+class SoundsIndex:
     def __init__(self, directory: Path, file_path: Path = None):
         self.directory = directory
         if file_path is None:
             file_path = self.directory.joinpath(INDEX_NAME)
         self.file_path = file_path
 
-        self.index: list[Video] = []
+        self.index: dict[str, Video] = {}
 
     def load(self):
         with open(self.file_path, "r", encoding="utf-8") as fp:
-            self.index = json.load(fp)
+            videos = json.load(fp)
+        for v in videos:
+            self.index[v["title"]] = v
 
     def save(self):
+        videos = list(self.index.values())
         with open(self.file_path, "w", encoding="utf-8") as fp:
-            json.dump(self.index, fp, ensure_ascii=False, indent=4, sort_keys=True)
+            json.dump(videos, fp, ensure_ascii=False, indent=4, sort_keys=True)
             fp.write("\n")
 
     def index_file(self, file_path: Path):
         try:
-            duration, purl = ffprobe(file_path)
+            duration, url = ffprobe(file_path)
         except subprocess.CalledProcessError:
             print(f"Not a valid '{AUDIO_FORMAT}' file: {file_path}", file=sys.stderr)
             return
@@ -89,14 +92,15 @@ class Index:
             # noinspection PyTypeChecker
             md5sum = hashlib.file_digest(f, hashlib.md5).hexdigest()
 
+        title = file_path.stem
         video = Video(
-            title=file_path.stem,
+            title=title,
             duration=duration,
             md5sum=md5sum,
             fingerprint=fingerprint,
-            url=purl,
+            url=url,
         )
-        self.index.append(video)
+        self.index[title] = video
 
     def index_directory(self, ignore_hidden: bool = True) -> int:
         if ignore_hidden:
