@@ -28,7 +28,9 @@ def get_parser() -> ArgumentParser:
     parser = ArgumentParser()
     parser.add_argument("directory", nargs="+", type=Path)
     parser.add_argument("--no-recurse", dest="recursive", action="store_false")
-    parser.add_argument("--no-skip-existing", dest="skip_existing", action="store_false")
+    parser.add_argument(
+        "--no-skip-existing", dest="skip_existing", action="store_false"
+    )
     parser.add_argument("--yt-dl-executable", type=shutil.which, default=YT_DL_NAME)
     return parser
 
@@ -56,7 +58,9 @@ def download_urls(urls: list[str], outtmpl: str, executable: str):
     subprocess.run(args)
 
 
-def download_index(index: Index, executable: str, skip_existing: bool = True, outtmpl: str = OUTTMPL):
+def download_index(
+    index: Index, executable: str, skip_existing: bool = True, outtmpl: str = OUTTMPL
+):
     directory = index.directory
 
     video_ids = []

@@ -7,7 +7,6 @@ from pathlib import Path
 # Soundux doesn't support ogg or opus >:(
 AUDIO_FORMAT = "mp3"
 AUDIO_SUFFIX = ".mp3"
-
 INDEX_NAME = "index.json"
 
 
@@ -16,12 +15,21 @@ VideoTitle = str
 IndexDict = dict[VideoUrl, VideoTitle]
 
 
+class VideoWithUrl:
+    def __init__(self, url: VideoUrl, title: VideoTitle):
+        self.url = url
+        self.title = title
+
+
 def get_purl_ffprobe(file_path: Path) -> str:
     args = [
         "ffprobe",
-        "-loglevel", "error",
-        "-print_format", "json",
-        "-show_entries", "format_tags=purl",
+        "-loglevel",
+        "error",
+        "-print_format",
+        "json",
+        "-show_entries",
+        "format_tags=purl",
         str(file_path),
     ]
     stdout = subprocess.check_output(args, text=True)
@@ -37,24 +45,37 @@ class Index:
             file_path = self.directory.joinpath(INDEX_NAME)
         self.file_path = file_path
 
-        self.index: IndexDict = {}
+        self._index_with_urls: list[VideoWithUrl] = []
+
+    @property
+    def index(self) -> IndexDict:
+        return {v.url: v.title for v in self._index_with_urls}
 
     def load(self):
         with open(self.file_path, "r", encoding="utf-8") as fp:
-            self.index = json.load(fp)
+            obj: IndexDict = json.load(fp)
+        for url, title in obj.items():
+            video = VideoWithUrl(url, title)
+            self._index_with_urls.append(video)
 
     def save(self):
         with open(self.file_path, "w", encoding="utf-8") as fp:
             json.dump(self.index, fp, ensure_ascii=False, indent=4, sort_keys=True)
             fp.write("\n")
 
-    def index_file(self, file_path: Path):
-        try:
-            video_url = get_purl_ffprobe(file_path)
-        except KeyError:
-            return
+    def index_file_with_url(self, file_path: Path):
+        video_url = get_purl_ffprobe(file_path)
         video_title = file_path.stem
         self.index[video_url] = video_title
+
+    def index_file_no_url(self, file_path: Path):
+        pass
+
+    def index_file(self, file_path: Path):
+        try:
+            self.index_file_with_url(file_path)
+        except KeyError:
+            return
 
     def index_directory(self, ignore_hidden: bool = True) -> tuple[int, int]:
         files_processed = 0
