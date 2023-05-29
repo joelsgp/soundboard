@@ -27,18 +27,24 @@ def parse_args() -> Args:
     return args
 
 
+def expand_directories(directories: list[Path]):
+    all_directories = []
+    for directory in directories:
+        glob = directory.rglob("*")
+        inner_directories = (p for p in glob if p.is_dir())
+        all_directories.extend(inner_directories)
+
+    directories.extend(all_directories)
+
+
 def main():
     args = parse_args()
-    # todo refactor
-    all_directories = []
-    if args.recursive:
-        for directory in args.directory:
-            glob = directory.rglob("*")
-            inner_directories = (p for p in glob if p.is_dir())
-            all_directories.extend(inner_directories)
-    all_directories.extend(args.directory)
 
-    for directory in all_directories:
+    directories = args.directory
+    if args.recursive:
+        expand_directories(directories)
+
+    for directory in directories:
         print(f"Entering '{directory}'")
         index = SoundsIndex(directory)
         if args.preserve:
