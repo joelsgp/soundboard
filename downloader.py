@@ -7,15 +7,13 @@ from pathlib import Path
 
 from common import AUDIO_FORMAT, INDEX_NAME, Index
 
-# TODO FIX
-
 
 # don't allow video
 FORMAT = "bestaudio"
 # allow video
 # FORMAT = "bestaudio*"
 
-OUTTMPL = "%(title)s.%(ext)s"
+OUTTMPL = f"%(title)s.{AUDIO_FORMAT}"
 
 YT_DL_ARGS = (
     "--embed-metadata",
@@ -62,22 +60,26 @@ def download_urls(urls: list[str], outtmpl: str, executable: str):
 
 def download_index(
     index: Index, executable: str, skip_existing: bool = True, outtmpl: str = OUTTMPL
-):
+) -> int:
     directory = index.directory
 
-    video_ids = []
-    for k, v in index.index.items():
+    video_urls = []
+    for video in index.index:
         if skip_existing:
-            dest_name = outtmpl % {"title": v, "id": k, "ext": AUDIO_FORMAT}
+            dest_name = outtmpl % video
             dest_path = directory.joinpath(dest_name)
             if dest_path.is_file():
                 print(f"Already downloaded: {dest_path}")
+                continue
 
-        video_ids.append(k)
+        if video["url"] is not None:
+            video_urls.append(video["url"])
 
-    if video_ids:
+    if video_urls:
         outtmpl_directory = directory.joinpath(outtmpl)
-        download_urls(video_ids, str(outtmpl_directory), executable)
+        download_urls(video_urls, str(outtmpl_directory), executable)
+
+    return len(video_urls)
 
 
 def main():
@@ -96,7 +98,10 @@ def main():
         print(f"Entering '{directory}'")
         index = Index(directory)
         index.load()
-        download_index(index, args.yt_dl_executable, skip_existing=args.skip_existing)
+        downloaded = download_index(
+            index, args.yt_dl_executable, skip_existing=args.skip_existing
+        )
+        print(f"'{directory}': {downloaded}")
 
 
 if __name__ == "__main__":

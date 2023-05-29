@@ -30,14 +30,13 @@ def parse_args() -> Args:
 def main():
     args = parse_args()
 
+    all_directories = []
     if args.recursive:
-        all_directories = []
         for directory in args.directory:
             glob = directory.rglob("*")
             inner_directories = (p for p in glob if p.is_dir())
             all_directories.extend(inner_directories)
-    else:
-        all_directories = args.directory
+    all_directories.extend(args.directory)
 
     for directory in all_directories:
         print(f"Entering '{directory}'")
