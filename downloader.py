@@ -7,7 +7,6 @@ from pathlib import Path
 
 from common import AUDIO_FORMAT, INDEX_NAME, SoundsIndex
 
-
 # don't allow video
 FORMAT = "bestaudio"
 # allow video
@@ -59,7 +58,10 @@ def download_urls(urls: list[str], outtmpl: str, executable: str):
 
 
 def download_index(
-    index: SoundsIndex, executable: str, skip_existing: bool = True, outtmpl: str = OUTTMPL
+    index: SoundsIndex,
+    executable: str,
+    skip_existing: bool = True,
+    outtmpl: str = OUTTMPL,
 ) -> int:
     directory = index.directory
 

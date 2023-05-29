@@ -2,11 +2,9 @@ import hashlib
 import json
 import subprocess
 import sys
-
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from typing import Optional, TypedDict
-
 
 # Soundux doesn't support ogg or opus >:(
 AUDIO_FORMAT = "mp3"
@@ -52,6 +50,7 @@ def ffprobe(file_path: Path) -> tuple[float, Optional[str]]:
 def fpcalc(file_path: Path) -> str:
     args = ["fpcalc", "-plain", "-format", AUDIO_FORMAT, str(file_path)]
     fingerprint = subprocess.check_output(args, text=True, stderr=subprocess.PIPE)
+    fingerprint = fingerprint.removesuffix("\n")
     return fingerprint
 
 
