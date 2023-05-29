@@ -51,7 +51,7 @@ def ffprobe(file_path: Path) -> tuple[float, Optional[str]]:
 
 def fpcalc(file_path: Path) -> str:
     args = ["fpcalc", "-plain", "-format", AUDIO_FORMAT, str(file_path)]
-    fingerprint = subprocess.check_output(args, text=True)
+    fingerprint = subprocess.check_output(args, text=True, stderr=subprocess.PIPE)
     return fingerprint
 
 
