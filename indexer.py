@@ -44,9 +44,9 @@ def main():
         index = Index(directory)
         if args.preserve:
             index.load()
-        processed, indexed = index.index_directory()
+        indexed = index.index_directory()
         index.save()
-        print(f"'{directory}': {indexed}/{processed}")
+        print(f"'{directory}': {indexed}")
 
 
 if __name__ == "__main__":

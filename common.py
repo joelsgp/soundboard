@@ -13,10 +13,18 @@ AUDIO_SUFFIX = ".mp3"
 INDEX_NAME = "index.json"
 
 
-Video = TypedDict("Video", {"title": str, "duration": float, "fingerprint": str, "url": Optional[str]})
+Video = TypedDict(
+    "Video",
+    {
+        "title": str,
+        "duration": float,
+        "fingerprint": Optional[str],
+        "url": Optional[str],
+    },
+)
 
 
-def get_purl_ffprobe(file_path: Path) -> str:
+def ffprobe(file_path: Path) -> tuple[float, Optional[str]]:
     args = [
         "ffprobe",
         "-loglevel",
@@ -24,28 +32,25 @@ def get_purl_ffprobe(file_path: Path) -> str:
         "-print_format",
         "json",
         "-show_entries",
-        "format_tags=purl",
+        "format=duration:format_tags=purl",
         "-f",
         AUDIO_FORMAT,
         str(file_path),
     ]
     stdout = subprocess.check_output(args, text=True)
     obj = json.loads(stdout)
-    purl = obj["format"]["tags"]["purl"]
-    return purl
+    duration = float(obj["format"]["duration"])
+    try:
+        purl = obj["format"]["tags"]["purl"]
+    except KeyError:
+        purl = None
+    return duration, purl
 
 
-def fpcalc(file_path: Path) -> tuple[float, str]:
-    args = [
-        "fpcalc",
-        "-json",
-        str(file_path)
-    ]
-    stdout = subprocess.check_output(args, text=True)
-    obj = json.loads(stdout)
-    duration = obj["duration"]
-    fingerprint = obj["fingerprint"]
-    return duration, fingerprint
+def fpcalc(file_path: Path) -> str:
+    args = ["fpcalc", "-plain", "-format", AUDIO_FORMAT, str(file_path)]
+    fingerprint = subprocess.check_output(args, text=True)
+    return fingerprint
 
 
 class Index:
@@ -68,20 +73,22 @@ class Index:
 
     def index_file(self, file_path: Path):
         try:
-            url = get_purl_ffprobe(file_path)
+            duration, purl = ffprobe(file_path)
         except subprocess.CalledProcessError:
             print(f"Not a valid '{AUDIO_FORMAT}' file: {file_path}", file=sys.stderr)
             return
-        except KeyError:
-            # audio is valid but doesn't have url metadata
-            url = None
 
-        duration, fingerprint = fpcalc(file_path)
-        video = Video(title=file_path.stem, duration=duration, fingerprint=fingerprint, url=url)
+        try:
+            fingerprint = fpcalc(file_path)
+        except subprocess.CalledProcessError:
+            fingerprint = None
+
+        video = Video(
+            title=file_path.stem, duration=duration, fingerprint=fingerprint, url=purl
+        )
         self.index.append(video)
 
     def index_directory(self, ignore_hidden: bool = True) -> int:
-
         if ignore_hidden:
             glob = f"[!.]*{AUDIO_SUFFIX}"
         else:

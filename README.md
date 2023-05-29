@@ -18,6 +18,7 @@ to do:
 [x] index non-youtube files in a subobject
     [x] acoustid fingerprints
 [x] downloader - ignore already downloaded files before sending to ytdl
+[ ] script to delete all indexed files?
 
 
 windows lnks:
