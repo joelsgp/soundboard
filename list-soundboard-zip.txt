@@ -1,0 +1,290 @@
+-rw-rw-r--  0 0      0        9876 Jul  1  2021 palette.ini
+drwxrwxr-x  0 0      0           0 Jun 30  2021 Sound Board/
+-rw-rw-r--  0 0      0   201654272 Jun 29  2021 Sound Board/bruh.aup3
+drwxrwxr-x  0 0      0           0 Jan 31  2021 Sound Board/jingle_palette/
+-rw-rw-r--  0 0      0         323 Jan 31  2021 Sound Board/jingle_palette/File_id.diz
+-rw-rw-r--  0 0      0        5875 Jan 31  2021 Sound Board/jingle_palette/readme.txt
+-rw-rw-r--  0 0      0     8418968 Jan 31  2021 Sound Board/jingle_palette/setup_jingle_palette_v445.exe
+-rw-rw-r--  0 0      0         506 Jun 29  2021 Sound Board/mp3_convert_r.py
+drwxrwxr-x  0 0      0           0 Jun 30  2021 Sound Board/Sound Bites/
+-rw-rw-r--  0 0      0       29421 Jun 29  2021 Sound Board/Sound Bites/audiojungle.mp3
+drwxrwxr-x  0 0      0           0 May  5  2021 Sound Board/Sound Bites/be like/
+-rw-rw-r--  0 0      0       59653 May 30  2013 Sound Board/Sound Bites/be like/34B77E59-BE20-4E97-82EE-364EFFF6E061-5744-000003456D7A9333_1.1.2-34B77E59-BE20-4E97-82EE-364EFFF6E061-5744-000003456D7A9333_1.1.2.mp3
+-rw-rw-r--  0 0      0       12239 May  5  2021 Sound Board/Sound Bites/be like/black ppl be like.mp3
+-rw-rw-r--  0 0      0       11405 May  5  2021 Sound Board/Sound Bites/be like/white ppl be like.mp3
+-rw-rw-r--  0 0      0       29037 Jun 29  2021 Sound Board/Sound Bites/Big big chungus.mp3
+-rw-rw-r--  0 0      0       16365 Jun 29  2021 Sound Board/Sound Bites/Big chungus.mp3
+-rw-rw-r--  0 0      0       88442 Jun 29  2021 Sound Board/Sound Bites/Boneless Pizza Sound Effect-c02Jo5GR2dU.mp3
+-rw-rw-r--  0 0      0       78957 Jun 29  2021 Sound Board/Sound Bites/Bro you just posted Cringe you are going to lose subscriber Dr Robotnik-7i9CUvlfby0.mp3
+-rw-rw-r--  0 0      0        8612 Jun 29  2021 Sound Board/Sound Bites/Bruh Sound Effect #2-2ZIpFytCSVc.mp3
+drwxrwxr-x  0 0      0           0 Jun 30  2021 Sound Board/Sound Bites/classics/
+-rw-rw-r--  0 0      0       17050 Jun 29  2021 Sound Board/Sound Bites/classics/Applause.mp3
+-rw-rw-r--  0 0      0        8482 Jun 29  2021 Sound Board/Sound Bites/classics/Ba Dum Tss.mp3
+-rw-rw-r--  0 0      0       28269 Jun 29  2021 Sound Board/Sound Bites/classics/Cartoon Running - Sound Effect (HD)-igSHbtv52G4.mp3
+-rw-rw-r--  0 0      0       16527 Jun 29  2021 Sound Board/Sound Bites/classics/Darth Vader NOOOOO.mp3
+-rw-rw-r--  0 0      0       22797 Jun 29  2021 Sound Board/Sound Bites/classics/Evil Laugh.mp3
+-rw-rw-r--  0 0      0       15483 Jun 29  2021 Sound Board/Sound Bites/classics/Laugh Track.mp3
+-rw-rw-r--  0 0      0       17259 Jun 29  2021 Sound Board/Sound Bites/classics/Sad Trombone.mp3
+-rw-rw-r--  0 0      0       17990 Jun 29  2021 Sound Board/Sound Bites/classics/Thunder Strike.mp3
+-rw-rw-r--  0 0      0        5138 Jun 29  2021 Sound Board/Sound Bites/classics/Wilhelm Scream.mp3
+drwxrwxr-x  0 0      0           0 Jun 29  2021 Sound Board/Sound Bites/dababy/
+-rw-rw-r--  0 0      0       23658 Jun 29  2021 Sound Board/Sound Bites/dababy/Dababy Let's Go Sound Effect-HFdm5NEvtP8.mp3
+-rw-rw-r--  0 0      0       23240 Jun 29  2021 Sound Board/Sound Bites/Doot Doot - Mr Skeltal Original-WTWyosdkx44.mp3
+-rw-rw-r--  0 0      0       24074 Apr  6  2021 Sound Board/Sound Bites/Dramatic Vine_Instagram Boom - Sound Effect (HD)-TApmI8YtYhc.mp3
+-rw-rw-r--  0 0      0       12452 Jun 29  2021 Sound Board/Sound Bites/DUN DUN DUUUNN.mp3
+-rw-rw-r--  0 0      0      157823 Jun 29  2021 Sound Board/Sound Bites/engineer gaming-B3N9rU6dJ5s.mp3
+-rw-rw-r--  0 0      0       34107 Jun 29  2021 Sound Board/Sound Bites/explosion.mp3
+drwxrwxr-x  0 0      0           0 Jun 30  2021 Sound Board/Sound Bites/fock/
+-rw-rw-r--  0 0      0        1447 Feb 21  2021 Sound Board/Sound Bites/fock/1 bash.wav - Shortcut.lnk
+-rw-rw-r--  0 0      0        1447 Feb 21  2021 Sound Board/Sound Bites/fock/2 bash.wav - Shortcut.lnk
+-rw-rw-r--  0 0      0        1447 Feb 21  2021 Sound Board/Sound Bites/fock/3 fock.wav - Shortcut.lnk
+-rw-rw-r--  0 0      0       30764 Jun 29  2021 Sound Board/Sound Bites/fock/fock.mp3
+-rw-rw-r--  0 0      0      196077 Jun 29  2021 Sound Board/Sound Bites/Gangsta's Paradise Choir Sound Effect-hK20d1hWnqE.mp3
+-rw-rw-r--  0 0      0       10605 Jun 29  2021 Sound Board/Sound Bites/goku drip.mp3
+-rw-rw-r--  0 0      0      188898 May 16  2021 Sound Board/Sound Bites/hackerman.mp3
+-rw-rw-r--  0 0      0       13302 Feb 10  2021 Sound Board/Sound Bites/hey-beter-mp3cut.mp3
+-rw-rw-r--  0 0      0        4461 Jun 29  2021 Sound Board/Sound Bites/hotel mario note 1 one.mp3
+-rw-rw-r--  0 0      0       24912 Jun 29  2021 Sound Board/Sound Bites/I boutta go to bed.mp3
+-rw-rw-r--  0 0      0       41071 Dec 20  2020 Sound Board/Sound Bites/I like ya cut g-ERvofdiuJxA.mp3
+-rw-rw-r--  0 0      0       50408 Jun 29  2021 Sound Board/Sound Bites/Inception [Sound Effect]-1p-DA0zvuQ8.mp3
+-rw-rw-r--  0 0      0       96801 Jun 29  2021 Sound Board/Sound Bites/It Is Wednesday My Dudes Vine-du-TY1GUFGk.mp3
+-rw-rw-r--  0 0      0      130029 Jun 29  2021 Sound Board/Sound Bites/J. Jonah Jameson Laughing-NIgfiSzCy1o.mp3
+-rw-rw-r--  0 0      0       35361 Jun 29  2021 Sound Board/Sound Bites/James May says cheese.-SyimUCBIo6c.mp3
+drwxrwxr-x  0 0      0           0 Jun 29  2021 Sound Board/Sound Bites/john madden/
+-rw-rw-r--  0 0      0       11537 Jun 29  2021 Sound Board/Sound Bites/john madden/aeiou.mp3
+-rw-rw-r--  0 0      0      413196 Jun 29  2021 Sound Board/Sound Bites/john madden/daisy daisy.mp3
+-rw-rw-r--  0 0      0       13209 Jun 29  2021 Sound Board/Sound Bites/john madden/football.mp3
+-rw-rw-r--  0 0      0       17807 Jun 29  2021 Sound Board/Sound Bites/john madden/john madden.mp3
+drwxrwxr-x  0 0      0           0 Jun 30  2021 Sound Board/Sound Bites/joker babey/
+-rw-rw-r--  0 0      0       37923 Jun 12  2021 Sound Board/Sound Bites/joker babey/'WE LIVE IN A SOCIETY' - Joker (Zack Snyder's Justice League 2021)-0Im_MEOxC7Y.mp3
+-rw-rw-r--  0 0      0       57453 Jun 29  2021 Sound Board/Sound Bites/joker babey/AAAAAAAAAAAAAAA (tommy wiseau).mp3
+-rw-rw-r--  0 0      0     1504070 Jun 29  2021 Sound Board/Sound Bites/joker babey/Do you want to know how i got these scars--8rv8WbqAHk.mp3
+-rw-rw-r--  0 0      0       80109 Jun 29  2021 Sound Board/Sound Bites/joker babey/I'm the joker babey.mp3
+-rw-rw-r--  0 0      0     2262248 Jun 29  2021 Sound Board/Sound Bites/joker babey/Joker Kitchen - Crazy Hamburger-pVbtFP40E50.mp3
+-rw-rw-r--  0 0      0       18225 Jun 29  2021 Sound Board/Sound Bites/joker babey/Joker says society-j_fnXomQxk0.mp3
+-rw-rw-r--  0 0      0      149229 Jun 29  2021 Sound Board/Sound Bites/joker babey/Let me introduce you to the new joker.mp3
+-rw-rw-r--  0 0      0     1606125 Jun 29  2021 Sound Board/Sound Bites/joker babey/My JOKER Performance-sPpWzS3nCwM.mp3
+-rw-rw-r--  0 0      0     2793069 Jun 29  2021 Sound Board/Sound Bites/joker babey/Tommy Wiseau’s Joker Audition Tape (Nerdist Presents)-eFjFxgHedgM.mp3
+-rw-rw-r--  0 0      0      159213 Jun 29  2021 Sound Board/Sound Bites/joker babey/wanna know how I got these scars (drew russell).mp3
+-rw-rw-r--  0 0      0       37869 Jun 29  2021 Sound Board/Sound Bites/joker babey/What a joker (Original)-UBCORUNqPu8.mp3
+drwxrwxr-x  0 0      0           0 Jun 29  2021 Sound Board/Sound Bites/keanu/
+-rw-rw-r--  0 0      0       71724 Jun 29  2021 Sound Board/Sound Bites/keanu/keanu 1.mp3
+-rw-rw-r--  0 0      0       42884 Jun 29  2021 Sound Board/Sound Bites/keanu/keanu 2.mp3
+-rw-rw-r--  0 0      0       47064 Jun 29  2021 Sound Board/Sound Bites/keanu/keanu 3.mp3
+-rw-rw-r--  0 0      0       38287 Jun 29  2021 Sound Board/Sound Bites/keanu/keanu 4.mp3
+-rw-rw-r--  0 0      0      124804 Jun 29  2021 Sound Board/Sound Bites/keanu/keanu 5.mp3
+-rw-rw-r--  0 0      0      321663 Jun 29  2021 Sound Board/Sound Bites/keanu/Keanu Reeves Is Extremely Horny (Cyberpunk 2077 Trailer Meme)-eDnsNsObNUU.mp3
+drwxrwxr-x  0 0      0           0 Jun 29  2021 Sound Board/Sound Bites/metal gear/
+-rw-rw-r--  0 0      0       28256 Jun 29  2021 Sound Board/Sound Bites/Metal Gear Solid - Alert (!)-2P5qbcRAXVk.mp3
+-rw-rw-r--  0 0      0      114669 Jun 29  2021 Sound Board/Sound Bites/metal gear/A Hind D!-TSKnHP5nuTo.mp3
+-rw-rw-r--  0 0      0       24045 Jun 29  2021 Sound Board/Sound Bites/metal gear/a hind d.mp3
+-rw-rw-r--  0 0      0       72559 Jun 29  2021 Sound Board/Sound Bites/metal gear/Metal Gear! It can't be!-6vL_RmSoOTc.mp3
+-rw-rw-r--  0 0      0       18669 Jun 29  2021 Sound Board/Sound Bites/metal gear/psycho mantis.mp3
+-rw-rw-r--  0 0      0        2098 Feb 10  2021 Sound Board/Sound Bites/metal gear/Supercut - Snake Asking Unnecessary Questions-cGOb1TcO-8o.wav - Shortcut.lnk
+-rw-rw-r--  0 0      0        1554 Jan 29  2021 Sound Board/Sound Bites/mgsv casette click.lnk
+-rw-rw-r--  0 0      0        6381 Jun 29  2021 Sound Board/Sound Bites/Minecraft Alpha Damage - Sound Effect.mp3
+drwxrwxr-x  0 0      0           0 Jun 30  2021 Sound Board/Sound Bites/monke/
+-rw-rw-r--  0 0      0       38827 Jun 14  2021 Sound Board/Sound Bites/monke/mmm monke.mp3
+-rw-rw-r--  0 0      0      110733 May  2  2021 Sound Board/Sound Bites/monke/Mmm Monkey-oD9nAHuZsJU.mp3
+drwxrwxr-x  0 0      0           0 Jun 30  2021 Sound Board/Sound Bites/monty python/
+-rw-rw-r--  0 0      0       17807 Jun 29  2021 Sound Board/Sound Bites/monty python/be quiet.mp3
+-rw-rw-r--  0 0      0      173421 Jun 29  2021 Sound Board/Sound Bites/monty python/Get on with it! (Monty Python)-sXE8LdXzeHM.mp3
+-rw-rw-r--  0 0      0     3148321 Jun 29  2021 Sound Board/Sound Bites/monty python/Monty Python - Constitutional Peasants Scene (HD)-t2c-X8HiBng.mp3
+-rw-rw-r--  0 0      0       71724 Jun 29  2021 Sound Board/Sound Bites/monty python/shut up will you shut up.mp3
+-rw-rw-r--  0 0      0      202127 Jun 29  2021 Sound Board/Sound Bites/monty python/shut up! (come and see the violence inherent in the system).mp3
+-rw-rw-r--  0 0      0       14463 Jun 29  2021 Sound Board/Sound Bites/monty python/shut up.mp3
+-rw-rw-r--  0 0      0       16971 Jun 29  2021 Sound Board/Sound Bites/My Name is Jeff - Sound Effect (HD)-_nce9A5S5uM.mp3
+-rw-rw-r--  0 0      0        9030 Jun 29  2021 Sound Board/Sound Bites/neil cic says swag.mp3
+-rw-rw-r--  0 0      0       29092 Jun 29  2021 Sound Board/Sound Bites/oh hey (couldn't skype tonight).mp3
+-rw-rw-r--  0 0      0      130238 Jun 29  2021 Sound Board/Sound Bites/Okay, That's All The Time I've Got - Reggie Animal Crossing New Leaf-V1EHtX7ykEY.mp3
+-rw-rw-r--  0 0      0        4461 Jun 29  2021 Sound Board/Sound Bites/op.mp3
+-rw-rw-r--  0 0      0        9448 Jun 29  2021 Sound Board/Sound Bites/Pingas SFX-AxKEG7U8ENs.mp3
+-rw-rw-r--  0 0      0       66290 Jun 29  2021 Sound Board/Sound Bites/Psycho Violin Screech-vfthzU3V4zo.mp3
+drwxrwxr-x  0 0      0           0 Jun 30  2021 Sound Board/Sound Bites/ramsay/
+-rw-rw-r--  0 0      0      111386 Mar  6  2021 Sound Board/Sound Bites/ramsay/Gordon Ramsay- You Donkey-cSC87CI7yH4.mp3
+-rw-rw-r--  0 0      0      128566 Jun 29  2021 Sound Board/Sound Bites/ramsay/Hell's Kitchen _ Kitchen Nightmares Dramatic Sound Effect (Waterphone)-SFtLvkqHIds.mp3
+-rw-rw-r--  0 0      0      165346 Jun 29  2021 Sound Board/Sound Bites/ramsay/[ORIGINAL] Gordon Ramsey - THE BASS IS F_ING RAW!!!!!!-l2gEK64fc6c.mp3
+-rw-rw-r--  0 0      0      164589 Jun 29  2021 Sound Board/Sound Bites/Rick Astley - Bro you just posted cringe!-Jrru9SHCPqc.mp3
+-rw-rw-r--  0 0      0        6381 Jun 29  2021 Sound Board/Sound Bites/Roblox Death Sound - OOF Sound Effect.mp3
+-rw-rw-r--  0 0      0       12525 Jun 29  2021 Sound Board/Sound Bites/sans.mp3
+-rw-rw-r--  0 0      0       21986 Jun 29  2021 Sound Board/Sound Bites/Soulja Boy YOUUU -  Sound Effect-J6OmF4wL3b4.mp3
+drwxrwxr-x  0 0      0           0 Jun 29  2021 Sound Board/Sound Bites/trick noises/
+-rw-rw-r--  0 0      0       71724 Jun 29  2021 Sound Board/Sound Bites/trick noises/Creeper Explosion - Sound Effect-4-fjuyE4fJo.mp3
+-rw-rw-r--  0 0      0       23440 Jun 29  2021 Sound Board/Sound Bites/trick noises/creeper.mp3
+-rw-rw-r--  0 0      0       49990 Jun 29  2021 Sound Board/Sound Bites/trick noises/Microsoft Windows XP Error - Sound Effect (HD)-0lhhrUuw2N8.mp3
+-rw-rw-r--  0 0      0       45392 Jun 29  2021 Sound Board/Sound Bites/trick noises/Windows 10 Error Sound-qlUFWSiOXpM.mp3
+-rw-rw-r--  0 0      0       60439 Jun 29  2021 Sound Board/Sound Bites/Urine and Feces-wuvmEDtiyRI.mp3
+drwxrwxr-x  0 0      0           0 Jun 29  2021 Sound Board/Sound Bites/video games/
+-rw-rw-r--  0 0      0       28873 Jun 29  2021 Sound Board/Sound Bites/video games/advisor_notification_colonization_progress_01.mp3
+-rw-rw-r--  0 0      0       25110 Jun 29  2021 Sound Board/Sound Bites/video games/advisor_notification_colony_established_01.mp3
+-rw-rw-r--  0 0      0       11710 Jun 29  2021 Sound Board/Sound Bites/video games/advisor_notification_construction_complete_01.mp3
+-rw-rw-r--  0 0      0       22185 Jun 29  2021 Sound Board/Sound Bites/video games/advisor_notification_discovery_detected_01.mp3
+-rw-rw-r--  0 0      0       25528 Jun 29  2021 Sound Board/Sound Bites/video games/advisor_notification_research_complete_01.mp3
+-rw-rw-r--  0 0      0       22603 Jun 29  2021 Sound Board/Sound Bites/video games/advisor_notification_ships_upgraded_01.mp3
+-rw-rw-r--  0 0      0       14009 Jun 29  2021 Sound Board/Sound Bites/video games/advisor_notification_special_project_complete_01.mp3
+-rw-rw-r--  0 0      0       14009 Jun 29  2021 Sound Board/Sound Bites/video games/advisor_notification_system_survey_complete_01.mp3
+drwxrwxr-x  0 0      0           0 May 29  2021 Sound Board/Sound Bites/video games/cookie clicker/
+-rw-rw-r--  0 0      0       30563 May 29  2021 Sound Board/Sound Bites/video games/cookie clicker/chime.mp3
+-rw-rw-r--  0 0      0      312909 Feb 21  2019 Sound Board/Sound Bites/video games/Farewell.-N6hVmn9FM7o.mp3
+-rw-rw-r--  0 0      0       10702 Jun 29  2021 Sound Board/Sound Bites/video games/farewell.mp3
+drwxrwxr-x  0 0      0           0 Jun 29  2021 Sound Board/Sound Bites/video games/kanye quest/
+-rw-rw-r--  0 0      0       31341 Jun 29  2021 Sound Board/Sound Bites/video games/kanye quest/don't let me into my zone.mp3
+-rw-rw-r--  0 0      0    10448365 May 28  2018 Sound Board/Sound Bites/video games/kanye quest/Kanye Quest-eYG8almTvJo.opus
+drwxrwxr-x  0 0      0           0 Apr 26  2021 Sound Board/Sound Bites/video games/metal gear/
+-rw-rw-r--  0 0      0      106513 Apr 26  2021 Sound Board/Sound Bites/video games/metal gear/THAT RIGHT THERE IS WHY YOU'RE THE BEST BOSS-V6O-vBVCbg0.mp3
+drwxrwxr-x  0 0      0           0 May 19  2021 Sound Board/Sound Bites/video games/MOAGUS/
+-rw-rw-r--  0 0      0      173277 Apr 12  2021 Sound Board/Sound Bites/video games/MOAGUS/AMOGUS Sound effect-C7aGuETBzw8.mp3
+-rw-rw-r--  0 0      0       55892 Jan 22  2021 Sound Board/Sound Bites/video games/MOAGUS/Danger Alarm Meme Sound Effect-8-pOCeuXhDM.mp3
+-rw-rw-r--  0 0      0       10753 Mar 26  2021 Sound Board/Sound Bites/video games/MOAGUS/Guy Yelling Among Us Sound Effect-4KfC923EFsY.mp3
+-rw-rw-r--  0 0      0        1277 Apr 25  2021 Sound Board/Sound Bites/video games/sound - Shortcut.lnk
+-rw-rw-r--  0 0      0       36197 Jun 29  2021 Sound Board/Sound Bites/Vsauce - Hey Vsauce, Michael Here - Sound Effect-sk-_UnBRLcI.mp3
+-rw-rw-r--  0 0      0      175341 Jun 29  2021 Sound Board/Sound Bites/yooooooooooo-VKMw2it8dQY.mp3
+drwxrwxr-x  0 0      0           0 Jun 30  2021 Sound Board/Sound Bites/ytp sexer/
+-rw-rw-r--  0 0      0        7917 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/ake my money.mp3
+drwxrwxr-x  0 0      0           0 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/
+-rw-rw-r--  0 0      0          40 Feb 26  2021 Sound Board/Sound Bites/ytp sexer/amp.bat
+-rw-rw-r--  0 0      0         186 Feb 26  2021 Sound Board/Sound Bites/ytp sexer/amp.py
+-rw-rw-r--  0 0      0        7917 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/ake my money.mp3
+-rw-rw-r--  0 0      0       13677 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/ass.mp3
+-rw-rw-r--  0 0      0       11757 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/big mouth 2.mp3
+-rw-rw-r--  0 0      0       26349 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/big mouth slow.mp3
+-rw-rw-r--  0 0      0       13293 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/big mouth.mp3
+-rw-rw-r--  0 0      0        7917 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/bitch 2.mp3
+-rw-rw-r--  0 0      0        5997 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/bitch.mp3
+-rw-rw-r--  0 0      0        6381 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/cmere.mp3
+-rw-rw-r--  0 0      0       13677 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/explosion.mp3
+-rw-rw-r--  0 0      0       15213 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/fuck you.mp3
+-rw-rw-r--  0 0      0       34413 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/piano.mp3
+-rw-rw-r--  0 0      0       20205 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/shut the fuck u.mp3
+-rw-rw-r--  0 0      0        9453 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/toy story music 2.mp3
+-rw-rw-r--  0 0      0       21741 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/toy story music.mp3
+-rw-rw-r--  0 0      0       16749 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/up your ass.mp3
+-rw-rw-r--  0 0      0       15981 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/uv you the slow.mp3
+-rw-rw-r--  0 0      0       10221 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/amp/uv you the.mp3
+-rw-rw-r--  0 0      0       13677 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/ass.mp3
+-rw-rw-r--  0 0      0       11757 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/big mouth 2.mp3
+-rw-rw-r--  0 0      0       26349 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/big mouth slow.mp3
+-rw-rw-r--  0 0      0       13293 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/big mouth.mp3
+-rw-rw-r--  0 0      0        7917 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/bitch 2.mp3
+-rw-rw-r--  0 0      0        5997 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/bitch.mp3
+-rw-rw-r--  0 0      0        6381 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/cmere.mp3
+-rw-rw-r--  0 0      0       13677 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/explosion.mp3
+-rw-rw-r--  0 0      0       15213 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/fuck you.mp3
+-rw-rw-r--  0 0      0       34413 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/piano.mp3
+-rw-rw-r--  0 0      0       20205 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/shut the fuck u.mp3
+-rw-rw-r--  0 0      0        9453 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/toy story music 2.mp3
+-rw-rw-r--  0 0      0       21741 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/toy story music.mp3
+-rw-rw-r--  0 0      0       16749 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/up your ass.mp3
+-rw-rw-r--  0 0      0       15981 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/uv you the slow.mp3
+-rw-rw-r--  0 0      0       10221 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/uv you the.mp3
+-rw-rw-r--  0 0      0     1167597 Jun 29  2021 Sound Board/Sound Bites/ytp sexer/ytp sexer-OW519A9F12I.mp3
+drwxrwxr-x  0 0      0           0 Jun 30  2021 Sound Board/Sound Clips/
+-rw-rw-r--  0 0      0      143853 Jun 29  2021 Sound Board/Sound Clips/'What' Bottom Text Meme (Sanctuary Guardian) - Sound Effect (HD)-pKzCXWGvIcg.mp3
+-rw-rw-r--  0 0      0      143085 Jun 29  2021 Sound Board/Sound Clips/Are you gonna Finish that croissant, Quality Funny Meme-UZKcSuYaBQY.mp3
+drwxrwxr-x  0 0      0           0 Jun 30  2021 Sound Board/Sound Clips/bait n switch/
+-rw-rw-r--  0 0      0      323949 Jun 29  2021 Sound Board/Sound Clips/bait n switch/And His Name is JOHN CENA - Sound Effect (HD)-2D-ZO2rGcSA.mp3
+-rw-rw-r--  0 0      0      939501 Jun 29  2021 Sound Board/Sound Clips/bait n switch/Henry Stickmin Distraction Dance Green Screen-7Xplhr7-TJs.mp3
+-rw-rw-r--  0 0      0     3393645 Jun 29  2021 Sound Board/Sound Clips/bait n switch/Rick Astley - Never Gonna Give You Up (Video)-dQw4w9WgXcQ.mp3
+-rw-rw-r--  0 0      0      202127 Jun 29  2021 Sound Board/Sound Clips/bait n switch/Ronaldinho Soccer.mp3
+-rw-rw-r--  0 0      0     1419501 Jun 29  2021 Sound Board/Sound Clips/bait n switch/Stick Bug Song (Bee Swarm Simulator)-y2oSVdSDY4I.mp3
+-rw-rw-r--  0 0      0      252282 Jun 29  2021 Sound Board/Sound Clips/bait n switch/youve been gnomed.wmv-6n3pFFPSlW4.mp3
+-rw-rw-r--  0 0      0      232557 Jun 29  2021 Sound Board/Sound Clips/Been Far-wqTpHhaKtL8.mp3
+-rw-rw-r--  0 0      0      182483 Jun 29  2021 Sound Board/Sound Clips/Burger king foot lettuce.mp3
+drwxrwxr-x  0 0      0           0 Jun 30  2021 Sound Board/Sound Clips/but now we shall both surely drown/
+-rw-rw-r--  0 0      0      137761 Jun 29  2021 Sound Board/Sound Clips/but now we shall both surely drown/'But now we shall both surely drown.'-NV-p_-OvUnA.mp3
+-rw-rw-r--  0 0      0       13627 Jun 29  2021 Sound Board/Sound Clips/but now we shall both surely drown/lmao.mp3
+-rw-rw-r--  0 0      0       11119 Jun 29  2021 Sound Board/Sound Clips/but now we shall both surely drown/lol.mp3
+drwxrwxr-x  0 0      0           0 Jun 29  2021 Sound Board/Sound Clips/danse gooshers/
+-rw-rw-r--  0 0      0     2629485 Jun 29  2021 Sound Board/Sound Clips/danse gooshers/Kinderkreis - Danse Gooshers!-Of-HU6p9sT4.mp3
+-rw-rw-r--  0 0      0       40173 Jun 29  2021 Sound Board/Sound Clips/danse gooshers/toll, toll, super toll.mp3
+-rw-rw-r--  0 0      0      640984 Jun 29  2021 Sound Board/Sound Clips/Discombobulate-B62ACxuq8Pw.mp3
+-rw-rw-r--  0 0      0      432004 Jun 29  2021 Sound Board/Sound Clips/FROGGE-HguKPVgIZL8.mp3
+-rw-rw-r--  0 0      0      349293 Jun 29  2021 Sound Board/Sound Clips/Have you ever had a dream like this-G7RgN9ijwE4.mp3
+-rw-rw-r--  0 0      0     1214424 Jun 29  2021 Sound Board/Sound Clips/Hogasm Caught On Tape-cYbCZxmpkUI.mp3
+-rw-rw-r--  0 0      0       91368 Jun 29  2021 Sound Board/Sound Clips/if instruments were voices and voices were instruments-0a7uVzSkCu8.mp3
+-rw-rw-r--  0 0      0      246430 Jun 29  2021 Sound Board/Sound Clips/Im sorry we couldn't skype tonight-3F1MTubcVHw.mp3
+-rw-rw-r--  0 0      0      310378 Jun 29  2021 Sound Board/Sound Clips/it's time to stop-2k0SmqbBIpQ.mp3
+drwxrwxr-x  0 0      0           0 Jun 29  2021 Sound Board/Sound Clips/joe biden wake up/
+-rw-rw-r--  0 0      0      156151 Jun 29  2021 Sound Board/Sound Clips/joe biden wake up/Biden wake up Tiktok-PfufZ8faEXU.mp3
+-rw-rw-r--  0 0      0      212576 Jun 29  2021 Sound Board/Sound Clips/joe biden wake up/Joe Biden Wake Up--weroVRHwoA.mp3
+drwxrwxr-x  0 0      0           0 Jun 29  2021 Sound Board/Sound Clips/macaroni/
+-rw-rw-r--  0 0      0     2424832 Jun 29  2021 Sound Board/Sound Clips/macaroni/macaroni and the chicken strips-eU1hOYufdBI.aup3
+-rw-rw-r--  0 0      0      106878 Feb 26  2021 Sound Board/Sound Clips/macaroni/macaroni and the chicken strips-eU1hOYufdBI.mp3
+-rw-rw-r--  0 0      0       28674 Jun 29  2021 Sound Board/Sound Clips/macaroni/macaroni.mp3
+-rw-rw-r--  0 0      0        9866 Jun 29  2021 Sound Board/Sound Clips/macaroni/uh.mp3
+-rw-rw-r--  0 0      0       47900 Jun 29  2021 Sound Board/Sound Clips/macaroni/with the chicken strips.mp3
+drwxrwxr-x  0 0      0           0 Jun 30  2021 Sound Board/Sound Clips/morhsu/
+-rw-rw-r--  0 0      0      128877 Jun 29  2021 Sound Board/Sound Clips/morhsu/M Lamp oil rope bombs.mp3
+-rw-rw-r--  0 0      0      139629 Jun 29  2021 Sound Board/Sound Clips/morhsu/M Sorry link.mp3
+-rw-rw-r--  0 0      0       11373 Jun 29  2021 Sound Board/Sound Clips/morhsu/MMMMM.mp3
+-rw-rw-r--  0 0      0      363501 Jun 29  2021 Sound Board/Sound Clips/morhsu/Morshu (Original)-X8HSnP1SiI0.mp3
+-rw-rw-r--  0 0      0     3677037 Jun 29  2021 Sound Board/Sound Clips/Music make you lose control triangle-Zo_QeYg1uf8.mp3
+-rw-rw-r--  0 0      0      152301 Jun 29  2021 Sound Board/Sound Clips/Now now now now yes plants vs zombies-oYFo6tzEw-A.mp3
+-rw-rw-r--  0 0      0      120181 Jun 29  2021 Sound Board/Sound Clips/oblivion-qN80_7rNmcE.mp3
+-rw-rw-r--  0 0      0      244341 Jun 29  2021 Sound Board/Sound Clips/ok 19 dollar fortnite card-FbOsZ0LKr_c.mp3
+-rw-rw-r--  0 0      0     2224365 Jun 29  2021 Sound Board/Sound Clips/Roadman Shaq - The Ting Goes ('Man's not hot') HD-k3jlviX88iw.mp3
+-rw-rw-r--  0 0      0     3602925 Jun 29  2021 Sound Board/Sound Clips/Scatman's World-7neipvZ_H0c.mp3
+-rw-rw-r--  0 0      0     2640919 Jun 29  2021 Sound Board/Sound Clips/SCOTLAND FOREVER-ktJpZbNB-OY.mp3
+-rw-rw-r--  0 0      0     2775919 Jun 29  2021 Sound Board/Sound Clips/Skipper Stops Racism (FULL MOVIE by nass_is_secretly_a_pikmin)-pjgUrVdF2RI.mp3
+drwxrwxr-x  0 0      0           0 Jun 30  2021 Sound Board/Sound Clips/songs/
+-rw-rw-r--  0 0      0     3269997 Jun 29  2021 Sound Board/Sound Clips/songs/'Weird' Al Yankovic - Amish Paradise (Official Parody of 'Gangsta's Paradise')-lOfZLb33uCg.mp3
+-rw-rw-r--  0 0      0     4342893 Jun 29  2021 Sound Board/Sound Clips/songs/8 Bit Adventure-iZWXB8namu0.mp3
+-rw-rw-r--  0 0      0     4394733 Jun 29  2021 Sound Board/Sound Clips/songs/Africa.mp3
+-rw-rw-r--  0 0      0     3206637 Jun 29  2021 Sound Board/Sound Clips/songs/All Star-8ay_BkRuv-o.mp3
+-rw-rw-r--  0 0      0     1161069 Jun 29  2021 Sound Board/Sound Clips/songs/Among Us Trap Remix (Among Drip Theme Song Original)-grd-K33tOSM.mp3
+-rw-rw-r--  0 0      0     1162221 Jun 29  2021 Sound Board/Sound Clips/songs/among us trap remix earrape (full)-ZKuDJQqy6ak.mp3
+-rw-rw-r--  0 0      0     1782381 Jun 29  2021 Sound Board/Sound Clips/songs/BIG CHUNGUS _ Official Main Theme _ Song by Endigo-cB4dYfFgaME.mp3
+-rw-rw-r--  0 0      0      491355 Jun 29  2021 Sound Board/Sound Clips/songs/Bill Nye - The Science Guy [Original Intro] HD-UtVJdPfm0F8.mp3
+-rw-rw-r--  0 0      0     4963053 Jun 29  2021 Sound Board/Sound Clips/songs/Black Ops 2 Soundtrack - Main Theme-M7GC_TaJxMI.mp3
+-rw-rw-r--  0 0      0     3170473 Jun 29  2021 Sound Board/Sound Clips/songs/Candyland.mp3
+-rw-rw-r--  0 0      0     5602029 Jun 29  2021 Sound Board/Sound Clips/songs/Cyberpunk 2077 - E3 2018 Trailer Music _ Hyper - ''SPOILER'' (4K)-9ayYeLLT8bs.mp3
+-rw-rw-r--  0 0      0     2970477 Jun 29  2021 Sound Board/Sound Clips/songs/Daft Punk - Robot Rock (Official Video)-sFZjqVnWBhc.mp3
+-rw-rw-r--  0 0      0     4883565 Jun 29  2021 Sound Board/Sound Clips/songs/Doom Eternal OST - The Only Thing they Fear is You (Mick Gordon)-T12ygsp9Mvg.mp3
+-rw-rw-r--  0 0      0     3416709 Mar 16  2020 Sound Board/Sound Clips/songs/FROZEN _ Let It Go Sing-along _ Official Disney UK-L0MK7qz13bU.mp3
+-rw-rw-r--  0 0      0        1959 Feb 12  2021 Sound Board/Sound Clips/songs/Give it all you've got-MyXBqVmYCxw.mkv - Shortcut.lnk
+-rw-rw-r--  0 0      0      424173 Jun 29  2021 Sound Board/Sound Clips/songs/Golden Wind OST Vol.3 - Diavolo Theme-NN2TOdiPtG4.mp3
+-rw-rw-r--  0 0      0     2031116 Jun 29  2021 Sound Board/Sound Clips/songs/HEYYEYAAEYAAAEYAEYAA-ZZ5LpwO-An4.mp3
+-rw-rw-r--  0 0      0      815085 Jun 29  2021 Sound Board/Sound Clips/songs/hotel mario theme-28ZcsyOayLM.mp3
+-rw-rw-r--  0 0      0     1675629 Jun 29  2021 Sound Board/Sound Clips/songs/James Bond 007 Theme Tune (original)-ye8KvYKn9-0.mp3
+-rw-rw-r--  0 0      0     3418605 Jun 29  2021 Sound Board/Sound Clips/songs/John Scatman - The Scatman (Video Clip)-JY0U1uq6BIQ.mp3
+-rw-rw-r--  0 0      0     4928109 Jun 29  2021 Sound Board/Sound Clips/songs/JoJo's Bizarre Adventure - Stardust Crusaders OST - Stardust Crusaders-NFjE5A4UAJI.mp3
+-rw-rw-r--  0 0      0     4793520 May 15  2021 Sound Board/Sound Clips/songs/linus.mp3
+-rw-rw-r--  0 0      0     4168941 Jun 29  2021 Sound Board/Sound Clips/songs/Luis Fonsi - Despacito ft. Daddy Yankee-kJQP7kiw5Fk.mp3
+-rw-rw-r--  0 0      0     3234285 Jun 29  2021 Sound Board/Sound Clips/songs/Mark Snow - Materia Primoris - The X-Files Theme (Main Title) (Official Audio)-Qz2wnSVeITg.mp3
+drwxrwxr-x  0 0      0           0 Jun 29  2021 Sound Board/Sound Clips/songs/mashups/
+-rw-rw-r--  0 0      0     2563053 Jun 29  2021 Sound Board/Sound Clips/songs/mashups/Doom - Eternal - The Only Thing They Fear Is YOUUUU-LP8GRjv6AIo.mp3
+-rw-rw-r--  0 0      0     3868269 Jun 29  2021 Sound Board/Sound Clips/songs/mashups/Suge Rainbow Road (DaBaby x Mario Kart Wii) Full Song-5QV31OhlIAo.mp3
+-rw-rw-r--  0 0      0     3512685 Jun 29  2021 Sound Board/Sound Clips/songs/Men At Work - Down Under (Video)-XfR9iY5y94s.mp3
+-rw-rw-r--  0 0      0     2258541 Jun 29  2021 Sound Board/Sound Clips/songs/Metal Gear Solid OST  - Encounter-XI1VpElKWF8.mp3
+-rw-rw-r--  0 0      0     3314925 Jun 29  2021 Sound Board/Sound Clips/songs/Mission Impossible Theme(full theme)-XAYhNHhxN0A.mp3
+-rw-rw-r--  0 0      0     2041983 Jun 29  2021 Sound Board/Sound Clips/songs/Ocean Man Lyrics-6E5m_XtCX3c.mp3
+-rw-rw-r--  0 0      0     2424217 Nov 25  2019 Sound Board/Sound Clips/songs/Pirates Of The Caribbean Theme Song-27mB8verLK8.mp3
+-rw-rw-r--  0 0      0     1401453 Jun 29  2021 Sound Board/Sound Clips/songs/Plants vs. Zombies (Main Theme)-ssZoq1eUK-s.mp3
+-rw-rw-r--  0 0      0     4036077 Jun 29  2021 Sound Board/Sound Clips/songs/PSY - GANGNAM STYLE M_V-9bZkp7q19f0.mp3
+-rw-rw-r--  0 0      0     7169517 Jun 29  2021 Sound Board/Sound Clips/songs/Rob D - Clubbed To Death [Kurayamino Mix] (The Matrix)-eH7qfq_KkVM.mp3
+-rw-rw-r--  0 0      0     4357059 Jun 29  2021 Sound Board/Sound Clips/songs/The Benny Hill Show Theme Tune-Gpc5_3B5xdk.mp3
+-rw-rw-r--  0 0      0      555720 Jun 29  2021 Sound Board/Sound Clips/songs/Transformers opening theme-nLS2N9mHWaw.mp3
+-rw-rw-r--  0 0      0     1953794 Jun 29  2021 Sound Board/Sound Clips/songs/Underbase - Fallen Down-NOMyOEodwk8.mp3
+-rw-rw-r--  0 0      0     2498157 Jun 29  2021 Sound Board/Sound Clips/songs/Undertale OST - 100 - Megalovania-c5daGZ96QGU.mp3
+drwxrwxr-x  0 0      0           0 Jun 29  2021 Sound Board/Sound Clips/songs/ytpmv/
+-rw-rw-r--  0 0      0     1845741 Jun 29  2021 Sound Board/Sound Clips/songs/ytpmv/[YTPMV] Morshu's Paradise-5bmXDcsuAsA.mp3
+-rw-rw-r--  0 0      0      977517 Jun 29  2021 Sound Board/Sound Clips/songs/ytpmv/[YTPMV] Robotnik Dance (Undertale) (Unfinished)-2c5TzK7-jhs.mp3
+-rw-rw-r--  0 0      0     1109613 Jun 29  2021 Sound Board/Sound Clips/songs/ytpmv/[YTPMV] Robotniktrousle-NbqkPbr_yVc.mp3
+-rw-rw-r--  0 0      0     2729325 Jun 29  2021 Sound Board/Sound Clips/songs/ytpmv/[YTPMV] Scatman Morshu's World-ssjJ-kV_vf8.mp3
+-rw-rw-r--  0 0      0     5254326 Dec 20  2020 Sound Board/Sound Clips/songs/[Electro] - Laszlo - Supernova [Monstercat Release]-PKfxmFU3lWY.mp3
+-rw-rw-r--  0 0      0     3082605 Jun 29  2021 Sound Board/Sound Clips/Supercut - Snake Asking Unnecessary Questions-cGOb1TcO-8o.mp3
+-rw-rw-r--  0 0      0      433005 Jun 29  2021 Sound Board/Sound Clips/take it 2.mp3
+-rw-rw-r--  0 0      0      262509 Jun 29  2021 Sound Board/Sound Clips/The Ting Goes.mp3
+-rw-rw-r--  0 0      0      178068 Jun 29  2021 Sound Board/Sound Clips/THX Sound Effect-FWkJ86JqlPA.mp3
+-rw-rw-r--  0 0      0      153069 Jun 29  2021 Sound Board/Sound Clips/To Be Continued - Sound Effect [Perfect Cut]-9bdORiwoLho.mp3
+-rw-rw-r--  0 0      0     3167085 Jun 29  2021 Sound Board/Sound Clips/Tobu - Candyland but it’s low quality and earrape-UYx6bmRH9Pc.mp3
+-rw-rw-r--  0 0      0      757485 Jun 29  2021 Sound Board/Sound Clips/tromp.mp3
+-rw-rw-r--  0 0      0      200685 Jun 29  2021 Sound Board/Sound Clips/Ultra Instinct Opening Theme - Sound Effect (HD)-i2TWdbcJp8s.mp3
+-rw-rw-r--  0 0      0      223725 May 20  2021 Sound Board/Sound Clips/Video by khadi-Bur2HgqAW23.mp3
+-rw-rw-r--  0 0      0       94293 Jun 29  2021 Sound Board/Sound Clips/WatchMojo.com - Intro-uumHKvl869E.mp3
+-rw-rw-r--  0 0      0       90861 Jun 29  2021 Sound Board/Sound Clips/WHAT ARE YOU DOING ON COMPUTER-WNmCm4oyrkY.mp3
+-rw-rw-r--  0 0      0      568341 Oct 28  2018 Sound Board/Sound Clips/Why are we still here - Kaz short speech-VKhpE-oNoGY.mp3
+-rw-rw-r--  0 0      0      138597 Jun 29  2021 Sound Board/Sound Clips/Why do girls only like.mp3
+-rw-rw-r--  0 0      0      142359 Jun 29  2021 Sound Board/Sound Clips/You've Sunk My Battleship-alDq5hAUoHY.mp3
+-rw-rw-r--  0 0      0     1792879 Jun 29  2021 Sound Board/Sound Clips/[BUGSNAX] All Bunger Sounds! +Subtitles-Irzay0hSqD8.mp3
+-rw-rw-r--  0 0      0         204 Jun 29  2021 Sound Board/_zip.bat

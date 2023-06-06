@@ -1,0 +1,3173 @@
+.:
+total 8168
+drwxr-xr-x 16 joelm joelm    4096 May 29 02:55 bites
+-rwxrwxrwx  1 joelm joelm 8153380 Aug 20  2022 bruh.ogg
+drwxr-xr-x  9 joelm joelm    4096 May 26 23:14 clips
+-rw-r--r--  1 joelm joelm    3259 May 29 05:06 common.py
+-rwxr-xr-x  1 joelm joelm    2715 May 29 05:06 downloader.py
+-rw-r--r--  1 joelm joelm   21482 Mar 26  2021 Guy Yelling Among Us Sound Effect.webm
+drwxr-xr-x  5 joelm joelm    4096 Jun  7 00:53 ignore
+-rwxrwxrwx  1 joelm joelm    1370 May 29 05:01 indexer.py
+-rw-r--r--  1 joelm joelm     135 May 11 15:49 index.json
+-rw-r--r--  1 joelm joelm       0 Jun  7 00:54 list-dir.txt
+-rw-r--r--  1 joelm joelm   32486 Jun  7 00:51 list-soundboard-zip.txt
+-rwxr-xr-x  1 joelm joelm     137 May 24 21:34 new.sh
+-rw-r--r--  1 joelm joelm  108971 Apr  2  2021 Nigel Farage： ＂Big Chungus sends his regards＂ [VQvPN1F5fTU].ogg
+drwxr-xr-x  2 joelm joelm    4096 May 29 05:07 __pycache__
+-rw-r--r--  1 joelm joelm    1422 May 29 03:49 README.md
+
+./bites:
+total 1804
+-rwxrwxrwx 1 joelm joelm  29421 Jun 29  2021 audiojungle.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 11 15:40 be like
+-rwxrwxrwx 1 joelm joelm  29037 Jun 29  2021 Big big chungus.mp3
+-rwxrwxrwx 1 joelm joelm  16365 Jun 29  2021 Big chungus.mp3
+-rw-r--r-- 1 joelm joelm  66773 Aug  1  2017 Boneless Pizza Sound Effect.mp3
+-rw-r--r-- 1 joelm joelm  74246 Jul 17  2019 Bro you just posted Cringe you are going to lose subscriber Dr Robotnik.mp3
+-rw-r--r-- 1 joelm joelm   7453 Feb 15 16:47 Bruh Sound Effect #2.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 22 23:00 cartoons
+drwxr-xr-x 2 joelm joelm   4096 May 11 18:57 classics
+drwxr-xr-x 2 joelm joelm   4096 May 22 23:00 dababy
+-rw-r--r-- 1 joelm joelm   9473 Aug 15  2022 Doot Doot - Mr Skeltal Original.mp3
+-rw-r--r-- 1 joelm joelm  81220 Mar 27  2021 engineer gaming.mp3
+-rwxrwxrwx 1 joelm joelm  34107 Jun 29  2021 explosion.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:12 fock
+-rw-r--r-- 1 joelm joelm 206121 Dec  4  2020 Gangsta's Paradise Choir Sound Effect.mp3
+-rwxrwxrwx 1 joelm joelm  10605 Jun 29  2021 goku drip.mp3
+-rwxrwxrwx 1 joelm joelm 188898 May 16  2021 hackerman.mp3
+-rwxrwxrwx 1 joelm joelm  13302 Feb 10  2021 hey-beter-mp3cut.mp3
+-rwxrwxrwx 1 joelm joelm   4461 Jun 29  2021 hotel mario note 1 one.mp3
+-rwxrwxrwx 1 joelm joelm  24912 Jun 29  2021 I boutta go to bed.mp3
+-rw-r--r-- 1 joelm joelm  41396 Jul  1  2021 I like ya cut g.mp3
+-rw-r--r-- 1 joelm joelm  43099 Jan 23  2016 Inception [Sound Effect].mp3
+-rw-r--r-- 1 joelm joelm   9670 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm  58481 Apr 27  2022 It Is Wednesday My Dudes Vine.mp3
+-rw-r--r-- 1 joelm joelm  22006 Mar 31  2021 James May says cheese..mp3
+-rw-r--r-- 1 joelm joelm  84687 Jun  4  2017 J. Jonah Jameson Laughing.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 11 15:40 john madden
+drwxr-xr-x 2 joelm joelm   4096 May 22 23:00 joker babey
+drwxr-xr-x 2 joelm joelm   4096 May 22 23:00 keanu
+-rw-r--r-- 1 joelm joelm  13992 Jun  1  2017 Metal Gear Solid： Alert (!) メタルギアソリッド.mp3
+-rwxrwxrwx 1 joelm joelm   6381 Jun 29  2021 Minecraft Alpha Damage - Sound Effect.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 22 23:00 monke
+drwxr-xr-x 2 joelm joelm   4096 May 22 23:00 monty python
+-rw-r--r-- 1 joelm joelm  15948 Jul 12  2021 My Name is Jeff - Sound Effect (HD).mp3
+-rwxrwxrwx 1 joelm joelm   9030 Jun 29  2021 neil cic says swag.mp3
+-rwxrwxrwx 1 joelm joelm  29092 Jun 29  2021 oh hey (couldn't skype tonight).mp3
+-rw-r--r-- 1 joelm joelm  90939 Feb 21  2019 Okay, That's All The Time I've Got - Reggie Animal Crossing New Leaf.mp3
+-rwxrwxrwx 1 joelm joelm   4461 Jun 29  2021 op.mp3
+-rw-r--r-- 1 joelm joelm  11178 Jun 22  2021 Pingas SFX.mp3
+-rw-r--r-- 1 joelm joelm  36608 Jun  1  2017 Psycho Violin Screech.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 22 23:00 ramsay
+-rw-r--r-- 1 joelm joelm 170680 Jan  8  2020 rick astley says you posted cringe meme.mp3
+-rwxrwxrwx 1 joelm joelm   6381 Jun 29  2021 Roblox Death Sound - OOF Sound Effect.mp3
+-rwxrwxrwx 1 joelm joelm  12525 Jun 29  2021 sans.mp3
+-rw-r--r-- 1 joelm joelm  11086 Nov 30  2017 Soulja Boy YOUUU -  Sound Effect.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 22 23:00 trick noises
+-rw-r--r-- 1 joelm joelm  36245 Mar 28  2021 Urine and Feces.mp3
+drwxr-xr-x 7 joelm joelm   4096 May 22 23:00 video games
+-rw-r--r-- 1 joelm joelm  31802 Jul 17  2019 Vsauce - Hey Vsauce, Michael Here - Sound Effect.mp3
+-rw-r--r-- 1 joelm joelm 158560 Oct  3  2017 yooooooooooo.mp3
+drwxr-xr-x 3 joelm joelm   4096 May 29 05:06 ytp sexer
+
+./bites/be like:
+total 88
+-rwxrwxrwx 1 joelm joelm 59653 May 30  2013 34B77E59-BE20-4E97-82EE-364EFFF6E061-5744-000003456D7A9333_1.1.2-34B77E59-BE20-4E97-82EE-364EFFF6E061-5744-000003456D7A9333_1.1.2.mp3
+-rwxrwxrwx 1 joelm joelm 12239 May  5  2021 black ppl be like.mp3
+-rw-r--r-- 1 joelm joelm   819 May 29 05:07 index.json
+-rwxrwxrwx 1 joelm joelm 11405 May  5  2021 white ppl be like.mp3
+
+./bites/cartoons:
+total 32
+-rw-r--r-- 1 joelm joelm 28308 Mar 30  2021 Cartoon Running - Sound Effect (HD).mp3
+-rw-r--r-- 1 joelm joelm   243 May 29 05:07 index.json
+
+./bites/classics:
+total 160
+-rwxrwxrwx 1 joelm joelm 17050 Jun 29  2021 Applause.mp3
+-rwxrwxrwx 1 joelm joelm  8482 Jun 29  2021 Ba Dum Tss.mp3
+-rwxrwxrwx 1 joelm joelm 16527 Jun 29  2021 Darth Vader NOOOOO.mp3
+-rwxrwxrwx 1 joelm joelm 12452 Jun 29  2021 DUN DUN DUUUNN.mp3
+-rwxrwxrwx 1 joelm joelm 22797 Jun 29  2021 Evil Laugh.mp3
+-rw-r--r-- 1 joelm joelm  1976 May 29 05:07 index.json
+-rwxrwxrwx 1 joelm joelm 15483 Jun 29  2021 Laugh Track.mp3
+-rwxrwxrwx 1 joelm joelm 17259 Jun 29  2021 Sad Trombone.mp3
+-rwxrwxrwx 1 joelm joelm 17990 Jun 29  2021 Thunder Strike.mp3
+-rwxrwxrwx 1 joelm joelm  5138 Jun 29  2021 Wilhelm Scream.mp3
+
+./bites/dababy:
+total 28
+-rw-r--r-- 1 joelm joelm 21086 Mar 29  2021 Dababy Let's Go Sound Effect.mp3
+-rw-r--r-- 1 joelm joelm   236 May 29 05:07 index.json
+
+./bites/fock:
+total 36
+-rwxrwxrwx 1 joelm joelm 30764 Jun 29  2021 fock.mp3
+-rw-r--r-- 1 joelm joelm   174 May 29 05:07 index.json
+
+./bites/john madden:
+total 456
+-rwxrwxrwx 1 joelm joelm  11537 Jun 29  2021 aeiou.mp3
+-rwxrwxrwx 1 joelm joelm 413196 Jun 29  2021 daisy daisy.mp3
+-rwxrwxrwx 1 joelm joelm  13209 Jun 29  2021 football.mp3
+-rw-r--r-- 1 joelm joelm   1446 May 29 05:07 index.json
+-rwxrwxrwx 1 joelm joelm  17807 Jun 29  2021 john madden.mp3
+
+./bites/joker babey:
+total 7688
+-rwxrwxrwx 1 joelm joelm   57453 Jun 29  2021 AAAAAAAAAAAAAAA (tommy wiseau).mp3
+-rw-r--r-- 1 joelm joelm 1651832 Jun 12  2017 Do you want to know how i got these scars.mp3
+-rwxrwxrwx 1 joelm joelm   80109 Jun 29  2021 I'm the joker babey.mp3
+-rw-r--r-- 1 joelm joelm   17634 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm 2088236 Sep 21  2020 Joker Kitchen - Crazy Hamburger.mp3
+-rw-r--r-- 1 joelm joelm   10298 Jun 25  2021 Joker says society.mp3
+-rwxrwxrwx 1 joelm joelm  149229 Jun 29  2021 Let me introduce you to the new joker.mp3
+-rw-r--r-- 1 joelm joelm 1434758 Jun 21  2020 My JOKER Performance.mp3
+-rw-r--r-- 1 joelm joelm 1898110 Dec  1  2019 Tommy Wiseau’s Joker Audition Tape (Nerdist Presents).mp3
+-rwxrwxrwx 1 joelm joelm  159213 Jun 29  2021 wanna know how I got these scars (drew russell).mp3
+-rw-r--r-- 1 joelm joelm  219957 Feb 15  2021 ＂WE LIVE IN A SOCIETY＂ - Joker (Zack Snyder's Justice League 2021).mp3
+-rw-r--r-- 1 joelm joelm   80857 Jul 10  2021 What a joker (Original).mp3
+
+./bites/keanu:
+total 632
+-rw-r--r-- 1 joelm joelm   1961 May 29 05:07 index.json
+-rwxrwxrwx 1 joelm joelm  71724 Jun 29  2021 keanu 1.mp3
+-rwxrwxrwx 1 joelm joelm  42884 Jun 29  2021 keanu 2.mp3
+-rwxrwxrwx 1 joelm joelm  47064 Jun 29  2021 keanu 3.mp3
+-rwxrwxrwx 1 joelm joelm  38287 Jun 29  2021 keanu 4.mp3
+-rwxrwxrwx 1 joelm joelm 124804 Jun 29  2021 keanu 5.mp3
+-rw-r--r-- 1 joelm joelm 305105 Aug 19  2021 Keanu Reeves Is Extremely Horny (Cyberpunk 2077 Trailer Meme).mp3
+
+./bites/monke:
+total 156
+-rw-r--r-- 1 joelm joelm    550 May 29 05:07 index.json
+-rwxrwxrwx 1 joelm joelm  38827 Jun 14  2021 mmm monke.mp3
+-rw-r--r-- 1 joelm joelm 111341 May  2  2021 Mmm Monke.mp3
+
+./bites/monty python:
+total 2412
+-rwxrwxrwx 1 joelm joelm   17807 Jun 29  2021 be quiet.mp3
+-rw-r--r-- 1 joelm joelm  102855 Jan 18  2018 Get on with it! (Monty Python).mp3
+-rw-r--r-- 1 joelm joelm    5830 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm 2037294 May  1  2022 Monty Python - Constitutional Peasants Scene (HD).mp3
+-rwxrwxrwx 1 joelm joelm  202127 Jun 29  2021 shut up! (come and see the violence inherent in the system).mp3
+-rwxrwxrwx 1 joelm joelm   14463 Jun 29  2021 shut up.mp3
+-rwxrwxrwx 1 joelm joelm   71724 Jun 29  2021 shut up will you shut up.mp3
+
+./bites/ramsay:
+total 280
+-rw-r--r-- 1 joelm joelm 114858 Mar  6  2021 Gordon Ramsay- You Donkey.mp3
+-rw-r--r-- 1 joelm joelm  96192 Jan 17  2020 Hell's Kitchen ⧸ Kitchen Nightmares Dramatic Sound Effect (Waterphone).mp3
+-rw-r--r-- 1 joelm joelm   1340 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm  65030 Jun 29  2021 [ORIGINAL] Gordon Ramsey - THE BASS IS F＊＊＊ING RAW!!!!!!.mp3
+
+./bites/trick noises:
+total 120
+-rw-r--r-- 1 joelm joelm 43454 Jul 30  2022 Creeper Explosion - Sound Effect.mp3
+-rwxrwxrwx 1 joelm joelm 23440 Jun 29  2021 creeper.mp3
+-rw-r--r-- 1 joelm joelm  1005 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm 18263 Jan 21  2020 Microsoft Windows XP Error - Sound Effect (HD).mp3
+-rw-r--r-- 1 joelm joelm 25314 Mar  2  2021 Windows 10 Error Sound.mp3
+
+./bites/video games:
+total 356
+drwxr-xr-x 2 joelm joelm   4096 May 11 15:40 cookie clicker
+-rwxrwxrwx 1 joelm joelm  10702 Jun 29  2021 farewell.mp3
+-rw-r--r-- 1 joelm joelm 327186 Feb 21  2019 Farewell..mp3
+-rw-r--r-- 1 joelm joelm   1127 May 29 05:07 index.json
+drwxr-xr-x 2 joelm joelm   4096 May 26 22:37 kanye quest
+drwxr-xr-x 2 joelm joelm   4096 May 26 22:36 metal gear
+drwxr-xr-x 2 joelm joelm   4096 May 26 22:35 MOAGUS
+drwxr-xr-x 2 joelm joelm   4096 May 11 15:40 Stellaris
+
+./bites/video games/cookie clicker:
+total 40
+-rwxrwxrwx 1 joelm joelm 30563 May 29  2021 chime.mp3
+-rw-r--r-- 1 joelm joelm   207 May 29 05:07 index.json
+
+./bites/video games/kanye quest:
+total 9732
+-rwxrwxrwx 1 joelm joelm   31341 Jun 29  2021 don't let me into my zone.mp3
+-rw-r--r-- 1 joelm joelm    4205 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm 9922658 May 28  2018 Kanye Quest.mp3
+
+./bites/video games/metal gear:
+total 3036
+-rwxrwxrwx 1 joelm joelm   24045 Jun 29  2021 a hind d.mp3
+-rw-r--r-- 1 joelm joelm  102029 Jul 10  2019 A Hind D？!.mp3
+-rw-r--r-- 1 joelm joelm    5789 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm   82880 Sep  7  2021 Metal Gear!？ It can't be!.mp3
+-rw-r--r-- 1 joelm joelm   33256 Oct  4  2017 Metal Gear Solid Codec Call Sound Drop.mp3
+-rwxrwxrwx 1 joelm joelm   18669 Jun 29  2021 psycho mantis.mp3
+-rw-r--r-- 1 joelm joelm 2739177 May 31  2017 Supercut - Snake Asking Unnecessary Questions.mp3
+-rw-r--r-- 1 joelm joelm   87199 Dec 28  2017 THAT RIGHT THERE IS WHY YOU'RE THE BEST BOSS.mp3
+
+./bites/video games/MOAGUS:
+total 7428
+-rw-r--r-- 1 joelm joelm  175194 Jul 16  2021 AMOGUS Sound effect.mp3
+-rw-r--r-- 1 joelm joelm 1128536 Dec 13 16:58 Among Us Drip Theme Song Original (Among Us Trap Remix ⧸ Amogus Meme Music).mp3
+-rw-r--r-- 1 joelm joelm 1695317 Mar 30  2021 among us trap remix earrape (full).mp3
+-rw-r--r-- 1 joelm joelm 1809104 Mar 20  2021 Damian Official - IMPOSTER (Official Audio).mp3
+-rw-r--r-- 1 joelm joelm   57908 Jul  7  2021 Danger Alarm Meme Sound Effect.mp3
+-rw-r--r-- 1 joelm joelm   27961 Apr  6  2021 Dramatic Vine⧸Instagram Boom - Sound Effect (HD).mp3
+-rw-r--r-- 1 joelm joelm   11313 Mar 26  2021 Guy Yelling Among Us Sound Effect.mp3
+-rw-r--r-- 1 joelm joelm   14054 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm 2670820 Apr 23  2021 Official Among Us In Real Life Official Music Video - Rebecca Zamolo Shorts.mp3
+
+./bites/video games/Stellaris:
+total 184
+-rwxrwxrwx 1 joelm joelm 28873 Jun 29  2021 advisor_notification_colonization_progress_01.mp3
+-rwxrwxrwx 1 joelm joelm 25110 Jun 29  2021 advisor_notification_colony_established_01.mp3
+-rwxrwxrwx 1 joelm joelm 11710 Jun 29  2021 advisor_notification_construction_complete_01.mp3
+-rwxrwxrwx 1 joelm joelm 22185 Jun 29  2021 advisor_notification_discovery_detected_01.mp3
+-rwxrwxrwx 1 joelm joelm 25528 Jun 29  2021 advisor_notification_research_complete_01.mp3
+-rwxrwxrwx 1 joelm joelm 22603 Jun 29  2021 advisor_notification_ships_upgraded_01.mp3
+-rwxrwxrwx 1 joelm joelm 14009 Jun 29  2021 advisor_notification_special_project_complete_01.mp3
+-rwxrwxrwx 1 joelm joelm 14009 Jun 29  2021 advisor_notification_system_survey_complete_01.mp3
+-rw-r--r-- 1 joelm joelm  1685 May 29 05:07 index.json
+
+./bites/ytp sexer:
+total 1080
+-rwxrwxrwx 1 joelm joelm   7917 Jun 29  2021 ake my money.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 11 15:40 amp
+-rwxrwxrwx 1 joelm joelm     40 Feb 26  2021 amp.bat
+-rwxrwxrwx 1 joelm joelm    188 May 29 05:06 amp.py
+-rwxrwxrwx 1 joelm joelm  13677 Jun 29  2021 ass.mp3
+-rwxrwxrwx 1 joelm joelm  11757 Jun 29  2021 big mouth 2.mp3
+-rwxrwxrwx 1 joelm joelm  13293 Jun 29  2021 big mouth.mp3
+-rwxrwxrwx 1 joelm joelm  26349 Jun 29  2021 big mouth slow.mp3
+-rwxrwxrwx 1 joelm joelm   7917 Jun 29  2021 bitch 2.mp3
+-rwxrwxrwx 1 joelm joelm   5997 Jun 29  2021 bitch.mp3
+-rwxrwxrwx 1 joelm joelm   6381 Jun 29  2021 cmere.mp3
+-rwxrwxrwx 1 joelm joelm  13677 Jun 29  2021 explosion.mp3
+-rwxrwxrwx 1 joelm joelm  15213 Jun 29  2021 fuck you.mp3
+-rw-r--r-- 1 joelm joelm   5355 May 29 05:07 index.json
+-rwxrwxrwx 1 joelm joelm  34413 Jun 29  2021 piano.mp3
+-rwxrwxrwx 1 joelm joelm  20205 Jun 29  2021 shut the fuck u.mp3
+-rwxrwxrwx 1 joelm joelm   9453 Jun 29  2021 toy story music 2.mp3
+-rwxrwxrwx 1 joelm joelm  21741 Jun 29  2021 toy story music.mp3
+-rwxrwxrwx 1 joelm joelm  16749 Jun 29  2021 up your ass.mp3
+-rwxrwxrwx 1 joelm joelm  10221 Jun 29  2021 uv you the.mp3
+-rwxrwxrwx 1 joelm joelm  15981 Jun 29  2021 uv you the slow.mp3
+-rw-r--r-- 1 joelm joelm 798813 Jun 28  2019 ytp sexer.mp3
+
+./bites/ytp sexer/amp:
+total 280
+-rwxrwxrwx 1 joelm joelm  7917 Jun 29  2021 ake my money.mp3
+-rwxrwxrwx 1 joelm joelm 13677 Jun 29  2021 ass.mp3
+-rwxrwxrwx 1 joelm joelm 11757 Jun 29  2021 big mouth 2.mp3
+-rwxrwxrwx 1 joelm joelm 13293 Jun 29  2021 big mouth.mp3
+-rwxrwxrwx 1 joelm joelm 26349 Jun 29  2021 big mouth slow.mp3
+-rwxrwxrwx 1 joelm joelm  7917 Jun 29  2021 bitch 2.mp3
+-rwxrwxrwx 1 joelm joelm  5997 Jun 29  2021 bitch.mp3
+-rwxrwxrwx 1 joelm joelm  6381 Jun 29  2021 cmere.mp3
+-rwxrwxrwx 1 joelm joelm 13677 Jun 29  2021 explosion.mp3
+-rwxrwxrwx 1 joelm joelm 15213 Jun 29  2021 fuck you.mp3
+-rw-r--r-- 1 joelm joelm  2956 May 29 05:07 index.json
+-rwxrwxrwx 1 joelm joelm 34413 Jun 29  2021 piano.mp3
+-rwxrwxrwx 1 joelm joelm 20205 Jun 29  2021 shut the fuck u.mp3
+-rwxrwxrwx 1 joelm joelm  9453 Jun 29  2021 toy story music 2.mp3
+-rwxrwxrwx 1 joelm joelm 21741 Jun 29  2021 toy story music.mp3
+-rwxrwxrwx 1 joelm joelm 16749 Jun 29  2021 up your ass.mp3
+-rwxrwxrwx 1 joelm joelm 10221 Jun 29  2021 uv you the.mp3
+-rwxrwxrwx 1 joelm joelm 15981 Jun 29  2021 uv you the slow.mp3
+
+./clips:
+total 28024
+-rw-r--r-- 1 joelm joelm  119826 Apr  8  2017 Are you gonna Finish that croissant, Quality Funny Meme.mp3
+drwxr-xr-x 2 joelm joelm    4096 May 22 23:01 bait n switch
+-rw-r--r-- 1 joelm joelm  239204 Jun  1  2017 Been Far？.mp3
+-rw-r--r-- 1 joelm joelm  897544 Jul 14  2021 [BUGSNAX] All Bunger Sounds! +Subtitles.mp3
+-rwxrwxrwx 1 joelm joelm  182483 Jun 29  2021 Burger king foot lettuce.mp3
+drwxr-xr-x 2 joelm joelm    4096 May 22 23:01 but now we shall both surely drown
+drwxr-xr-x 2 joelm joelm    4096 May 22 23:01 danse gooshers
+-rw-r--r-- 1 joelm joelm  544608 Apr 23  2019 Discombobulate.mp3
+-rw-r--r-- 1 joelm joelm  371416 Apr 30  2020 FROGGE.mp3
+-rw-r--r-- 1 joelm joelm  247373 Oct 28  2018 Have you ever had a dream like this？.mp3
+-rwxrwxrwx 1 joelm joelm 1214424 Jun 29  2021 Hogasm Caught On Tape-cYbCZxmpkUI.mp3
+-rw-r--r-- 1 joelm joelm  962377 Apr  5  2021 Hogasm Caught On Tape (Reupload).mp3
+-rw-r--r-- 1 joelm joelm   56735 Dec 31  2019 if instruments were voices and voices were instruments (subscribe, its free!!) #Shorts.mp3
+-rw-r--r-- 1 joelm joelm  143009 Jun 25  2019 Im sorry we couldn't skype tonight.mp3
+-rw-r--r-- 1 joelm joelm   54772 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm  306092 Jan  1  2018 it's time to stop.mp3
+drwxr-xr-x 2 joelm joelm    4096 May 22 23:01 joe biden wake up
+drwxr-xr-x 2 joelm joelm    4096 May 29 08:07 macaroni
+drwxr-xr-x 2 joelm joelm    4096 May 22 23:01 morhsu
+-rw-r--r-- 1 joelm joelm 3103841 Apr  4  2020 Music make you lose control triangle.mp3
+-rw-r--r-- 1 joelm joelm  114201 Jan 22  2022 Now now now now yes plants vs zombies.mp3
+-rw-r--r-- 1 joelm joelm  136499 Feb 10  2022 oblivion.mp3
+-rw-r--r-- 1 joelm joelm  147178 May 28  2021 ok 19 dollar fortnite card.mp3
+-rw-r--r-- 1 joelm joelm 2105630 Dec  7  2019 Roadman Shaq - The Ting Goes ('Man's not hot') HD.mp3
+-rw-r--r-- 1 joelm joelm 3911076 Apr 23  2022 Scatman's World.mp3
+-rw-r--r-- 1 joelm joelm 2657084 Oct 26  2021 SCOTLAND FOREVER.mp3
+-rw-r--r-- 1 joelm joelm 1858499 Jul 29  2021 Skipper Stops Racism (FULL MOVIE by nass_is_secretly_a_pikmin).mp3
+drwxr-xr-x 4 joelm joelm   12288 May 26 23:12 songs
+-rw-r--r-- 1 joelm joelm 2739177 May 31  2017 Supercut - Snake Asking Unnecessary Questions.mp3
+-rwxrwxrwx 1 joelm joelm  433005 Jun 29  2021 take it 2.mp3
+-rw-r--r-- 1 joelm joelm  261987 Apr 10  2020 that's why your momma dead. dead as hell..mp3
+-rwxrwxrwx 1 joelm joelm  262509 Jun 29  2021 The Ting Goes.mp3
+-rw-r--r-- 1 joelm joelm  150951 May 26  2018 THX Sound Effect.mp3
+-rw-r--r-- 1 joelm joelm  167769 May  7  2021 To Be Continued - Sound Effect [Perfect Cut].mp3
+-rw-r--r-- 1 joelm joelm 2901117 Dec 26  2019 Tobu - Candyland but it’s low quality and earrape.mp3
+-rwxrwxrwx 1 joelm joelm  757485 Jun 29  2021 tromp.mp3
+-rw-r--r-- 1 joelm joelm  196825 Jul  2  2021 Ultra Instinct Opening Theme - Sound Effect (HD).mp3
+-rwxrwxrwx 1 joelm joelm  223725 May 20  2021 Video by khadi-Bur2HgqAW23.mp3
+-rw-r--r-- 1 joelm joelm   95990 Jun  8  2016 WatchMojo.com - Intro.mp3
+-rw-r--r-- 1 joelm joelm   80841 Nov  3  2019 WHAT ARE YOU DOING ON COMPUTER.mp3
+-rw-r--r-- 1 joelm joelm  135185 May 31  2021 'What' Bottom Text Meme (Sanctuary Guardian) - Sound Effect (HD).mp3
+-rw-r--r-- 1 joelm joelm  569402 Oct 28  2018 Why are we still here？ - Kaz short speech.mp3
+-rwxrwxrwx 1 joelm joelm  138597 Jun 29  2021 Why do girls only like.mp3
+-rw-r--r-- 1 joelm joelm  108285 May 28  2019 You've Sunk My Battleship.mp3
+
+./clips/bait n switch:
+total 6220
+-rw-r--r-- 1 joelm joelm  307732 Jan  8  2021 And His Name is JOHN CENA - Sound Effect (HD).mp3
+-rw-r--r-- 1 joelm joelm  701433 Aug 19  2020 Henry Stickmin Distraction Dance Green Screen.mp3
+-rw-r--r-- 1 joelm joelm   10687 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm 3700511 Jan 20 16:55 Rick Astley - Never Gonna Give You Up (Official Music Video).mp3
+-rwxrwxrwx 1 joelm joelm  202127 Jun 29  2021 Ronaldinho Soccer.mp3
+-rw-r--r-- 1 joelm joelm 1293685 Aug 25  2020 Stick Bug Song (Bee Swarm Simulator).mp3
+-rw-r--r-- 1 joelm joelm  137516 Sep 28  2022 youve been gnomed.wmv.mp3
+
+./clips/but now we shall both surely drown:
+total 160
+-rw-r--r-- 1 joelm joelm 129834 Mar 20  2021 ＂But now we shall both surely drown.＂.mp3
+-rw-r--r-- 1 joelm joelm    800 May 29 05:07 index.json
+-rwxrwxrwx 1 joelm joelm  13627 Jun 29  2021 lmao.mp3
+-rwxrwxrwx 1 joelm joelm  11119 Jun 29  2021 lol.mp3
+
+./clips/danse gooshers:
+total 2536
+-rw-r--r-- 1 joelm joelm    4049 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm 2549973 Jan 13 21:47 Kinderkreis： Danse Gooshers!.mp3
+-rwxrwxrwx 1 joelm joelm   40173 Jun 29  2021 toll, toll, super toll.mp3
+
+./clips/joe biden wake up:
+total 264
+-rw-r--r-- 1 joelm joelm  84587 Apr 17  2021 Biden wake up Tiktok.mp3
+-rw-r--r-- 1 joelm joelm   1001 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm 177346 Aug 10  2022 Joe Biden Wake Up.mp3
+
+./clips/macaroni:
+total 2524
+-rw-r--r-- 1 joelm joelm     898 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm      90 May 29 08:06 Label Track.txt
+-rwxrwxrwx 1 joelm joelm 2424832 May 29 08:07 macaroni and the chicken strips-eU1hOYufdBI.aup3
+-rw-r--r-- 1 joelm joelm   55780 Sep 30  2021 macaroni and the chicken strips.mp3
+-rwxrwxrwx 1 joelm joelm   28674 Jun 29  2021 macaroni.mp3
+-rwxrwxrwx 1 joelm joelm    9866 Jun 29  2021 uh.mp3
+-rwxrwxrwx 1 joelm joelm   47900 Jun 29  2021 with the chicken strips.mp3
+
+./clips/morhsu:
+total 468
+-rw-r--r-- 1 joelm joelm   1763 May 29 05:07 index.json
+-rwxrwxrwx 1 joelm joelm 128877 Jun 29  2021 M Lamp oil rope bombs.mp3
+-rwxrwxrwx 1 joelm joelm  11373 Jun 29  2021 MMMMM.mp3
+-rw-r--r-- 1 joelm joelm 186299 Mar 20  2021 Morshu (Original).mp3
+-rwxrwxrwx 1 joelm joelm 139629 Jun 29  2021 M Sorry link.mp3
+
+./clips/songs:
+total 129716
+-rw-r--r-- 1 joelm joelm 4524351 Aug 13  2019 8 Bit Adventure.mp3
+-rwxrwxrwx 1 joelm joelm 4394733 Jun 29  2021 Africa.mp3
+-rw-r--r-- 1 joelm joelm 3295248 Sep 23  2022 All Star.mp3
+-rw-r--r-- 1 joelm joelm 4973601 Aug 19  2015 BEGNAGRAD   Coc'n Rolla 1982.mp3
+-rw-r--r-- 1 joelm joelm 1869142 Dec 28  2019 BIG CHUNGUS ｜ Official Main Theme ｜ Song by Endigo.mp3
+-rw-r--r-- 1 joelm joelm  477135 Oct 29  2018 Bill Nye： The Science Guy [Original Intro] ᴴᴰ.mp3
+-rw-r--r-- 1 joelm joelm 4313620 Dec 20  2020 Black Ops 2 Soundtrack： Main Theme.mp3
+-rwxrwxrwx 1 joelm joelm 3170473 Jun 29  2021 Candyland.mp3
+-rwxrwxrwx 1 joelm joelm 5602029 Jun 29  2021 Cyberpunk 2077 - E3 2018 Trailer Music _ Hyper - ''SPOILER'' (4K)-9ayYeLLT8bs.mp3
+-rw-r--r-- 1 joelm joelm 3493262 Oct 23  2018 Daft Punk - Robot Rock (Official Video).mp3
+-rwxrwxrwx 1 joelm joelm 4883565 Jun 29  2021 Doom Eternal OST - The Only Thing they Fear is You (Mick Gordon)-T12ygsp9Mvg.mp3
+-rw-r--r-- 1 joelm joelm 5256629 Dec 20  2020 [Electro] - Laszlo - Supernova [Monstercat Release].mp3
+-rw-r--r-- 1 joelm joelm 3423242 Apr 24  2022 FROZEN ｜ Let It Go Sing-along ｜ Official Disney UK.mp3
+-rw-r--r-- 1 joelm joelm 2306558 Nov  6  2018 Give it all you've got.mp3
+-rw-r--r-- 1 joelm joelm 1536230 Aug 15  2019 Golden Wind OST Vol.3 - Diavolo Theme.mp3
+-rw-r--r-- 1 joelm joelm 1918253 Aug  3  2021 HEYYEYAAEYAAAEYAEYAA.mp3
+-rw-r--r-- 1 joelm joelm  638931 Oct 11  2022 hotel mario theme.mp3
+-rw-r--r-- 1 joelm joelm  141039 May 29 05:07 index.json
+-rwxrwxrwx 1 joelm joelm 1675629 Jun 29  2021 James Bond 007 Theme Tune (original)-ye8KvYKn9-0.mp3
+-rw-r--r-- 1 joelm joelm 1853557 Mar  1  2022 James Bond Theme.mp3
+-rw-r--r-- 1 joelm joelm 3271743 Nov 16  2021 John Scatman - The Scatman (Video Clip).mp3
+-rw-r--r-- 1 joelm joelm 4903235 Nov 29  2019 JoJo's Bizarre Adventure： Stardust Crusaders OST - Stardust Crusaders.mp3
+-rwxrwxrwx 1 joelm joelm 4793520 May 15  2021 linus.mp3
+-rw-r--r-- 1 joelm joelm 4550708 Oct 19  2022 Luis Fonsi - Despacito ft. Daddy Yankee.mp3
+-rw-r--r-- 1 joelm joelm 3394513 Feb 18 21:33 Mark Snow - Materia Primoris： The X-Files Theme (Main Title) (Official Audio).mp3
+drwxr-xr-x 2 joelm joelm    4096 May 26 22:46 mashups
+-rw-r--r-- 1 joelm joelm 2341908 Jul  6  2022 Men At Work - Down Under (Official HD Video).mp3
+-rw-r--r-- 1 joelm joelm 2391423 Dec 25  2019 Metal Gear Solid 1 - Encounter.mp3
+-rw-r--r-- 1 joelm joelm 7644900 Sep 12  2020 Mick Gordon - The Only Thing They Fear Is You (Remastered V2 Remix).mp3
+-rw-r--r-- 1 joelm joelm 3299691 Jan 31  2019 Mission Impossible Theme (Full Theme).mp3
+-rw-r--r-- 1 joelm joelm 2116958 Apr 28  2022 Ocean Man Lyrics.mp3
+-rw-r--r-- 1 joelm joelm 2605622 Dec  5  2022 Pirates Of The Caribbean Theme Song.mp3
+-rw-r--r-- 1 joelm joelm 1212507 Aug 14  2016 Plants vs. Zombies (Main Theme).mp3
+-rw-r--r-- 1 joelm joelm 3779705 Mar 10  2022 PSY - GANGNAM STYLE(강남스타일) M⧸V.mp3
+-rw-r--r-- 1 joelm joelm 7043263 Aug 14  2018 Rob D - Clubbed To Death [Kurayamino Mix] (The Matrix).mp3
+-rw-r--r-- 1 joelm joelm 4685440 Apr  1  2020 Spoiler.mp3
+-rw-r--r-- 1 joelm joelm 4178405 Nov 20  2018 The Benny Hill Show Theme Tune.mp3
+-rw-r--r-- 1 joelm joelm  469480 Mar  8  2014 Transformers opening theme.mp3
+-rw-r--r-- 1 joelm joelm 1817311 Oct 22  2015 Underbase： Fallen Down.mp3
+-rw-r--r-- 1 joelm joelm 2363135 Jun  4  2019 Undertale OST： 100 - Megalovania.mp3
+-rw-r--r-- 1 joelm joelm 3061316 May  3 12:18 ＂Weird＂ Al Yankovic - Amish Paradise (Parody of ＂Gangsta's Paradise＂).mp3
+-rw-r--r-- 1 joelm joelm 3062179 May  3 12:18 ＂Weird＂ Al Yankovic - Amish Paradise (Parody of ＂Gangsta's Paradise＂ - Official HD Video).mp3
+drwxr-xr-x 2 joelm joelm    4096 May 26 22:44 ytpmv
+
+./clips/songs/mashups:
+total 8728
+-rwxrwxrwx 1 joelm joelm 2563053 Jun 29  2021 Doom - Eternal - The Only Thing They Fear Is YOUUUU-LP8GRjv6AIo.mp3
+-rw-r--r-- 1 joelm joelm 2451440 Aug  5  2020 Doom： Eternal - The Only Thing They Fear Is YOUUUU.mp3
+-rw-r--r-- 1 joelm joelm   11375 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm 3903781 Sep  6  2021 Suge Rainbow Road (DaBaby x Mario Kart Wii) Full Song.mp3
+
+./clips/songs/ytpmv:
+total 6488
+-rw-r--r-- 1 joelm joelm   12077 May 29 05:07 index.json
+-rw-r--r-- 1 joelm joelm 1812208 Jan 18 09:13 Morshu's Paradise.mp3
+-rw-r--r-- 1 joelm joelm 2883855 Aug  7  2020 Scatmorshu's World.mp3
+-rw-r--r-- 1 joelm joelm  903318 Oct 20  2022 [YTPMV] Robotnik Dance (Undertale) (Unfinished).mp3
+-rw-r--r-- 1 joelm joelm 1020272 Oct 13  2022 [YTPMV] Robotniktrousle.mp3
+
+./ignore:
+total 320096
+drwxr-xr-x  2 joelm joelm      4096 May 11 17:16 jingle_palette
+drwxr-xr-x  2 joelm joelm      4096 Jun  7 00:53 MGSV Casette click
+-rw-r--r--  1 joelm joelm 327761039 Jun  7 00:45 soundboard.zip
+drwxr-xr-x 14 joelm joelm      4096 May 21 23:01 Sound Effects
+
+./ignore/jingle_palette:
+total 8244
+-rwxrwxrwx 1 joelm joelm     323 Jan 31  2021 File_id.diz
+-rwxrwxrwx 1 joelm joelm    5875 Jan 31  2021 readme.txt
+-rwxrwxrwx 1 joelm joelm 8418968 Jan 31  2021 setup_jingle_palette_v445.exe
+
+./ignore/MGSV Casette click:
+total 2960
+-rw-r--r-- 1 joelm joelm 1245184 Jun  7 00:52 casette click.aup3
+-rwxr-xr-x 1 joelm joelm   59056 May 21 22:53 just click.wav
+-rwxr-xr-x 1 joelm joelm  455896 May 21 22:53 menu sound then click with heli rotors.wav
+-rwxr-xr-x 1 joelm joelm 1265256 May 21 22:53 rip.wav
+
+./ignore/Sound Effects:
+total 129144
+-rwxr-xr-x 1 joelm joelm     59885 May 21 23:01 awwwwwwwwwwwwwwwwwww_ibek.mp3
+-rwxr-xr-x 1 joelm joelm    589868 May 21 23:01 awwwwwwwwwwwwwwwwwww_ibek-reversed.wav
+-rwxr-xr-x 1 joelm joelm    589868 May 21 23:01 awwwwwwwwwwwwwwwwwww_ibek.wav
+-rwxr-xr-x 1 joelm joelm     32834 May 21 23:01 batsignal.ogg
+-rwxr-xr-x 1 joelm joelm     37077 May 21 23:01 ClickInstallButtonToInstallExtension.mp3
+drwxr-xr-x 2 joelm joelm      4096 May 21 23:01 evil dan
+drwxr-xr-x 2 joelm joelm      4096 May 21 23:01 fock
+-rwxr-xr-x 1 joelm joelm   3668204 May 21 23:01 fock.zip
+-rwxr-xr-x 1 joelm joelm     22089 May 21 23:01 hes-so-cool.mp3
+drwxr-xr-x 2 joelm joelm      4096 May 21 23:01 less gooo
+drwxr-xr-x 2 joelm joelm      4096 May 21 23:01 me
+-rwxr-xr-x 1 joelm joelm 123076608 May 21 23:01 me.aup3
+drwxr-xr-x 3 joelm joelm      4096 May 21 23:01 MGSV Casette click
+drwxr-xr-x 2 joelm joelm      4096 May 21 23:01 NES - Metal Gear - Sound Effects
+drwxr-xr-x 4 joelm joelm      4096 May 21 23:01 Oof
+drwxr-xr-x 3 joelm joelm      4096 May 21 23:01 PC Computer - Metal Gear Solid - Sound Effects
+drwxr-xr-x 3 joelm joelm      4096 May 21 23:01 PC Computer - Untitled Goose Game - Goose
+-rwxr-xr-x 1 joelm joelm    715720 May 21 23:01 pineapple.wav
+drwxr-xr-x 3 joelm joelm      4096 May 21 23:01 pool mods
+-rwxr-xr-x 1 joelm joelm   2686976 May 21 23:01 quarkscream.aup3
+-rwxr-xr-x 1 joelm joelm     68981 May 21 23:01 quarkscream.mp3
+-rwxr-xr-x 1 joelm joelm    617140 May 21 23:01 quarkscream.wav
+drwxr-xr-x 5 joelm joelm      4096 May 21 23:01 Sound Board
+drwxr-xr-x 3 joelm joelm      4096 May 21 23:01 typing
+
+./ignore/Sound Effects/evil dan:
+total 41384
+-rwxr-xr-x 1 joelm joelm  6448555 May 21 23:01 EVIL DAN-74HvcECaE6k.mp4
+-rwxr-xr-x 1 joelm joelm 23586928 May 21 23:01 EVIL DAN absorbs the time vortex-SDCPLS3vq44.mp4
+-rwxr-xr-x 1 joelm joelm  6351933 May 21 23:01 EVIL DAN takes out his vlog competition-k2TB_2y42I8.mp4
+-rwxr-xr-x 1 joelm joelm  5643721 May 21 23:01 EVIL DAN war of the sontarans alternate ending-3teLHN9ttU8.mp4
+-rwxr-xr-x 1 joelm joelm    77871 May 21 23:01 evil evil dan.flac
+-rwxr-xr-x 1 joelm joelm   100225 May 21 23:01 hah hohh!.flac
+-rwxr-xr-x 1 joelm joelm    87481 May 21 23:01 hah hohh.flac
+-rwxr-xr-x 1 joelm joelm    63455 May 21 23:01 ha hoh.flac
+
+./ignore/Sound Effects/fock:
+total 4860
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 ball2ball.wav
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 ball2edge.wav
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 buton.wav
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 coins.wav
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 hitball.wav
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 Invite.wav
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 knock.wav
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 levelup.wav
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 msg.wav
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 newgame_org.wav
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 newgame.wav
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 poolpot.wav
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 Timer.wav
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 tmround.wav
+-rwxr-xr-x 1 joelm joelm 330022 May 21 23:01 wingame.wav
+
+./ignore/Sound Effects/less gooo:
+total 188
+-rwxr-xr-x 1 joelm joelm 116210 May 21 23:01 dababy-LEGO.flac
+-rwxr-xr-x 1 joelm joelm  29805 May 21 23:01 dababy-LEGO.mp3
+-rwxr-xr-x 1 joelm joelm  39254 May 21 23:01 Dababy Let's Go Sound Effect [HFdm5NEvtP8].webm
+
+./ignore/Sound Effects/me:
+total 3204
+-rwxr-xr-x 1 joelm joelm   23588 May 21 23:01 ding.mp3
+-rwxr-xr-x 1 joelm joelm 3254189 May 21 23:01 navy seal franch.mp3
+
+./ignore/Sound Effects/MGSV Casette click:
+total 1752
+-rwxr-xr-x 1 joelm joelm    1534 May 21 23:01 casette click.aup
+drwxr-xr-x 3 joelm joelm    4096 May 21 23:01 casette click_data
+-rwxr-xr-x 1 joelm joelm   59056 May 21 23:01 just click.wav
+-rwxr-xr-x 1 joelm joelm  455896 May 21 23:01 menu sound then click with heli rotors.wav
+-rwxr-xr-x 1 joelm joelm 1265256 May 21 23:01 rip.wav
+
+./ignore/Sound Effects/MGSV Casette click/casette click_data:
+total 4
+drwxr-xr-x 3 joelm joelm 4096 May 21 23:01 e08
+
+./ignore/Sound Effects/MGSV Casette click/casette click_data/e08:
+total 4
+drwxr-xr-x 2 joelm joelm 4096 May 21 23:01 d08
+
+./ignore/Sound Effects/MGSV Casette click/casette click_data/e08/d08:
+total 904
+-rwxr-xr-x 1 joelm joelm 462064 May 21 23:01 e080872c.au
+-rwxr-xr-x 1 joelm joelm 462064 May 21 23:01 e08088b2.au
+
+./ignore/Sound Effects/NES - Metal Gear - Sound Effects:
+total 14408
+-rwxr-xr-x 1 joelm joelm  221456 May 21 23:01 Sound Effect (10).wav
+-rwxr-xr-x 1 joelm joelm  225552 May 21 23:01 Sound Effect (11).wav
+-rwxr-xr-x 1 joelm joelm  227600 May 21 23:01 Sound Effect (12).wav
+-rwxr-xr-x 1 joelm joelm  227600 May 21 23:01 Sound Effect (13).wav
+-rwxr-xr-x 1 joelm joelm  235792 May 21 23:01 Sound Effect (14).wav
+-rwxr-xr-x 1 joelm joelm  235792 May 21 23:01 Sound Effect (15).wav
+-rwxr-xr-x 1 joelm joelm  252176 May 21 23:01 Sound Effect (16).wav
+-rwxr-xr-x 1 joelm joelm  252176 May 21 23:01 Sound Effect (17).wav
+-rwxr-xr-x 1 joelm joelm  258320 May 21 23:01 Sound Effect (18).wav
+-rwxr-xr-x 1 joelm joelm  262416 May 21 23:01 Sound Effect (19).wav
+-rwxr-xr-x 1 joelm joelm  192784 May 21 23:01 Sound Effect (1).wav
+-rwxr-xr-x 1 joelm joelm  266512 May 21 23:01 Sound Effect (20).wav
+-rwxr-xr-x 1 joelm joelm  270608 May 21 23:01 Sound Effect (21).wav
+-rwxr-xr-x 1 joelm joelm  272656 May 21 23:01 Sound Effect (22).wav
+-rwxr-xr-x 1 joelm joelm  274704 May 21 23:01 Sound Effect (23).wav
+-rwxr-xr-x 1 joelm joelm  278800 May 21 23:01 Sound Effect (24).wav
+-rwxr-xr-x 1 joelm joelm  278800 May 21 23:01 Sound Effect (25).wav
+-rwxr-xr-x 1 joelm joelm  284944 May 21 23:01 Sound Effect (26).wav
+-rwxr-xr-x 1 joelm joelm  286992 May 21 23:01 Sound Effect (27).wav
+-rwxr-xr-x 1 joelm joelm  289040 May 21 23:01 Sound Effect (28).wav
+-rwxr-xr-x 1 joelm joelm  299280 May 21 23:01 Sound Effect (29).wav
+-rwxr-xr-x 1 joelm joelm  192784 May 21 23:01 Sound Effect (2).wav
+-rwxr-xr-x 1 joelm joelm  305424 May 21 23:01 Sound Effect (30).wav
+-rwxr-xr-x 1 joelm joelm  311568 May 21 23:01 Sound Effect (31).wav
+-rwxr-xr-x 1 joelm joelm  340240 May 21 23:01 Sound Effect (32).wav
+-rwxr-xr-x 1 joelm joelm  346384 May 21 23:01 Sound Effect (33).wav
+-rwxr-xr-x 1 joelm joelm  352528 May 21 23:01 Sound Effect (34).wav
+-rwxr-xr-x 1 joelm joelm  358672 May 21 23:01 Sound Effect (35).wav
+-rwxr-xr-x 1 joelm joelm  362768 May 21 23:01 Sound Effect (36).wav
+-rwxr-xr-x 1 joelm joelm  366864 May 21 23:01 Sound Effect (37).wav
+-rwxr-xr-x 1 joelm joelm  395536 May 21 23:01 Sound Effect (38).wav
+-rwxr-xr-x 1 joelm joelm  407824 May 21 23:01 Sound Effect (39).wav
+-rwxr-xr-x 1 joelm joelm  205072 May 21 23:01 Sound Effect (3).wav
+-rwxr-xr-x 1 joelm joelm  446736 May 21 23:01 Sound Effect (40).wav
+-rwxr-xr-x 1 joelm joelm  672142 May 21 23:01 Sound Effect (41).wav
+-rwxr-xr-x 1 joelm joelm  907536 May 21 23:01 Sound Effect (42).wav
+-rwxr-xr-x 1 joelm joelm  925968 May 21 23:01 Sound Effect (43).wav
+-rwxr-xr-x 1 joelm joelm 1060766 May 21 23:01 Sound Effect (44).wav
+-rwxr-xr-x 1 joelm joelm  209168 May 21 23:01 Sound Effect (4).wav
+-rwxr-xr-x 1 joelm joelm  209168 May 21 23:01 Sound Effect (5).wav
+-rwxr-xr-x 1 joelm joelm  211216 May 21 23:01 Sound Effect (6).wav
+-rwxr-xr-x 1 joelm joelm  213264 May 21 23:01 Sound Effect (7).wav
+-rwxr-xr-x 1 joelm joelm  215312 May 21 23:01 Sound Effect (8).wav
+-rwxr-xr-x 1 joelm joelm  219408 May 21 23:01 Sound Effect (9).wav
+
+./ignore/Sound Effects/Oof:
+total 648
+-rwxr-xr-x 1 joelm joelm  59694 May 21 23:01 hitsound_custom.wav
+-rwxr-xr-x 1 joelm joelm  53146 May 21 23:01 killsound_custom.wav
+-rwxr-xr-x 1 joelm joelm   1671 May 21 23:01 Minecraft Alpha Damage - Sound Effect.aup
+drwxr-xr-x 3 joelm joelm   4096 May 21 23:01 Minecraft Alpha Damage - Sound Effect_data
+-rwxr-xr-x 1 joelm joelm  16571 May 21 23:01 Minecraft Alpha Damage - Sound Effect.mp4
+-rwxr-xr-x 1 joelm joelm 170484 May 21 23:01 Minecraft Alpha Damage - Sound Effect.wav
+-rwxr-xr-x 1 joelm joelm   1672 May 21 23:01 Roblox Death Sound - OOF Sound Effect.aup
+drwxr-xr-x 3 joelm joelm   4096 May 21 23:01 Roblox Death Sound - OOF Sound Effect_data
+-rwxr-xr-x 1 joelm joelm  33297 May 21 23:01 Roblox Death Sound - OOF Sound Effect.mp4
+-rwxr-xr-x 1 joelm joelm 299958 May 21 23:01 Roblox Death Sound - OOF Sound Effect.wav
+
+./ignore/Sound Effects/Oof/Minecraft Alpha Damage - Sound Effect_data:
+total 4
+drwxr-xr-x 3 joelm joelm 4096 May 21 23:01 e08
+
+./ignore/Sound Effects/Oof/Minecraft Alpha Damage - Sound Effect_data/e08:
+total 4
+drwxr-xr-x 2 joelm joelm 4096 May 21 23:01 d08
+
+./ignore/Sound Effects/Oof/Minecraft Alpha Damage - Sound Effect_data/e08/d08:
+total 72
+-rwxr-xr-x 1 joelm joelm 35532 May 21 23:01 e0808651.au
+-rwxr-xr-x 1 joelm joelm 35532 May 21 23:01 e08087d6.au
+
+./ignore/Sound Effects/Oof/Roblox Death Sound - OOF Sound Effect_data:
+total 4
+drwxr-xr-x 3 joelm joelm 4096 May 21 23:01 e08
+
+./ignore/Sound Effects/Oof/Roblox Death Sound - OOF Sound Effect_data/e08:
+total 4
+drwxr-xr-x 2 joelm joelm 4096 May 21 23:01 d08
+
+./ignore/Sound Effects/Oof/Roblox Death Sound - OOF Sound Effect_data/e08/d08:
+total 64
+-rwxr-xr-x 1 joelm joelm 31970 May 21 23:01 e0808342.au
+-rwxr-xr-x 1 joelm joelm 31970 May 21 23:01 e0808966.au
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects:
+total 4
+drwxr-xr-x 41 joelm joelm 4096 May 21 23:01 efx
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx:
+total 2064
+-rwxr-xr-x 1 joelm joelm  15190 May 21 23:01 0x01.wav
+-rwxr-xr-x 1 joelm joelm   2986 May 21 23:01 0x02.wav
+-rwxr-xr-x 1 joelm joelm   1496 May 21 23:01 0x03.wav
+-rwxr-xr-x 1 joelm joelm   3358 May 21 23:01 0x04.wav
+-rwxr-xr-x 1 joelm joelm  15948 May 21 23:01 0x05.wav
+-rwxr-xr-x 1 joelm joelm  15948 May 21 23:01 0x06.wav
+-rwxr-xr-x 1 joelm joelm  16748 May 21 23:01 0x07.wav
+-rwxr-xr-x 1 joelm joelm  19682 May 21 23:01 0x08.wav
+-rwxr-xr-x 1 joelm joelm   6016 May 21 23:01 0x09.wav
+-rwxr-xr-x 1 joelm joelm  10106 May 21 23:01 0x0A.wav
+-rwxr-xr-x 1 joelm joelm   3850 May 21 23:01 0x0B.wav
+-rwxr-xr-x 1 joelm joelm  11968 May 21 23:01 0x0C.wav
+-rwxr-xr-x 1 joelm joelm   8552 May 21 23:01 0x0D.wav
+-rwxr-xr-x 1 joelm joelm   8450 May 21 23:01 0x0E.wav
+-rwxr-xr-x 1 joelm joelm 169132 May 21 23:01 0x0F.wav
+-rwxr-xr-x 1 joelm joelm  12550 May 21 23:01 0x10.wav
+-rwxr-xr-x 1 joelm joelm   4214 May 21 23:01 0x11.wav
+-rwxr-xr-x 1 joelm joelm  27666 May 21 23:01 0x12.wav
+-rwxr-xr-x 1 joelm joelm  15806 May 21 23:01 0x13.wav
+-rwxr-xr-x 1 joelm joelm   5972 May 21 23:01 0x14.wav
+-rwxr-xr-x 1 joelm joelm  14732 May 21 23:01 0x15.wav
+-rwxr-xr-x 1 joelm joelm   8014 May 21 23:01 0x16.wav
+-rwxr-xr-x 1 joelm joelm   4132 May 21 23:01 0x17.wav
+-rwxr-xr-x 1 joelm joelm  12480 May 21 23:01 0x18.wav
+-rwxr-xr-x 1 joelm joelm  13578 May 21 23:01 0x19.wav
+-rwxr-xr-x 1 joelm joelm  44844 May 21 23:01 0x1a.wav
+-rwxr-xr-x 1 joelm joelm  16738 May 21 23:01 0x1B.wav
+-rwxr-xr-x 1 joelm joelm   6562 May 21 23:01 0x1C.wav
+-rwxr-xr-x 1 joelm joelm   3348 May 21 23:01 0x1D.wav
+-rwxr-xr-x 1 joelm joelm   6708 May 21 23:01 0x1E.wav
+-rwxr-xr-x 1 joelm joelm   4428 May 21 23:01 0x1F.wav
+-rwxr-xr-x 1 joelm joelm  18674 May 21 23:01 0x20.wav
+-rwxr-xr-x 1 joelm joelm  10746 May 21 23:01 0x21.wav
+-rwxr-xr-x 1 joelm joelm   6372 May 21 23:01 0x22.wav
+-rwxr-xr-x 1 joelm joelm   9894 May 21 23:01 0x23.wav
+-rwxr-xr-x 1 joelm joelm   5548 May 21 23:01 0x24.wav
+-rwxr-xr-x 1 joelm joelm  11384 May 21 23:01 0x25.wav
+-rwxr-xr-x 1 joelm joelm  14826 May 21 23:01 0x26.wav
+-rwxr-xr-x 1 joelm joelm   4500 May 21 23:01 0x27.wav
+-rwxr-xr-x 1 joelm joelm   6584 May 21 23:01 0x28.wav
+-rwxr-xr-x 1 joelm joelm  19246 May 21 23:01 0x29.wav
+-rwxr-xr-x 1 joelm joelm  18694 May 21 23:01 0x2A.wav
+-rwxr-xr-x 1 joelm joelm  17202 May 21 23:01 0x2B.wav
+-rwxr-xr-x 1 joelm joelm   3210 May 21 23:01 0x2C.wav
+-rwxr-xr-x 1 joelm joelm  12372 May 21 23:01 0x2D.wav
+-rwxr-xr-x 1 joelm joelm  11546 May 21 23:01 0x2E.wav
+-rwxr-xr-x 1 joelm joelm   5360 May 21 23:01 0x2F.wav
+-rwxr-xr-x 1 joelm joelm  12786 May 21 23:01 0x30.wav
+-rwxr-xr-x 1 joelm joelm   6042 May 21 23:01 0x31.wav
+-rwxr-xr-x 1 joelm joelm   4800 May 21 23:01 0x32.wav
+-rwxr-xr-x 1 joelm joelm  11358 May 21 23:01 0x33.wav
+-rwxr-xr-x 1 joelm joelm   9958 May 21 23:01 0x34.wav
+-rwxr-xr-x 1 joelm joelm  10490 May 21 23:01 0x35.wav
+-rwxr-xr-x 1 joelm joelm   2056 May 21 23:01 0x36.wav
+-rwxr-xr-x 1 joelm joelm   7516 May 21 23:01 0x37.wav
+-rwxr-xr-x 1 joelm joelm   8214 May 21 23:01 0x38.wav
+-rwxr-xr-x 1 joelm joelm  10070 May 21 23:01 0x39.wav
+-rwxr-xr-x 1 joelm joelm  31532 May 21 23:01 0x3A.wav
+-rwxr-xr-x 1 joelm joelm   7158 May 21 23:01 0x3B.wav
+-rwxr-xr-x 1 joelm joelm   8682 May 21 23:01 0x3C.wav
+-rwxr-xr-x 1 joelm joelm  10230 May 21 23:01 0x3D.wav
+-rwxr-xr-x 1 joelm joelm   7578 May 21 23:01 0x3E.wav
+-rwxr-xr-x 1 joelm joelm  10330 May 21 23:01 0x3F.wav
+-rwxr-xr-x 1 joelm joelm   9156 May 21 23:01 0x40.wav
+-rwxr-xr-x 1 joelm joelm  27936 May 21 23:01 0x41.wav
+-rwxr-xr-x 1 joelm joelm  17962 May 21 23:01 0x42.wav
+-rwxr-xr-x 1 joelm joelm  13252 May 21 23:01 0x43.wav
+-rwxr-xr-x 1 joelm joelm  24316 May 21 23:01 0x44.wav
+-rwxr-xr-x 1 joelm joelm   3262 May 21 23:01 0x48.wav
+-rwxr-xr-x 1 joelm joelm  14382 May 21 23:01 0x49.wav
+-rwxr-xr-x 1 joelm joelm   1696 May 21 23:01 0x4A.wav
+-rwxr-xr-x 1 joelm joelm  35458 May 21 23:01 0x4B.wav
+-rwxr-xr-x 1 joelm joelm  14504 May 21 23:01 0x4C.wav
+-rwxr-xr-x 1 joelm joelm  13120 May 21 23:01 0x4D.wav
+-rwxr-xr-x 1 joelm joelm   7396 May 21 23:01 0x4E.wav
+-rwxr-xr-x 1 joelm joelm    432 May 21 23:01 0x4F.wav
+-rwxr-xr-x 1 joelm joelm   4952 May 21 23:01 0x50.wav
+-rwxr-xr-x 1 joelm joelm   7544 May 21 23:01 0x51.wav
+-rwxr-xr-x 1 joelm joelm   9732 May 21 23:01 0x52.wav
+-rwxr-xr-x 1 joelm joelm  15872 May 21 23:01 0x53.wav
+-rwxr-xr-x 1 joelm joelm   6352 May 21 23:01 0x54.wav
+-rwxr-xr-x 1 joelm joelm   2544 May 21 23:01 0x55.wav
+-rwxr-xr-x 1 joelm joelm  13230 May 21 23:01 0x56.wav
+-rwxr-xr-x 1 joelm joelm   6412 May 21 23:01 0x57.wav
+-rwxr-xr-x 1 joelm joelm   8360 May 21 23:01 0x58.wav
+-rwxr-xr-x 1 joelm joelm   6032 May 21 23:01 0x59.wav
+-rwxr-xr-x 1 joelm joelm  17982 May 21 23:01 0x5A.wav
+-rwxr-xr-x 1 joelm joelm  13324 May 21 23:01 0x5B.wav
+-rwxr-xr-x 1 joelm joelm   9582 May 21 23:01 0x5C.wav
+-rwxr-xr-x 1 joelm joelm  20104 May 21 23:01 0x5D.wav
+-rwxr-xr-x 1 joelm joelm   4470 May 21 23:01 0x5E.wav
+-rwxr-xr-x 1 joelm joelm   5252 May 21 23:01 0x5F.wav
+-rwxr-xr-x 1 joelm joelm   3450 May 21 23:01 0x60.wav
+-rwxr-xr-x 1 joelm joelm  13918 May 21 23:01 0x61.wav
+-rwxr-xr-x 1 joelm joelm  18704 May 21 23:01 0x62.wav
+-rwxr-xr-x 1 joelm joelm   4170 May 21 23:01 0x63.wav
+-rwxr-xr-x 1 joelm joelm  62268 May 21 23:01 0x64.wav
+-rwxr-xr-x 1 joelm joelm   7976 May 21 23:01 0x65.wav
+-rwxr-xr-x 1 joelm joelm  90144 May 21 23:01 0x66.wav
+-rwxr-xr-x 1 joelm joelm   5964 May 21 23:01 0x67.wav
+-rwxr-xr-x 1 joelm joelm   1616 May 21 23:01 0x68.wav
+-rwxr-xr-x 1 joelm joelm   1930 May 21 23:01 0x69.wav
+-rwxr-xr-x 1 joelm joelm   4810 May 21 23:01 0x6A.wav
+-rwxr-xr-x 1 joelm joelm  36142 May 21 23:01 0x6b.wav
+-rwxr-xr-x 1 joelm joelm   6186 May 21 23:01 0x6C.wav
+-rwxr-xr-x 1 joelm joelm   3596 May 21 23:01 0x6D.wav
+-rwxr-xr-x 1 joelm joelm  17006 May 21 23:01 0x6E.wav
+-rwxr-xr-x 1 joelm joelm  16528 May 21 23:01 0x6F.wav
+-rwxr-xr-x 1 joelm joelm   6938 May 21 23:01 0x70.wav
+-rwxr-xr-x 1 joelm joelm  16020 May 21 23:01 0x71.wav
+-rwxr-xr-x 1 joelm joelm  10074 May 21 23:01 0x72.wav
+-rwxr-xr-x 1 joelm joelm   6726 May 21 23:01 0x73.wav
+-rwxr-xr-x 1 joelm joelm   4314 May 21 23:01 0x74.wav
+-rwxr-xr-x 1 joelm joelm   8420 May 21 23:01 0x75.wav
+-rwxr-xr-x 1 joelm joelm  14176 May 21 23:01 0x76.wav
+-rwxr-xr-x 1 joelm joelm   4560 May 21 23:01 0x77.wav
+-rwxr-xr-x 1 joelm joelm   8816 May 21 23:01 0x78.wav
+-rwxr-xr-x 1 joelm joelm  15348 May 21 23:01 0x79.wav
+-rwxr-xr-x 1 joelm joelm  48682 May 21 23:01 0x7A.wav
+-rwxr-xr-x 1 joelm joelm  26174 May 21 23:01 0x7B.wav
+-rwxr-xr-x 1 joelm joelm  14682 May 21 23:01 0x7C.wav
+-rwxr-xr-x 1 joelm joelm  19406 May 21 23:01 0x7D.wav
+-rwxr-xr-x 1 joelm joelm   6742 May 21 23:01 0x7E.wav
+-rwxr-xr-x 1 joelm joelm   5640 May 21 23:01 0x7F.wav
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample00
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample01
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample02
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample03
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample04
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample06
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample07
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample08
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample09
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample0a
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample0b
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample0c
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample0d
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample0e
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample0f
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample10
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample11
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample13
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample14
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample20
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample21
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample22
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample23
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample24
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample25
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample26
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample27
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample28
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample29
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample2a
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample2b
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample2c
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample2d
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample40
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample41
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample43
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample44
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample45
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 sample46
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample00:
+total 764
+-rwxr-xr-x 1 joelm joelm 16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm 19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm 14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm 17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm 12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm 12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm 17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm 16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm 15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm 13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm 14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm 13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm 12130 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4530 May 21 23:01 0xAE.wav
+-rwxr-xr-x 1 joelm joelm  2984 May 21 23:01 0xAF.wav
+-rwxr-xr-x 1 joelm joelm 13146 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 11386 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm 57264 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm 19114 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm 65188 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm 12742 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  9184 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 11268 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm 15508 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm 17842 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm 69026 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  3830 May 21 23:01 0xBB.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample01:
+total 656
+-rwxr-xr-x 1 joelm joelm   4892 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm  18884 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm  19282 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm   5708 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm   6028 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm  24608 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm   1096 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm   7718 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm   1724 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm  10284 May 21 23:01 0x8A.wav
+-rwxr-xr-x 1 joelm joelm   6802 May 21 23:01 0x8B.wav
+-rwxr-xr-x 1 joelm joelm   9402 May 21 23:01 0x8C.wav
+-rwxr-xr-x 1 joelm joelm   4068 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm   4646 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm   2316 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm   4414 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm   6332 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm   7498 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm   7898 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm   3512 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm   6542 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm   4260 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm   2572 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm   2152 May 21 23:01 0x9C.wav
+-rwxr-xr-x 1 joelm joelm   1396 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm   1506 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm   1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm   1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm    758 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm    672 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm   1496 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm   1026 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm    568 May 21 23:01 0xAE.wav
+-rwxr-xr-x 1 joelm joelm    556 May 21 23:01 0xAF.wav
+-rwxr-xr-x 1 joelm joelm 363950 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm   7240 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm   6738 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  26218 May 21 23:01 0xB3.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample02:
+total 932
+-rwxr-xr-x 1 joelm joelm  16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm  18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm  20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm  14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm  17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm  24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm   9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm  15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm   8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm  17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm  16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm  19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm  14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm  17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm  12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm  12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm  17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm  16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm  15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm  13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm  14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm  13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm   9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm   8580 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm   7516 May 21 23:01 0x9C.wav
+-rwxr-xr-x 1 joelm joelm   5854 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm   6084 May 21 23:01 0xA2.wav
+-rwxr-xr-x 1 joelm joelm   1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm   1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm   4530 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm   2984 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm   4992 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm   5198 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm  12556 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  11386 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  57264 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  19114 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  22060 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  22444 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm   7570 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm   4378 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  46638 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  71596 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm 123116 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  11974 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm   7636 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm  25280 May 21 23:01 0xBF.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample03:
+total 844
+-rwxr-xr-x 1 joelm joelm  16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm  18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm  20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm  14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm  17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm  24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm   9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm  15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm   8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm  17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm  16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm  19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm  14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm  17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm  12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm  12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm  13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm   9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm   7516 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm   5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm   6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm   1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm   1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm   2984 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm   4530 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm  19192 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  22444 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  22060 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm   6062 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  20920 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  11010 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  30280 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm   9960 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  17106 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm   6526 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  75726 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  10982 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  12954 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm  32656 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm 101036 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm   7570 May 21 23:01 0xBF.wav
+-rwxr-xr-x 1 joelm joelm  10938 May 21 23:01 0xC0.wav
+-rwxr-xr-x 1 joelm joelm   4378 May 21 23:01 0xC1.wav
+-rwxr-xr-x 1 joelm joelm  28150 May 21 23:01 0xC2.wav
+-rwxr-xr-x 1 joelm joelm   7636 May 21 23:01 0xC3.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample04:
+total 528
+-rwxr-xr-x 1 joelm joelm 16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm 19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm 14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm 17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm 12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm 12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm 17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm 16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm 15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm 13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm 14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm 13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm 10630 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm 11410 May 21 23:01 0x9C.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4530 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  2984 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm 22984 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm 15034 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm 14384 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  9980 May 21 23:01 0xBC.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample06:
+total 576
+-rwxr-xr-x 1 joelm joelm 16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm 19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm 14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm 17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm 12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm 12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm 17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm 16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm 15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm 13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm 14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm 13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  8580 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  9552 May 21 23:01 0x9C.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4530 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  2984 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm  4066 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  3188 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm  4992 May 21 23:01 0xAE.wav
+-rwxr-xr-x 1 joelm joelm  5198 May 21 23:01 0xAF.wav
+-rwxr-xr-x 1 joelm joelm 11974 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 46638 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  3830 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm 25280 May 21 23:01 0xBF.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample07:
+total 700
+-rwxr-xr-x 1 joelm joelm 16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm 19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm 14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm 17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm 12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm 12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm 17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm 16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm 15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm 13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm 14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm 13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm 11410 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  1948 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  2962 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm  4530 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  2984 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm  9472 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 12204 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  1934 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  1990 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm 36332 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  9794 May 21 23:01 0xb5.wav
+-rwxr-xr-x 1 joelm joelm 22818 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm  6962 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  7316 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm 11736 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  9408 May 21 23:01 0xbd.wav
+-rwxr-xr-x 1 joelm joelm 10640 May 21 23:01 0xbe.wav
+-rwxr-xr-x 1 joelm joelm 11176 May 21 23:01 0xbf.wav
+-rwxr-xr-x 1 joelm joelm 11576 May 21 23:01 0xc0.wav
+-rwxr-xr-x 1 joelm joelm 14552 May 21 23:01 0xc1.wav
+-rwxr-xr-x 1 joelm joelm 17106 May 21 23:01 0xC2.wav
+-rwxr-xr-x 1 joelm joelm 10982 May 21 23:01 0xc3.wav
+-rwxr-xr-x 1 joelm joelm 13026 May 21 23:01 0xc4.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample08:
+total 708
+-rwxr-xr-x 1 joelm joelm 16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm 19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm 14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm 17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm 12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm 12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm 17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm 16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm 15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm 13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm 14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm 13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  7516 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4530 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  2984 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm  4992 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  5198 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm 42882 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 19384 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm 16298 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  8706 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm 12822 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm 15638 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm 19162 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 43268 May 21 23:01 0xb7.wav
+-rwxr-xr-x 1 joelm joelm 15376 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm 16430 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm 16258 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  3140 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  3450 May 21 23:01 0xBC.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample09:
+total 448
+-rwxr-xr-x 1 joelm joelm 11708 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 19462 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 17090 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 13350 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 24484 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm 12080 May 21 23:01 0x8D.wav
+-rwxr-xr-x 1 joelm joelm 14804 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  7516 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  2216 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  2160 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  2036 May 21 23:01 0xA4.wav
+-rwxr-xr-x 1 joelm joelm  2196 May 21 23:01 0xA6.wav
+-rwxr-xr-x 1 joelm joelm  2342 May 21 23:01 0xA7.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm   646 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm   408 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm  1948 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  2962 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm  3322 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  2520 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  2568 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm 15494 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm 18014 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  4972 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  6268 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm  4250 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  7750 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  7730 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  9344 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm 14080 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm 11252 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm 10472 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm  2036 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm  5060 May 21 23:01 0xBF.wav
+-rwxr-xr-x 1 joelm joelm  5200 May 21 23:01 0xC0.wav
+-rwxr-xr-x 1 joelm joelm 14360 May 21 23:01 0xC1.wav
+-rwxr-xr-x 1 joelm joelm 10982 May 21 23:01 0xc2.wav
+-rwxr-xr-x 1 joelm joelm 13022 May 21 23:01 0xc3.wav
+-rwxr-xr-x 1 joelm joelm 10640 May 21 23:01 0xc4.wav
+-rwxr-xr-x 1 joelm joelm 11174 May 21 23:01 0xc5.wav
+-rwxr-xr-x 1 joelm joelm  8692 May 21 23:01 0xC6.wav
+-rwxr-xr-x 1 joelm joelm  9408 May 21 23:01 0xc7.wav
+-rwxr-xr-x 1 joelm joelm  9472 May 21 23:01 0xC8.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample0a:
+total 956
+-rwxr-xr-x 1 joelm joelm  16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm  18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm  20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm  14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm  17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm  24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm   9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm  15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm   8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm  17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm  16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm  19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm  14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm  17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm  12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm  12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm  17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm  16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm  15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm  13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm  14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm  13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm   9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm   8580 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  11410 May 21 23:01 0x9C.wav
+-rwxr-xr-x 1 joelm joelm   5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm   6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm   1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm   1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm   4530 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm   2984 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm   4422 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm   3972 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm   4992 May 21 23:01 0xAE.wav
+-rwxr-xr-x 1 joelm joelm   5198 May 21 23:01 0xAF.wav
+-rwxr-xr-x 1 joelm joelm   9928 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  11954 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  13486 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  65800 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  15242 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  18096 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  15544 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm   6498 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm   6634 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm   7582 May 21 23:01 0xBF.wav
+-rwxr-xr-x 1 joelm joelm   6630 May 21 23:01 0xC0.wav
+-rwxr-xr-x 1 joelm joelm  21152 May 21 23:01 0xC7.wav
+-rwxr-xr-x 1 joelm joelm 103212 May 21 23:01 0xC8.wav
+-rwxr-xr-x 1 joelm joelm 144684 May 21 23:01 0xC9.wav
+-rwxr-xr-x 1 joelm joelm   3790 May 21 23:01 0xCA.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample0b:
+total 488
+-rwxr-xr-x 1 joelm joelm  4892 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 18884 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 19282 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm  5708 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm  6028 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 24608 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  1096 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm  7718 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  1724 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 10284 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm  6802 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm  9402 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm  4068 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm  4646 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm  2316 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm  4414 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm  6332 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm  7498 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm  7898 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm  3512 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm  6542 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm  4260 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm  2572 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  2152 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  1396 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  1506 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm   646 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm   350 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  1360 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  1308 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm  7678 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  5270 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  3442 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm 34200 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm 36428 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  6826 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  7034 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm  7024 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  6856 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  6886 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm 47702 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm 14630 May 21 23:01 0xbb.wav
+-rwxr-xr-x 1 joelm joelm  9818 May 21 23:01 0xbc.wav
+-rwxr-xr-x 1 joelm joelm 13250 May 21 23:01 0xbd.wav
+-rwxr-xr-x 1 joelm joelm 13240 May 21 23:01 0xbe.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample0c:
+total 168
+-rwxr-xr-x 1 joelm joelm  3638 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm  5392 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 13472 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm  2200 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 19436 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  3110 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 11266 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  2494 May 21 23:01 0x8D.wav
+-rwxr-xr-x 1 joelm joelm  5920 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm  2572 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  1132 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  1316 May 21 23:01 0x9C.wav
+-rwxr-xr-x 1 joelm joelm  1522 May 21 23:01 0x9E.wav
+-rwxr-xr-x 1 joelm joelm  1998 May 21 23:01 0xA4.wav
+-rwxr-xr-x 1 joelm joelm  2210 May 21 23:01 0xA6.wav
+-rwxr-xr-x 1 joelm joelm  2300 May 21 23:01 0xA7.wav
+-rwxr-xr-x 1 joelm joelm   568 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm   556 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4066 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  3188 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm  2618 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 10610 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  2158 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  1442 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  4896 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm  1596 May 21 23:01 0xBD.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample0d:
+total 940
+-rwxr-xr-x 1 joelm joelm  16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm  18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm  20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm  14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm  17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm  24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm   9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm  15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm   8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm  17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm  16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm  19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm  14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm  17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm  12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm  12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm  17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm  16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm  15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm  13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm  14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm  13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm   9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm   8580 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm   5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm   6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm   1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm   1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm   4530 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm   2984 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm   4066 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm   3188 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm   4992 May 21 23:01 0xAE.wav
+-rwxr-xr-x 1 joelm joelm   5198 May 21 23:01 0xAF.wav
+-rwxr-xr-x 1 joelm joelm  22772 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  19054 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  16696 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  31562 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  16330 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  12742 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  12210 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm  12264 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm   9204 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  60920 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  40236 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  12612 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  47174 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm 125016 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm   4378 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm   5644 May 21 23:01 0xBF.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample0e:
+total 640
+-rwxr-xr-x 1 joelm joelm 16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm 19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm 14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm 17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm 12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm 12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm 17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm 16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm 15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm 13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm 14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm 13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  8580 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4530 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  2984 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm  4992 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  5198 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm 27826 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 15104 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm 17168 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm 11080 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm 10428 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  8436 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  8394 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 10926 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm 12104 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  6358 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  5480 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  6388 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  5788 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm  4544 May 21 23:01 0xBD.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample0f:
+total 192
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  8580 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4530 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  2984 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm  4066 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  3188 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm 17078 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 17968 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm 17834 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm 18136 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm 15034 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm 14384 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  9980 May 21 23:01 0xBC.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample10:
+total 1200
+-rwxr-xr-x 1 joelm joelm 16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm 19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm 14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm 17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm 12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm 12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm 17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm 16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm 15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm 13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm 14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm 13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  8580 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm 11556 May 21 23:01 0x9C.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4530 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  2984 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm  4992 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  5198 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm  7974 May 21 23:01 0xAE.wav
+-rwxr-xr-x 1 joelm joelm  8662 May 21 23:01 0xAF.wav
+-rwxr-xr-x 1 joelm joelm 13146 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 14430 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm 57264 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm 19114 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  8344 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm 18244 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  9220 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 11268 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  4378 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  6946 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm 46638 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  9228 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm 19162 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm 37420 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm 39612 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm 27974 May 21 23:01 0xBF.wav
+-rwxr-xr-x 1 joelm joelm 71182 May 21 23:01 0xC0.wav
+-rwxr-xr-x 1 joelm joelm 32436 May 21 23:01 0xC1.wav
+-rwxr-xr-x 1 joelm joelm 31996 May 21 23:01 0xC2.wav
+-rwxr-xr-x 1 joelm joelm 23158 May 21 23:01 0xC3.wav
+-rwxr-xr-x 1 joelm joelm 56848 May 21 23:01 0xC4.wav
+-rwxr-xr-x 1 joelm joelm 41458 May 21 23:01 0xC5.wav
+-rwxr-xr-x 1 joelm joelm 55916 May 21 23:01 0xC6.wav
+-rwxr-xr-x 1 joelm joelm  7046 May 21 23:01 0xC7.wav
+-rwxr-xr-x 1 joelm joelm 12178 May 21 23:01 0xC8.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample11:
+total 504
+-rwxr-xr-x 1 joelm joelm 16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm 19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm 14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm 17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm 12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm 12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm 17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm 16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm 15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm 13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm 14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm 13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  8436 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  8394 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 10926 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm 12104 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  6358 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  5480 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  6388 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  5788 May 21 23:01 0xBC.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample13:
+total 48
+-rwxr-xr-x 1 joelm joelm  6822 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 35644 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  1646 May 21 23:01 0xB2.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample14:
+total 604
+-rwxr-xr-x 1 joelm joelm 16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm 19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm 14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm 17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm 12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm 12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm 17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm 16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm 15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm 13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm 14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm 13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  7516 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4530 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  2984 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm 20920 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm 11010 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm 30280 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm  9960 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm 17106 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm 20672 May 21 23:01 0xC0.wav
+-rwxr-xr-x 1 joelm joelm 28150 May 21 23:01 0xC2.wav
+-rwxr-xr-x 1 joelm joelm  8186 May 21 23:01 0xC4.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample20:
+total 192
+-rwxr-xr-x 1 joelm joelm  4086 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  5772 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  5404 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  6396 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  7470 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  6742 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm   374 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 18764 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm 21460 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  9710 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  7360 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  9492 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  8142 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm  3084 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm  1372 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm  8662 May 21 23:01 0xBF.wav
+-rwxr-xr-x 1 joelm joelm 31010 May 21 23:01 0xC0.wav
+-rwxr-xr-x 1 joelm joelm  5662 May 21 23:01 0xC1.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample21:
+total 512
+-rwxr-xr-x 1 joelm joelm 17820 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 21364 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 19874 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 22644 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 16036 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 11964 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm 12876 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 13620 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm 18604 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 14574 May 21 23:01 0x89.wav
+-rwxr-xr-x 1 joelm joelm 21848 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 21660 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm 40492 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm 19116 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm 10630 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  8580 May 21 23:01 0x9C.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4530 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  2984 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm  4992 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  5198 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm  7866 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  9794 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm 14050 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  4996 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  4604 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  6072 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  9848 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm  6856 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  7304 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm 22984 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  8552 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  7002 May 21 23:01 0xBB.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample22:
+total 344
+-rwxr-xr-x 1 joelm joelm  5388 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm  9208 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 13648 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 33720 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm  4400 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 25692 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm 18788 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm  5938 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  4100 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm  2572 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm   568 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm   556 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  5416 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 12280 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  4484 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  5118 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  5184 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm 54036 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  5084 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 13608 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  9814 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  2826 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  2352 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  4392 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  4066 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm  3742 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm  5020 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm 18960 May 21 23:01 0xBF.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample23:
+total 520
+-rwxr-xr-x 1 joelm joelm 20960 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 21130 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 21158 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 17824 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 22002 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 31666 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm 19924 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 14834 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm 16918 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 17694 May 21 23:01 0x89.wav
+-rwxr-xr-x 1 joelm joelm 19546 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 20304 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm 15206 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm 20334 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm 15662 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm 18870 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  7516 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1948 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  2962 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm 10526 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 11600 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  7386 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  8702 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  8916 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  7248 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  7922 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 18094 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm 11876 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  4086 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  4426 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  8186 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  7730 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm  5490 May 21 23:01 0xBD.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample24:
+total 736
+-rwxr-xr-x 1 joelm joelm 35982 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 17560 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 17188 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 21782 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 25384 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 37558 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm 22750 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 28090 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm 15560 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 32448 May 21 23:01 0x89.wav
+-rwxr-xr-x 1 joelm joelm 10982 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 13146 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm 13468 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm 24816 May 21 23:01 0x8D.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  8458 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  8580 May 21 23:01 0x9C.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4066 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  3188 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm  1948 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  2962 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm  9472 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  9660 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  9682 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  5294 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  9630 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  9342 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm 11996 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 14682 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm 12988 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm 12288 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm 11796 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  7250 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  9836 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm  9408 May 21 23:01 0xbd.wav
+-rwxr-xr-x 1 joelm joelm 10620 May 21 23:01 0xbe.wav
+-rwxr-xr-x 1 joelm joelm 11176 May 21 23:01 0xbf.wav
+-rwxr-xr-x 1 joelm joelm 13324 May 21 23:01 0xC1.wav
+-rwxr-xr-x 1 joelm joelm  8360 May 21 23:01 0xC2.wav
+-rwxr-xr-x 1 joelm joelm 20450 May 21 23:01 0xC3.wav
+-rwxr-xr-x 1 joelm joelm  8600 May 21 23:01 0xC4.wav
+-rwxr-xr-x 1 joelm joelm 23416 May 21 23:01 0xC5.wav
+-rwxr-xr-x 1 joelm joelm 13162 May 21 23:01 0xC6.wav
+-rwxr-xr-x 1 joelm joelm  7270 May 21 23:01 0xC7.wav
+-rwxr-xr-x 1 joelm joelm  9954 May 21 23:01 0xC8.wav
+-rwxr-xr-x 1 joelm joelm  1494 May 21 23:01 0xC9.wav
+-rwxr-xr-x 1 joelm joelm   278 May 21 23:01 0xCA.wav
+-rwxr-xr-x 1 joelm joelm  3184 May 21 23:01 0xCB.wav
+-rwxr-xr-x 1 joelm joelm  1488 May 21 23:01 0xCC.wav
+-rwxr-xr-x 1 joelm joelm   576 May 21 23:01 0xCD.wav
+-rwxr-xr-x 1 joelm joelm   570 May 21 23:01 0xCE.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample25:
+total 228
+-rwxr-xr-x 1 joelm joelm  3638 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm  5392 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 13472 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm  2200 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm  2606 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  4496 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 11266 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  5108 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm  8732 May 21 23:01 0x89.wav
+-rwxr-xr-x 1 joelm joelm 10236 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm  6320 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm  7098 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm  5720 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  8580 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm   420 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm   350 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4066 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  3188 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm  1472 May 21 23:01 0xAE.wav
+-rwxr-xr-x 1 joelm joelm  1374 May 21 23:01 0xAF.wav
+-rwxr-xr-x 1 joelm joelm  6946 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  7874 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  6016 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm 16738 May 21 23:01 0xB3.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample26:
+total 344
+-rwxr-xr-x 1 joelm joelm 125732 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm   5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm   6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm   1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm   1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  57980 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm   8606 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  23162 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm   6204 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm   5248 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  16084 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  16782 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm  11646 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  11618 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  11490 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm   8328 May 21 23:01 0xBA.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample27:
+total 144
+-rwxr-xr-x 1 joelm joelm  2754 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm  3508 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm  2572 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  1396 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  1506 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm   646 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm   350 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm 21230 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  5262 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  1814 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  4210 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  5270 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  3442 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  6826 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm  1130 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  2604 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  3034 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm 18570 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm 20434 May 21 23:01 0xBB.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample28:
+total 476
+-rwxr-xr-x 1 joelm joelm 20806 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 22006 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 21804 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 19168 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 16890 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 17516 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm 16130 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 21204 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm 29048 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 20318 May 21 23:01 0x89.wav
+-rwxr-xr-x 1 joelm joelm 22008 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm 14636 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 19556 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm 11912 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm 13292 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm 11254 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  8436 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  8394 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 10926 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm 12104 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  6358 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  5480 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  6388 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  5788 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm 11030 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm 10702 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm 10584 May 21 23:01 0xBF.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample29:
+total 740
+-rwxr-xr-x 1 joelm joelm 26628 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 32064 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 18678 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 27098 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 33744 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 29122 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm 20060 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 21222 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm 29364 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 18544 May 21 23:01 0x89.wav
+-rwxr-xr-x 1 joelm joelm 24276 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 16128 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4530 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  2984 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm 18956 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 22534 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm 18392 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm 29838 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm 18094 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm 10292 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  8006 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm  6730 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm 16534 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm 10850 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm 11968 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm 16080 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm 17868 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm 17004 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm 12536 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm 19110 May 21 23:01 0xBF.wav
+-rwxr-xr-x 1 joelm joelm 18318 May 21 23:01 0xC0.wav
+-rwxr-xr-x 1 joelm joelm 13724 May 21 23:01 0xC1.wav
+-rwxr-xr-x 1 joelm joelm 16380 May 21 23:01 0xC2.wav
+-rwxr-xr-x 1 joelm joelm  8558 May 21 23:01 0xC3.wav
+-rwxr-xr-x 1 joelm joelm  9854 May 21 23:01 0xC4.wav
+-rwxr-xr-x 1 joelm joelm 19310 May 21 23:01 0xC5.wav
+-rwxr-xr-x 1 joelm joelm  5996 May 21 23:01 0xC6.wav
+-rwxr-xr-x 1 joelm joelm  8596 May 21 23:01 0xC7.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample2a:
+total 492
+-rwxr-xr-x 1 joelm joelm 25328 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 25192 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 27432 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 17030 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 13600 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 15212 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm 14456 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 15668 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm 15156 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 13278 May 21 23:01 0x89.wav
+-rwxr-xr-x 1 joelm joelm 16886 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 19886 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  9098 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 11020 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm 20270 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm 16188 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm 11854 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm 11812 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm 17160 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm  1500 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm 25910 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  7316 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm 75338 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  7254 May 21 23:01 0xBB.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample2b:
+total 956
+-rwxr-xr-x 1 joelm joelm  25134 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm  16054 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm  13396 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm  14986 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm  17564 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm  17446 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  17896 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm  19858 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  12768 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm  18466 May 21 23:01 0x89.wav
+-rwxr-xr-x 1 joelm joelm  14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm  15962 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm  12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm  12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm  17252 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm   9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm   8580 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm   5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm   6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm   1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm   1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm   4066 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm   3188 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm  15636 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  38940 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  22620 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  18042 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  23626 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  76398 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  21228 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm  21222 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  25482 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  15414 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  15264 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  21828 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  19456 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm  13366 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm  14702 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm  14152 May 21 23:01 0xBF.wav
+-rwxr-xr-x 1 joelm joelm  19884 May 21 23:01 0xC0.wav
+-rwxr-xr-x 1 joelm joelm  12688 May 21 23:01 0xC1.wav
+-rwxr-xr-x 1 joelm joelm  19426 May 21 23:01 0xC2.wav
+-rwxr-xr-x 1 joelm joelm   3420 May 21 23:01 0xC3.wav
+-rwxr-xr-x 1 joelm joelm 106068 May 21 23:01 0xC4.wav
+-rwxr-xr-x 1 joelm joelm   9230 May 21 23:01 0xC5.wav
+-rwxr-xr-x 1 joelm joelm   5060 May 21 23:01 0xC7.wav
+-rwxr-xr-x 1 joelm joelm   5200 May 21 23:01 0xC8.wav
+-rwxr-xr-x 1 joelm joelm  11042 May 21 23:01 0xC9.wav
+-rwxr-xr-x 1 joelm joelm  10088 May 21 23:01 0xCA.wav
+-rwxr-xr-x 1 joelm joelm   9544 May 21 23:01 0xCB.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample2c:
+total 848
+-rwxr-xr-x 1 joelm joelm   2628 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm  12000 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm   8692 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm  16038 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm   9822 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm  14116 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm   2572 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm   2152 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm   1396 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm   1506 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm    646 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm    350 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm   1360 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm   1308 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm   1822 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm   1806 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm   1496 May 21 23:01 0xAE.wav
+-rwxr-xr-x 1 joelm joelm   1026 May 21 23:01 0xAF.wav
+-rwxr-xr-x 1 joelm joelm  15582 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm   5270 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm   3442 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  34200 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  36428 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  14572 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  14796 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm  14796 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  14764 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  14764 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  11052 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  10788 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  19640 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm   5314 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm  22960 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm   7154 May 21 23:01 0xBF.wav
+-rwxr-xr-x 1 joelm joelm  30138 May 21 23:01 0xC0.wav
+-rwxr-xr-x 1 joelm joelm  19626 May 21 23:01 0xC2.wav
+-rwxr-xr-x 1 joelm joelm   9630 May 21 23:01 0xC3.wav
+-rwxr-xr-x 1 joelm joelm   2374 May 21 23:01 0xC4.wav
+-rwxr-xr-x 1 joelm joelm   2394 May 21 23:01 0xC5.wav
+-rwxr-xr-x 1 joelm joelm   1130 May 21 23:01 0xC6.wav
+-rwxr-xr-x 1 joelm joelm   3034 May 21 23:01 0xC7.wav
+-rwxr-xr-x 1 joelm joelm  32328 May 21 23:01 0xC8.wav
+-rwxr-xr-x 1 joelm joelm 127532 May 21 23:01 0xC9.wav
+-rwxr-xr-x 1 joelm joelm  56174 May 21 23:01 0xCA.wav
+-rwxr-xr-x 1 joelm joelm    340 May 21 23:01 0xCB.wav
+-rwxr-xr-x 1 joelm joelm 103556 May 21 23:01 0xCC.wav
+-rwxr-xr-x 1 joelm joelm   1180 May 21 23:01 0xCD.wav
+-rwxr-xr-x 1 joelm joelm   2394 May 21 23:01 0xCE.wav
+-rwxr-xr-x 1 joelm joelm  12146 May 21 23:01 0xCF.wav
+-rwxr-xr-x 1 joelm joelm  11852 May 21 23:01 0xD0.wav
+-rwxr-xr-x 1 joelm joelm  11296 May 21 23:01 0xD1.wav
+-rwxr-xr-x 1 joelm joelm  12546 May 21 23:01 0xD2.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample2d:
+total 124
+-rwxr-xr-x 1 joelm joelm  9122 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4530 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  2984 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm 42882 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  8706 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm 19162 May 21 23:01 0xB6.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample40:
+total 1300
+-rwxr-xr-x 1 joelm joelm  16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm  18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm  20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm  14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm  17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm  24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm   9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm  15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm   8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm  17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm  16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm  19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm  14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm  17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm  12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm  12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm  17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm  16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm  15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm  13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm  14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm  13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm   7716 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm   5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm   6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm   5854 May 21 23:01 0xA2.wav
+-rwxr-xr-x 1 joelm joelm   6084 May 21 23:01 0xA3.wav
+-rwxr-xr-x 1 joelm joelm   5854 May 21 23:01 0xA4.wav
+-rwxr-xr-x 1 joelm joelm   6084 May 21 23:01 0xA5.wav
+-rwxr-xr-x 1 joelm joelm   5854 May 21 23:01 0xA6.wav
+-rwxr-xr-x 1 joelm joelm   6084 May 21 23:01 0xA7.wav
+-rwxr-xr-x 1 joelm joelm   1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm   1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm   1948 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm   2962 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm   4992 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm   5198 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm   3782 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm   5444 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm   3830 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm   9474 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm   3672 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm   4702 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm   4702 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 103556 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  12586 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm   9376 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  26518 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm   7196 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  11500 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm  13966 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm  26878 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm   2286 May 21 23:01 0xBF.wav
+-rwxr-xr-x 1 joelm joelm   2812 May 21 23:01 0xC0.wav
+-rwxr-xr-x 1 joelm joelm   7122 May 21 23:01 0xC1.wav
+-rwxr-xr-x 1 joelm joelm  40344 May 21 23:01 0xC2.wav
+-rwxr-xr-x 1 joelm joelm  12058 May 21 23:01 0xC3.wav
+-rwxr-xr-x 1 joelm joelm    374 May 21 23:01 0xC4.wav
+-rwxr-xr-x 1 joelm joelm  15034 May 21 23:01 0xC5.wav
+-rwxr-xr-x 1 joelm joelm  14384 May 21 23:01 0xC6.wav
+-rwxr-xr-x 1 joelm joelm   9980 May 21 23:01 0xC7.wav
+-rwxr-xr-x 1 joelm joelm  19824 May 21 23:01 0xC8.wav
+-rwxr-xr-x 1 joelm joelm  11664 May 21 23:01 0xC9.wav
+-rwxr-xr-x 1 joelm joelm  13632 May 21 23:01 0xCA.wav
+-rwxr-xr-x 1 joelm joelm  13894 May 21 23:01 0xCB.wav
+-rwxr-xr-x 1 joelm joelm  14530 May 21 23:01 0xCC.wav
+-rwxr-xr-x 1 joelm joelm  13826 May 21 23:01 0xCD.wav
+-rwxr-xr-x 1 joelm joelm  18132 May 21 23:01 0xce.wav
+-rwxr-xr-x 1 joelm joelm  18678 May 21 23:01 0xcf.wav
+-rwxr-xr-x 1 joelm joelm  14162 May 21 23:01 0xd0.wav
+-rwxr-xr-x 1 joelm joelm  15304 May 21 23:01 0xd1.wav
+-rwxr-xr-x 1 joelm joelm  20722 May 21 23:01 0xd2.wav
+-rwxr-xr-x 1 joelm joelm  45900 May 21 23:01 0xD3.wav
+-rwxr-xr-x 1 joelm joelm  10576 May 21 23:01 0xD4.wav
+-rwxr-xr-x 1 joelm joelm  11136 May 21 23:01 0xD5.wav
+-rwxr-xr-x 1 joelm joelm  18848 May 21 23:01 0xD6.wav
+-rwxr-xr-x 1 joelm joelm   7020 May 21 23:01 0xD7.wav
+-rwxr-xr-x 1 joelm joelm  13790 May 21 23:01 0xD8.wav
+-rwxr-xr-x 1 joelm joelm   8954 May 21 23:01 0xD9.wav
+-rwxr-xr-x 1 joelm joelm   5664 May 21 23:01 0xDA.wav
+-rwxr-xr-x 1 joelm joelm  79466 May 21 23:01 0xDB.wav
+-rwxr-xr-x 1 joelm joelm   9090 May 21 23:01 0xDC.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample41:
+total 1000
+-rwxr-xr-x 1 joelm joelm  38160 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm  22024 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm  21416 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm  18456 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm  20622 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm  11838 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  37068 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm  48024 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  16188 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm  21456 May 21 23:01 0x89.wav
+-rwxr-xr-x 1 joelm joelm  15350 May 21 23:01 0x8A.wav
+-rwxr-xr-x 1 joelm joelm  18786 May 21 23:01 0x8B.wav
+-rwxr-xr-x 1 joelm joelm  14264 May 21 23:01 0x8C.wav
+-rwxr-xr-x 1 joelm joelm   7716 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm   5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm   6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm   5854 May 21 23:01 0xA2.wav
+-rwxr-xr-x 1 joelm joelm   6084 May 21 23:01 0xA3.wav
+-rwxr-xr-x 1 joelm joelm   5854 May 21 23:01 0xA4.wav
+-rwxr-xr-x 1 joelm joelm   6084 May 21 23:01 0xA5.wav
+-rwxr-xr-x 1 joelm joelm   5854 May 21 23:01 0xA6.wav
+-rwxr-xr-x 1 joelm joelm   6084 May 21 23:01 0xA7.wav
+-rwxr-xr-x 1 joelm joelm   1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm   1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm   1948 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm   2962 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm   4992 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm   5198 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm   3782 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm   5444 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm   3830 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm   9474 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm   3672 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm   4702 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm   4702 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm  12586 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm   9376 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm  26518 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm   7196 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  11500 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm  13966 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm  26878 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm   2286 May 21 23:01 0xBF.wav
+-rwxr-xr-x 1 joelm joelm   2812 May 21 23:01 0xC0.wav
+-rwxr-xr-x 1 joelm joelm  40344 May 21 23:01 0xC2.wav
+-rwxr-xr-x 1 joelm joelm  12058 May 21 23:01 0xC3.wav
+-rwxr-xr-x 1 joelm joelm    374 May 21 23:01 0xC4.wav
+-rwxr-xr-x 1 joelm joelm  18684 May 21 23:01 0xC5.wav
+-rwxr-xr-x 1 joelm joelm  19936 May 21 23:01 0xC6.wav
+-rwxr-xr-x 1 joelm joelm  19570 May 21 23:01 0xC7.wav
+-rwxr-xr-x 1 joelm joelm  50282 May 21 23:01 0xC8.wav
+-rwxr-xr-x 1 joelm joelm 130348 May 21 23:01 0xC9.wav
+-rwxr-xr-x 1 joelm joelm  12254 May 21 23:01 0xCA.wav
+-rwxr-xr-x 1 joelm joelm  16578 May 21 23:01 0xCB.wav
+-rwxr-xr-x 1 joelm joelm  19034 May 21 23:01 0xCC.wav
+-rwxr-xr-x 1 joelm joelm  23314 May 21 23:01 0xCD.wav
+-rwxr-xr-x 1 joelm joelm  22042 May 21 23:01 0xCE.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample43:
+total 1040
+-rwxr-xr-x 1 joelm joelm 16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm 19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm 14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm 17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm 12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm 12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm 17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm 16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm 15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm 13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm 14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm 13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm  7716 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  7766 May 21 23:01 0x9B.wav
+-rwxr-xr-x 1 joelm joelm  6058 May 21 23:01 0x9C.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA2.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA3.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA4.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA5.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA6.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA7.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  1948 May 21 23:01 0xAA.wav
+-rwxr-xr-x 1 joelm joelm  2962 May 21 23:01 0xAB.wav
+-rwxr-xr-x 1 joelm joelm  4692 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  4356 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm   562 May 21 23:01 0xAE.wav
+-rwxr-xr-x 1 joelm joelm  1626 May 21 23:01 0xAF.wav
+-rwxr-xr-x 1 joelm joelm  3782 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  5444 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  3830 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  9474 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  3672 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  4702 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  4702 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 12586 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  9376 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm 26518 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  7196 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm 11500 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm 13966 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm 26878 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm  2286 May 21 23:01 0xBF.wav
+-rwxr-xr-x 1 joelm joelm  2812 May 21 23:01 0xC0.wav
+-rwxr-xr-x 1 joelm joelm 40344 May 21 23:01 0xC2.wav
+-rwxr-xr-x 1 joelm joelm 12058 May 21 23:01 0xC3.wav
+-rwxr-xr-x 1 joelm joelm   374 May 21 23:01 0xC4.wav
+-rwxr-xr-x 1 joelm joelm  9114 May 21 23:01 0xCD.wav
+-rwxr-xr-x 1 joelm joelm 11144 May 21 23:01 0xCE.wav
+-rwxr-xr-x 1 joelm joelm 13494 May 21 23:01 0xCF.wav
+-rwxr-xr-x 1 joelm joelm 13660 May 21 23:01 0xD0.wav
+-rwxr-xr-x 1 joelm joelm  3798 May 21 23:01 0xD1.wav
+-rwxr-xr-x 1 joelm joelm  2892 May 21 23:01 0xD2.wav
+-rwxr-xr-x 1 joelm joelm 16326 May 21 23:01 0xD3.wav
+-rwxr-xr-x 1 joelm joelm 17458 May 21 23:01 0xD4.wav
+-rwxr-xr-x 1 joelm joelm 24386 May 21 23:01 0xD5.wav
+-rwxr-xr-x 1 joelm joelm 60918 May 21 23:01 0xD6.wav
+-rwxr-xr-x 1 joelm joelm 58048 May 21 23:01 0xD7.wav
+-rwxr-xr-x 1 joelm joelm  5204 May 21 23:01 0xD8.wav
+-rwxr-xr-x 1 joelm joelm  5306 May 21 23:01 0xD9.wav
+-rwxr-xr-x 1 joelm joelm 32162 May 21 23:01 0xDE.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample44:
+total 1000
+-rwxr-xr-x 1 joelm joelm 16526 May 21 23:01 0x80.wav
+-rwxr-xr-x 1 joelm joelm 18892 May 21 23:01 0x81.wav
+-rwxr-xr-x 1 joelm joelm 20136 May 21 23:01 0x82.wav
+-rwxr-xr-x 1 joelm joelm 14880 May 21 23:01 0x83.wav
+-rwxr-xr-x 1 joelm joelm 17860 May 21 23:01 0x84.wav
+-rwxr-xr-x 1 joelm joelm 24770 May 21 23:01 0x85.wav
+-rwxr-xr-x 1 joelm joelm  9382 May 21 23:01 0x86.wav
+-rwxr-xr-x 1 joelm joelm 15318 May 21 23:01 0x87.wav
+-rwxr-xr-x 1 joelm joelm  8340 May 21 23:01 0x88.wav
+-rwxr-xr-x 1 joelm joelm 17594 May 21 23:01 0x8a.wav
+-rwxr-xr-x 1 joelm joelm 16614 May 21 23:01 0x8b.wav
+-rwxr-xr-x 1 joelm joelm 19606 May 21 23:01 0x8c.wav
+-rwxr-xr-x 1 joelm joelm 14826 May 21 23:01 0x8d.wav
+-rwxr-xr-x 1 joelm joelm 17174 May 21 23:01 0x8e.wav
+-rwxr-xr-x 1 joelm joelm 12256 May 21 23:01 0x8f.wav
+-rwxr-xr-x 1 joelm joelm 12970 May 21 23:01 0x90.wav
+-rwxr-xr-x 1 joelm joelm 17728 May 21 23:01 0x91.wav
+-rwxr-xr-x 1 joelm joelm 16294 May 21 23:01 0x92.wav
+-rwxr-xr-x 1 joelm joelm 15642 May 21 23:01 0x93.wav
+-rwxr-xr-x 1 joelm joelm 13450 May 21 23:01 0x94.wav
+-rwxr-xr-x 1 joelm joelm 14980 May 21 23:01 0x95.wav
+-rwxr-xr-x 1 joelm joelm 13722 May 21 23:01 0x96.wav
+-rwxr-xr-x 1 joelm joelm  7716 May 21 23:01 0x9A.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA2.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA3.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA4.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA5.wav
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA6.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA7.wav
+-rwxr-xr-x 1 joelm joelm  4086 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  4426 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm  4692 May 21 23:01 0xAC.wav
+-rwxr-xr-x 1 joelm joelm  4356 May 21 23:01 0xAD.wav
+-rwxr-xr-x 1 joelm joelm  6004 May 21 23:01 0xAE.wav
+-rwxr-xr-x 1 joelm joelm  6100 May 21 23:01 0xAF.wav
+-rwxr-xr-x 1 joelm joelm  3782 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  5444 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  3830 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  9474 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm  3672 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  4702 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  4702 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 12586 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm  9376 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm 26518 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  7196 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm 11500 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm 13966 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm 26878 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm  2286 May 21 23:01 0xBF.wav
+-rwxr-xr-x 1 joelm joelm  2812 May 21 23:01 0xC0.wav
+-rwxr-xr-x 1 joelm joelm 25112 May 21 23:01 0xC2.wav
+-rwxr-xr-x 1 joelm joelm 12058 May 21 23:01 0xC3.wav
+-rwxr-xr-x 1 joelm joelm   374 May 21 23:01 0xC4.wav
+-rwxr-xr-x 1 joelm joelm 17296 May 21 23:01 0xc5.wav
+-rwxr-xr-x 1 joelm joelm 19354 May 21 23:01 0xc6.wav
+-rwxr-xr-x 1 joelm joelm 49158 May 21 23:01 0xc7.wav
+-rwxr-xr-x 1 joelm joelm 12114 May 21 23:01 0xc8.wav
+-rwxr-xr-x 1 joelm joelm 21854 May 21 23:01 0xc9.wav
+-rwxr-xr-x 1 joelm joelm 11600 May 21 23:01 0xCA.wav
+-rwxr-xr-x 1 joelm joelm  7386 May 21 23:01 0xCB.wav
+-rwxr-xr-x 1 joelm joelm  8702 May 21 23:01 0xCC.wav
+-rwxr-xr-x 1 joelm joelm  8916 May 21 23:01 0xCD.wav
+-rwxr-xr-x 1 joelm joelm  7248 May 21 23:01 0xCE.wav
+-rwxr-xr-x 1 joelm joelm  7922 May 21 23:01 0xCF.wav
+-rwxr-xr-x 1 joelm joelm 18094 May 21 23:01 0xD0.wav
+-rwxr-xr-x 1 joelm joelm  8186 May 21 23:01 0xD1.wav
+-rwxr-xr-x 1 joelm joelm  7730 May 21 23:01 0xD2.wav
+-rwxr-xr-x 1 joelm joelm  5490 May 21 23:01 0xD3.wav
+-rwxr-xr-x 1 joelm joelm  6664 May 21 23:01 0xD4.wav
+-rwxr-xr-x 1 joelm joelm  9946 May 21 23:01 0xD5.wav
+-rwxr-xr-x 1 joelm joelm  7850 May 21 23:01 0xD6.wav
+-rwxr-xr-x 1 joelm joelm  6280 May 21 23:01 0xD7.wav
+-rwxr-xr-x 1 joelm joelm  6954 May 21 23:01 0xD8.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample45:
+total 408
+-rwxr-xr-x 1 joelm joelm  5854 May 21 23:01 0xA0.wav
+-rwxr-xr-x 1 joelm joelm  6084 May 21 23:01 0xA1.wav
+-rwxr-xr-x 1 joelm joelm  1496 May 21 23:01 0xA8.wav
+-rwxr-xr-x 1 joelm joelm  1026 May 21 23:01 0xA9.wav
+-rwxr-xr-x 1 joelm joelm 56062 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm  9776 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm  9778 May 21 23:01 0xB2.wav
+-rwxr-xr-x 1 joelm joelm  6584 May 21 23:01 0xB4.wav
+-rwxr-xr-x 1 joelm joelm  5394 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm  8448 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 12336 May 21 23:01 0xB7.wav
+-rwxr-xr-x 1 joelm joelm  9376 May 21 23:01 0xB8.wav
+-rwxr-xr-x 1 joelm joelm 26560 May 21 23:01 0xB9.wav
+-rwxr-xr-x 1 joelm joelm 36700 May 21 23:01 0xBA.wav
+-rwxr-xr-x 1 joelm joelm  5324 May 21 23:01 0xBB.wav
+-rwxr-xr-x 1 joelm joelm  4534 May 21 23:01 0xBC.wav
+-rwxr-xr-x 1 joelm joelm  4080 May 21 23:01 0xBD.wav
+-rwxr-xr-x 1 joelm joelm  2884 May 21 23:01 0xBE.wav
+-rwxr-xr-x 1 joelm joelm  1508 May 21 23:01 0xBF.wav
+-rwxr-xr-x 1 joelm joelm   470 May 21 23:01 0xC0.wav
+-rwxr-xr-x 1 joelm joelm  3098 May 21 23:01 0xC1.wav
+-rwxr-xr-x 1 joelm joelm  6460 May 21 23:01 0xC2.wav
+-rwxr-xr-x 1 joelm joelm  9514 May 21 23:01 0xC3.wav
+-rwxr-xr-x 1 joelm joelm  2474 May 21 23:01 0xC4.wav
+-rwxr-xr-x 1 joelm joelm  2750 May 21 23:01 0xC5.wav
+-rwxr-xr-x 1 joelm joelm  2830 May 21 23:01 0xC6.wav
+-rwxr-xr-x 1 joelm joelm  4156 May 21 23:01 0xC7.wav
+-rwxr-xr-x 1 joelm joelm  4638 May 21 23:01 0xC8.wav
+-rwxr-xr-x 1 joelm joelm  5846 May 21 23:01 0xC9.wav
+-rwxr-xr-x 1 joelm joelm  5068 May 21 23:01 0xCA.wav
+-rwxr-xr-x 1 joelm joelm  3184 May 21 23:01 0xCB.wav
+-rwxr-xr-x 1 joelm joelm  6288 May 21 23:01 0xCC.wav
+-rwxr-xr-x 1 joelm joelm  3316 May 21 23:01 0xCD.wav
+-rwxr-xr-x 1 joelm joelm  4950 May 21 23:01 0xCE.wav
+-rwxr-xr-x 1 joelm joelm  3580 May 21 23:01 0xCF.wav
+-rwxr-xr-x 1 joelm joelm  4046 May 21 23:01 0xD0.wav
+-rwxr-xr-x 1 joelm joelm  4170 May 21 23:01 0xD1.wav
+-rwxr-xr-x 1 joelm joelm  1992 May 21 23:01 0xD2.wav
+-rwxr-xr-x 1 joelm joelm   528 May 21 23:01 0xD3.wav
+-rwxr-xr-x 1 joelm joelm  3578 May 21 23:01 0xD4.wav
+-rwxr-xr-x 1 joelm joelm  4044 May 21 23:01 0xD5.wav
+-rwxr-xr-x 1 joelm joelm  6116 May 21 23:01 0xD6.wav
+-rwxr-xr-x 1 joelm joelm  5642 May 21 23:01 0xD7.wav
+-rwxr-xr-x 1 joelm joelm  7182 May 21 23:01 0xD8.wav
+-rwxr-xr-x 1 joelm joelm  1514 May 21 23:01 0xD9.wav
+
+./ignore/Sound Effects/PC Computer - Metal Gear Solid - Sound Effects/efx/sample46:
+total 52
+-rwxr-xr-x 1 joelm joelm 6822 May 21 23:01 0xB0.wav
+-rwxr-xr-x 1 joelm joelm 5444 May 21 23:01 0xB1.wav
+-rwxr-xr-x 1 joelm joelm 9474 May 21 23:01 0xB3.wav
+-rwxr-xr-x 1 joelm joelm 4702 May 21 23:01 0xB5.wav
+-rwxr-xr-x 1 joelm joelm 4702 May 21 23:01 0xB6.wav
+-rwxr-xr-x 1 joelm joelm 2286 May 21 23:01 0xBF.wav
+-rwxr-xr-x 1 joelm joelm  374 May 21 23:01 0xC4.wav
+
+./ignore/Sound Effects/PC Computer - Untitled Goose Game - Goose:
+total 4
+drwxr-xr-x 4 joelm joelm 4096 May 21 23:01 Goose
+
+./ignore/Sound Effects/PC Computer - Untitled Goose Game - Goose/Goose:
+total 16
+drwxr-xr-x 2 joelm joelm 12288 May 21 23:01 Sound Effects
+drwxr-xr-x 2 joelm joelm  4096 May 21 23:01 Voice
+
+./ignore/Sound Effects/PC Computer - Untitled Goose Game - Goose/Goose/Sound Effects:
+total 6936
+-rwxr-xr-x 1 joelm joelm  15180 May 21 23:01 goose_blanket_run_01.wav
+-rwxr-xr-x 1 joelm joelm  15180 May 21 23:01 goose_blanket_run_02.wav
+-rwxr-xr-x 1 joelm joelm  15180 May 21 23:01 goose_blanket_run_03.wav
+-rwxr-xr-x 1 joelm joelm  15180 May 21 23:01 goose_blanket_run_04.wav
+-rwxr-xr-x 1 joelm joelm  15180 May 21 23:01 goose_blanket_run_05.wav
+-rwxr-xr-x 1 joelm joelm  15180 May 21 23:01 goose_blanket_run_06.wav
+-rwxr-xr-x 1 joelm joelm  15180 May 21 23:01 goose_blanket_run_07.wav
+-rwxr-xr-x 1 joelm joelm  15180 May 21 23:01 goose_blanket_run_08.wav
+-rwxr-xr-x 1 joelm joelm  15180 May 21 23:01 goose_blanket_run_09.wav
+-rwxr-xr-x 1 joelm joelm  16662 May 21 23:01 goose_blanket_walk_01.wav
+-rwxr-xr-x 1 joelm joelm  16662 May 21 23:01 goose_blanket_walk_02.wav
+-rwxr-xr-x 1 joelm joelm  16656 May 21 23:01 goose_blanket_walk_03.wav
+-rwxr-xr-x 1 joelm joelm  16662 May 21 23:01 goose_blanket_walk_04.wav
+-rwxr-xr-x 1 joelm joelm  16662 May 21 23:01 goose_blanket_walk_05.wav
+-rwxr-xr-x 1 joelm joelm  16662 May 21 23:01 goose_blanket_walk_06.wav
+-rwxr-xr-x 1 joelm joelm  16662 May 21 23:01 goose_blanket_walk_07.wav
+-rwxr-xr-x 1 joelm joelm  48796 May 21 23:01 goose_bushes_move_01.wav
+-rwxr-xr-x 1 joelm joelm  54510 May 21 23:01 goose_bushes_move_02.wav
+-rwxr-xr-x 1 joelm joelm  49834 May 21 23:01 goose_bushes_move_03.wav
+-rwxr-xr-x 1 joelm joelm  56016 May 21 23:01 goose_bushes_move_04.wav
+-rwxr-xr-x 1 joelm joelm  54496 May 21 23:01 goose_bushes_move_05.wav
+-rwxr-xr-x 1 joelm joelm  58604 May 21 23:01 goose_bushes_move_06.wav
+-rwxr-xr-x 1 joelm joelm  51864 May 21 23:01 goose_bushes_move_07.wav
+-rwxr-xr-x 1 joelm joelm  15842 May 21 23:01 goose_cardboard_run_01.wav
+-rwxr-xr-x 1 joelm joelm  15842 May 21 23:01 goose_cardboard_run_02.wav
+-rwxr-xr-x 1 joelm joelm  15842 May 21 23:01 goose_cardboard_run_03.wav
+-rwxr-xr-x 1 joelm joelm  15842 May 21 23:01 goose_cardboard_run_04.wav
+-rwxr-xr-x 1 joelm joelm  15842 May 21 23:01 goose_cardboard_run_05.wav
+-rwxr-xr-x 1 joelm joelm  15842 May 21 23:01 goose_cardboard_run_06.wav
+-rwxr-xr-x 1 joelm joelm  15842 May 21 23:01 goose_cardboard_run_07.wav
+-rwxr-xr-x 1 joelm joelm  31956 May 21 23:01 goose_cardboard_walk_01.wav
+-rwxr-xr-x 1 joelm joelm  28704 May 21 23:01 goose_cardboard_walk_02.wav
+-rwxr-xr-x 1 joelm joelm  31658 May 21 23:01 goose_cardboard_walk_03.wav
+-rwxr-xr-x 1 joelm joelm  28540 May 21 23:01 goose_cardboard_walk_04.wav
+-rwxr-xr-x 1 joelm joelm  31956 May 21 23:01 goose_cardboard_walk_05.wav
+-rwxr-xr-x 1 joelm joelm  31956 May 21 23:01 goose_cardboard_walk_06.wav
+-rwxr-xr-x 1 joelm joelm  31956 May 21 23:01 goose_cardboard_walk_07.wav
+-rwxr-xr-x 1 joelm joelm  42446 May 21 23:01 goose_concrete_bumfall_02.wav
+-rwxr-xr-x 1 joelm joelm  34748 May 21 23:01 goose_concrete_bumfall_03.wav
+-rwxr-xr-x 1 joelm joelm 309684 May 21 23:01 goose_crashing_011.wav
+-rwxr-xr-x 1 joelm joelm 164776 May 21 23:01 goose_crashing_02.wav
+-rwxr-xr-x 1 joelm joelm 156028 May 21 23:01 goose_crashing_03.wav
+-rwxr-xr-x 1 joelm joelm 172428 May 21 23:01 goose_crashing_04.wav
+-rwxr-xr-x 1 joelm joelm 225106 May 21 23:01 goose_crashing_06.wav
+-rwxr-xr-x 1 joelm joelm 276742 May 21 23:01 goose_crashing_07.wav
+-rwxr-xr-x 1 joelm joelm 141724 May 21 23:01 goose_crashing_08.wav
+-rwxr-xr-x 1 joelm joelm 253654 May 21 23:01 goose_crashing_09.wav
+-rwxr-xr-x 1 joelm joelm 291324 May 21 23:01 goose_crashing_10.wav
+-rwxr-xr-x 1 joelm joelm  33788 May 21 23:01 goose_crouch_down_01.wav
+-rwxr-xr-x 1 joelm joelm  27896 May 21 23:01 goose_crouch_down_02.wav
+-rwxr-xr-x 1 joelm joelm  28648 May 21 23:01 goose_crouch_down_03.wav
+-rwxr-xr-x 1 joelm joelm  29084 May 21 23:01 goose_crouch_down_04.wav
+-rwxr-xr-x 1 joelm joelm  26494 May 21 23:01 goose_crouch_up_01.wav
+-rwxr-xr-x 1 joelm joelm  26620 May 21 23:01 goose_crouch_up_02.wav
+-rwxr-xr-x 1 joelm joelm  26784 May 21 23:01 goose_crouch_up_03.wav
+-rwxr-xr-x 1 joelm joelm  26494 May 21 23:01 goose_crouch_up_04.wav
+-rwxr-xr-x 1 joelm joelm  11346 May 21 23:01 goose_dirt_walk_01.wav
+-rwxr-xr-x 1 joelm joelm   9076 May 21 23:01 goose_dirt_walk_02.wav
+-rwxr-xr-x 1 joelm joelm   9940 May 21 23:01 goose_dirt_walk_03.wav
+-rwxr-xr-x 1 joelm joelm  10594 May 21 23:01 goose_dirt_walk_04.wav
+-rwxr-xr-x 1 joelm joelm  10932 May 21 23:01 goose_dirt_walk_05.wav
+-rwxr-xr-x 1 joelm joelm  14280 May 21 23:01 goose_dirt_walk_06.wav
+-rwxr-xr-x 1 joelm joelm  21746 May 21 23:01 goose_dumpster_walk_01.wav
+-rwxr-xr-x 1 joelm joelm  22542 May 21 23:01 goose_dumpster_walk_02.wav
+-rwxr-xr-x 1 joelm joelm  24162 May 21 23:01 goose_dumpster_walk_03.wav
+-rwxr-xr-x 1 joelm joelm  22064 May 21 23:01 goose_dumpster_walk_04.wav
+-rwxr-xr-x 1 joelm joelm  34064 May 21 23:01 goose_fence_creak_01.wav
+-rwxr-xr-x 1 joelm joelm  24282 May 21 23:01 goose_fence_creak_02.wav
+-rwxr-xr-x 1 joelm joelm  25326 May 21 23:01 goose_fence_creak_03.wav
+-rwxr-xr-x 1 joelm joelm  28812 May 21 23:01 goose_fence_creak_04.wav
+-rwxr-xr-x 1 joelm joelm  27864 May 21 23:01 goose_fence_creak_05.wav
+-rwxr-xr-x 1 joelm joelm  32870 May 21 23:01 goose_fence_creak_06.wav
+-rwxr-xr-x 1 joelm joelm  30954 May 21 23:01 goose_fence_creak_07.wav
+-rwxr-xr-x 1 joelm joelm  21556 May 21 23:01 goose_fence_creak_08.wav
+-rwxr-xr-x 1 joelm joelm  15534 May 21 23:01 goose_fence_run_01.wav
+-rwxr-xr-x 1 joelm joelm  14274 May 21 23:01 goose_fence_run_02.wav
+-rwxr-xr-x 1 joelm joelm  14024 May 21 23:01 goose_fence_run_03.wav
+-rwxr-xr-x 1 joelm joelm  15796 May 21 23:01 goose_fence_run_04.wav
+-rwxr-xr-x 1 joelm joelm  25740 May 21 23:01 goose_fence_walk_01.wav
+-rwxr-xr-x 1 joelm joelm  30638 May 21 23:01 goose_fence_walk_02.wav
+-rwxr-xr-x 1 joelm joelm  26898 May 21 23:01 goose_fence_walk_03.wav
+-rwxr-xr-x 1 joelm joelm  25080 May 21 23:01 goose_fence_walk_04.wav
+-rwxr-xr-x 1 joelm joelm  19718 May 21 23:01 goose_footstep_grass_run_01.wav
+-rwxr-xr-x 1 joelm joelm  19722 May 21 23:01 goose_footstep_grass_run_02.wav
+-rwxr-xr-x 1 joelm joelm  20708 May 21 23:01 goose_footstep_grass_run_03.wav
+-rwxr-xr-x 1 joelm joelm  19718 May 21 23:01 goose_footstep_grass_run_04.wav
+-rwxr-xr-x 1 joelm joelm  19718 May 21 23:01 goose_footstep_grass_run_05.wav
+-rwxr-xr-x 1 joelm joelm  23482 May 21 23:01 goose_footstep_grass_run_06.wav
+-rwxr-xr-x 1 joelm joelm  20752 May 21 23:01 goose_footstep_grass_run_07.wav
+-rwxr-xr-x 1 joelm joelm  19722 May 21 23:01 goose_footstep_grass_walk_01.wav
+-rwxr-xr-x 1 joelm joelm  22942 May 21 23:01 goose_footstep_grass_walk_02.wav
+-rwxr-xr-x 1 joelm joelm  19718 May 21 23:01 goose_footstep_grass_walk_03.wav
+-rwxr-xr-x 1 joelm joelm  22008 May 21 23:01 goose_footstep_grass_walk_04.wav
+-rwxr-xr-x 1 joelm joelm  19722 May 21 23:01 goose_footstep_grass_walk_05.wav
+-rwxr-xr-x 1 joelm joelm  20958 May 21 23:01 goose_footstep_grass_walk_06.wav
+-rwxr-xr-x 1 joelm joelm  19728 May 21 23:01 goose_footstep_grass_walk_07.wav
+-rwxr-xr-x 1 joelm joelm  19722 May 21 23:01 goose_footstep_grass_walk_08.wav
+-rwxr-xr-x 1 joelm joelm  19722 May 21 23:01 goose_footstep_grass_walk_09.wav
+-rwxr-xr-x 1 joelm joelm  14964 May 21 23:01 goose_grab_02.wav
+-rwxr-xr-x 1 joelm joelm  16792 May 21 23:01 goose_grab_03.wav
+-rwxr-xr-x 1 joelm joelm  17112 May 21 23:01 goose_grab_04.wav
+-rwxr-xr-x 1 joelm joelm  14810 May 21 23:01 goose_groundskeeper_fence_run_01.wav
+-rwxr-xr-x 1 joelm joelm  14806 May 21 23:01 goose_groundskeeper_fence_run_02.wav
+-rwxr-xr-x 1 joelm joelm  14810 May 21 23:01 goose_groundskeeper_fence_run_03.wav
+-rwxr-xr-x 1 joelm joelm  14810 May 21 23:01 goose_groundskeeper_fence_run_04.wav
+-rwxr-xr-x 1 joelm joelm  14806 May 21 23:01 goose_groundskeeper_fence_run_05.wav
+-rwxr-xr-x 1 joelm joelm  14810 May 21 23:01 goose_groundskeeper_fence_run_06.wav
+-rwxr-xr-x 1 joelm joelm  26390 May 21 23:01 goose_groundskeeper_fence_walk_01.wav
+-rwxr-xr-x 1 joelm joelm  20866 May 21 23:01 goose_groundskeeper_fence_walk_04.wav
+-rwxr-xr-x 1 joelm joelm  20646 May 21 23:01 goose_groundskeeper_fence_walk_05.wav
+-rwxr-xr-x 1 joelm joelm  19750 May 21 23:01 goose_groundskeeper_fence_walk_06.wav
+-rwxr-xr-x 1 joelm joelm  19748 May 21 23:01 goose_groundskeeper_fence_walk_07.wav
+-rwxr-xr-x 1 joelm joelm  27064 May 21 23:01 goose_mud_run_01.wav
+-rwxr-xr-x 1 joelm joelm  20570 May 21 23:01 goose_mud_run_02.wav
+-rwxr-xr-x 1 joelm joelm  21820 May 21 23:01 goose_mud_run_03.wav
+-rwxr-xr-x 1 joelm joelm  35790 May 21 23:01 goose_mud_run_04.wav
+-rwxr-xr-x 1 joelm joelm  23566 May 21 23:01 goose_mud_run_05.wav
+-rwxr-xr-x 1 joelm joelm  32534 May 21 23:01 goose_mud_run_06.wav
+-rwxr-xr-x 1 joelm joelm  32522 May 21 23:01 goose_mud_run_07.wav
+-rwxr-xr-x 1 joelm joelm  21188 May 21 23:01 goose_mud_run_08.wav
+-rwxr-xr-x 1 joelm joelm  21620 May 21 23:01 goose_mud_run_09.wav
+-rwxr-xr-x 1 joelm joelm  30586 May 21 23:01 goose_mud_walk_01.wav
+-rwxr-xr-x 1 joelm joelm  19778 May 21 23:01 goose_mud_walk_02.wav
+-rwxr-xr-x 1 joelm joelm  20038 May 21 23:01 goose_mud_walk_03.wav
+-rwxr-xr-x 1 joelm joelm  20468 May 21 23:01 goose_mud_walk_04.wav
+-rwxr-xr-x 1 joelm joelm  18204 May 21 23:01 goose_mud_walk_05.wav
+-rwxr-xr-x 1 joelm joelm  27974 May 21 23:01 goose_mud_walk_06.wav
+-rwxr-xr-x 1 joelm joelm  28358 May 21 23:01 goose_mud_walk_07.wav
+-rwxr-xr-x 1 joelm joelm  43732 May 21 23:01 goose_ruffle_tailFeathers_01.wav
+-rwxr-xr-x 1 joelm joelm  50224 May 21 23:01 goose_ruffle_tailFeathers_02.wav
+-rwxr-xr-x 1 joelm joelm  48716 May 21 23:01 goose_ruffle_tailFeathers_03.wav
+-rwxr-xr-x 1 joelm joelm  37044 May 21 23:01 goose_ruffle_tailFeathers_04.wav
+-rwxr-xr-x 1 joelm joelm  57000 May 21 23:01 goose_squelch_run_01.wav
+-rwxr-xr-x 1 joelm joelm  49614 May 21 23:01 goose_squelch_run_02.wav
+-rwxr-xr-x 1 joelm joelm  38988 May 21 23:01 goose_squelch_run_03.wav
+-rwxr-xr-x 1 joelm joelm  56698 May 21 23:01 goose_squelch_run_04.wav
+-rwxr-xr-x 1 joelm joelm  39530 May 21 23:01 goose_squelch_run_05.wav
+-rwxr-xr-x 1 joelm joelm  42612 May 21 23:01 goose_squelch_walk_01.wav
+-rwxr-xr-x 1 joelm joelm  35980 May 21 23:01 goose_squelch_walk_02.wav
+-rwxr-xr-x 1 joelm joelm  40964 May 21 23:01 goose_squelch_walk_03.wav
+-rwxr-xr-x 1 joelm joelm  35974 May 21 23:01 goose_squelch_walk_04.wav
+-rwxr-xr-x 1 joelm joelm  26722 May 21 23:01 goose_squelch_walk_05.wav
+-rwxr-xr-x 1 joelm joelm  36968 May 21 23:01 goose_squelch_walk_06.wav
+-rwxr-xr-x 1 joelm joelm 759188 May 21 23:01 goose_swim_loop.wav
+-rwxr-xr-x 1 joelm joelm  31094 May 21 23:01 goose_wings_flap_down_01.wav
+-rwxr-xr-x 1 joelm joelm  40050 May 21 23:01 goose_wings_flap_down_02.wav
+-rwxr-xr-x 1 joelm joelm  35530 May 21 23:01 goose_wings_flap_down_03.wav
+-rwxr-xr-x 1 joelm joelm  32070 May 21 23:01 goose_wings_flap_down_04.wav
+-rwxr-xr-x 1 joelm joelm  41916 May 21 23:01 goose_wings_flap_down_05.wav
+-rwxr-xr-x 1 joelm joelm  41996 May 21 23:01 goose_wings_flap_down_06.wav
+-rwxr-xr-x 1 joelm joelm  22190 May 21 23:01 goose_wings_flap_up_01.wav
+-rwxr-xr-x 1 joelm joelm  23946 May 21 23:01 goose_wings_flap_up_02.wav
+-rwxr-xr-x 1 joelm joelm  18688 May 21 23:01 goose_wings_flap_up_03.wav
+-rwxr-xr-x 1 joelm joelm  23464 May 21 23:01 goose_wings_flap_up_04.wav
+-rwxr-xr-x 1 joelm joelm  27120 May 21 23:01 goose_wings_flap_up_05.wav
+-rwxr-xr-x 1 joelm joelm  41106 May 21 23:01 goose_wings_fold_01.wav
+-rwxr-xr-x 1 joelm joelm  28642 May 21 23:01 goose_wings_fold_02.wav
+-rwxr-xr-x 1 joelm joelm  29888 May 21 23:01 goose_wings_fold_03.wav
+-rwxr-xr-x 1 joelm joelm  29078 May 21 23:01 goose_wings_fold_04.wav
+-rwxr-xr-x 1 joelm joelm  38756 May 21 23:01 goose_wings_unfold_01.wav
+-rwxr-xr-x 1 joelm joelm  39408 May 21 23:01 goose_wings_unfold_02.wav
+-rwxr-xr-x 1 joelm joelm  33788 May 21 23:01 goose_wings_unfold_03.wav
+-rwxr-xr-x 1 joelm joelm  38726 May 21 23:01 goose_wings_unfold_04.wav
+
+./ignore/Sound Effects/PC Computer - Untitled Goose Game - Goose/Goose/Voice:
+total 2208
+-rwxr-xr-x 1 joelm joelm  10126 May 21 23:01 goose_grab_voice_01.wav
+-rwxr-xr-x 1 joelm joelm   9078 May 21 23:01 goose_grab_voice_03.wav
+-rwxr-xr-x 1 joelm joelm  10612 May 21 23:01 goose_grab_voice_04.wav
+-rwxr-xr-x 1 joelm joelm   6638 May 21 23:01 goose_grab_voice_07.wav
+-rwxr-xr-x 1 joelm joelm   9288 May 21 23:01 goose_grab_voice_08.wav
+-rwxr-xr-x 1 joelm joelm  17792 May 21 23:01 goose_honk_b_01.wav
+-rwxr-xr-x 1 joelm joelm  25554 May 21 23:01 goose_honk_b_02.wav
+-rwxr-xr-x 1 joelm joelm  22760 May 21 23:01 goose_honk_b_03.wav
+-rwxr-xr-x 1 joelm joelm  20368 May 21 23:01 goose_honk_b_05.wav
+-rwxr-xr-x 1 joelm joelm  21514 May 21 23:01 goose_honk_b_06.wav
+-rwxr-xr-x 1 joelm joelm  87448 May 21 23:01 goose_honk_glass_02.wav
+-rwxr-xr-x 1 joelm joelm  77204 May 21 23:01 goose_honk_glass_03.wav
+-rwxr-xr-x 1 joelm joelm  75158 May 21 23:01 goose_honk_glass_04.wav
+-rwxr-xr-x 1 joelm joelm  95638 May 21 23:01 goose_honk_glass_05.wav
+-rwxr-xr-x 1 joelm joelm  28572 May 21 23:01 goose_honk_harmonica_01.wav
+-rwxr-xr-x 1 joelm joelm  30928 May 21 23:01 goose_honk_harmonica_02.wav
+-rwxr-xr-x 1 joelm joelm  29698 May 21 23:01 goose_honk_harmonica_03.wav
+-rwxr-xr-x 1 joelm joelm  30750 May 21 23:01 goose_honk_harmonica_04.wav
+-rwxr-xr-x 1 joelm joelm  25716 May 21 23:01 goose_honk_harmonica_05.wav
+-rwxr-xr-x 1 joelm joelm  27984 May 21 23:01 goose_honk_harmonica_06.wav
+-rwxr-xr-x 1 joelm joelm  40274 May 21 23:01 goose_honk_pylon_01.wav
+-rwxr-xr-x 1 joelm joelm  48036 May 21 23:01 goose_honk_pylon_02.wav
+-rwxr-xr-x 1 joelm joelm  45244 May 21 23:01 goose_honk_pylon_03.wav
+-rwxr-xr-x 1 joelm joelm  46854 May 21 23:01 goose_honk_pylon_04.wav
+-rwxr-xr-x 1 joelm joelm  42852 May 21 23:01 goose_honk_pylon_05.wav
+-rwxr-xr-x 1 joelm joelm  44002 May 21 23:01 goose_honk_pylon_06.wav
+-rwxr-xr-x 1 joelm joelm  45456 May 21 23:01 goose_honk_pylon_07.wav
+-rwxr-xr-x 1 joelm joelm 182250 May 21 23:01 goose_honk_soap_01.wav
+-rwxr-xr-x 1 joelm joelm 183002 May 21 23:01 goose_honk_soap_02.wav
+-rwxr-xr-x 1 joelm joelm 197464 May 21 23:01 goose_honk_soap_03.wav
+-rwxr-xr-x 1 joelm joelm 162042 May 21 23:01 goose_honk_soap_04.wav
+-rwxr-xr-x 1 joelm joelm  88096 May 21 23:01 goose_honk_trashlid_01.wav
+-rwxr-xr-x 1 joelm joelm  88100 May 21 23:01 goose_honk_trashlid_02.wav
+-rwxr-xr-x 1 joelm joelm  80944 May 21 23:01 goose_honk_trashlid_03.wav
+-rwxr-xr-x 1 joelm joelm  77614 May 21 23:01 goose_honk_trashlid_04.wav
+-rwxr-xr-x 1 joelm joelm  88100 May 21 23:01 goose_honk_trashlid_05.wav
+-rwxr-xr-x 1 joelm joelm  17562 May 21 23:01 goose_honk_walkie_talkie_03.wav
+-rwxr-xr-x 1 joelm joelm  19804 May 21 23:01 goose_honk_walkie_talkie_04.wav
+-rwxr-xr-x 1 joelm joelm  23614 May 21 23:01 goose_honk_walkie_talkie_06.wav
+
+./ignore/Sound Effects/pool mods:
+total 131664
+-rwxr-xr-x 1 joelm joelm 22431577 May 21 23:01 8 ball pool with the chicken strips.mp4
+-rwxr-xr-x 1 joelm joelm  1866677 May 21 23:01 8-ball pool with the chicken strips.zip
+drwxr-xr-x 2 joelm joelm     4096 May 21 23:01 Adobe Premiere Pro Auto-Save
+-rwxr-xr-x 1 joelm joelm 24252136 May 21 23:01 macaroni.mp4
+-rwxr-xr-x 1 joelm joelm      376 May 21 23:01 poolmodnotes.txt
+-rwxr-xr-x 1 joelm joelm      525 May 21 23:01 pool_mod.py
+-rwxr-xr-x 1 joelm joelm   157031 May 21 23:01 pool mod videos.prproj
+-rwxr-xr-x 1 joelm joelm 84838207 May 21 23:01 ytp.mp4
+-rwxr-xr-x 1 joelm joelm  1247675 May 21 23:01 ytp sexer pool.zip
+-rwxr-xr-x 1 joelm joelm      158 May 21 23:01 ytp sexer.txt
+
+./ignore/Sound Effects/pool mods/Adobe Premiere Pro Auto-Save:
+total 496
+-rwxr-xr-x 1 joelm joelm  91147 May 21 23:01 pool mod videos-2021-02-26_11-40-14.prproj
+-rwxr-xr-x 1 joelm joelm  94016 May 21 23:01 pool mod videos-2021-02-26_15-07-23.prproj
+-rwxr-xr-x 1 joelm joelm 157027 May 21 23:01 pool mod videos-2021-02-26_15-48-35.prproj
+-rwxr-xr-x 1 joelm joelm 157031 May 21 23:01 pool mod videos.prproj
+
+./ignore/Sound Effects/Sound Board:
+total 8512
+-rwxr-xr-x  1 joelm joelm 8153380 May 21 23:01 bruh.ogg
+-rwxr-xr-x  1 joelm joelm      19 May 21 23:01 ideas.txt
+drwxr-xr-x  2 joelm joelm    4096 May 21 23:01 jingle_palette
+-rwxr-xr-x  1 joelm joelm  253856 May 21 23:01 MARGARET THATCHER IS DEAD (A Bruno Powroznik classic)-ILvd5buCEnU.mp3
+-rwxr-xr-x  1 joelm joelm     506 May 21 23:01 mp3_convert_r.py
+drwxr-xr-x 16 joelm joelm    4096 May 21 23:01 Sound Bites
+drwxr-xr-x  9 joelm joelm    4096 May 21 23:01 Sound Clips
+-rwxr-xr-x  1 joelm joelm  282179 May 21 23:01 Windows 3.1 Commercial (japanese)-JkufLcIQgKo.mp3
+-rwxr-xr-x  1 joelm joelm     204 May 21 23:01 _zip.bat
+
+./ignore/Sound Effects/Sound Board/jingle_palette:
+total 8236
+-rwxr-xr-x 1 joelm joelm     323 May 21 23:01 File_id.diz
+-rwxr-xr-x 1 joelm joelm    5875 May 21 23:01 readme.txt
+-rwxr-xr-x 1 joelm joelm 8418968 May 21 23:01 setup_jingle_palette_v445.exe
+
+./ignore/Sound Effects/Sound Board/Sound Bites:
+total 2148
+-rwxr-xr-x 1 joelm joelm  29421 May 21 23:01 audiojungle.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 be like
+-rwxr-xr-x 1 joelm joelm  29037 May 21 23:01 Big big chungus.mp3
+-rwxr-xr-x 1 joelm joelm  16365 May 21 23:01 Big chungus.mp3
+-rwxr-xr-x 1 joelm joelm  88442 May 21 23:01 Boneless Pizza Sound Effect-c02Jo5GR2dU.mp3
+-rwxr-xr-x 1 joelm joelm  78957 May 21 23:01 Bro you just posted Cringe you are going to lose subscriber Dr Robotnik-7i9CUvlfby0.mp3
+-rwxr-xr-x 1 joelm joelm   8612 May 21 23:01 Bruh Sound Effect #2-2ZIpFytCSVc.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 cartoons
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 classics
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 dababy
+-rwxr-xr-x 1 joelm joelm  23240 May 21 23:01 Doot Doot - Mr Skeltal Original-WTWyosdkx44.mp3
+-rwxr-xr-x 1 joelm joelm  12452 May 21 23:01 DUN DUN DUUUNN.mp3
+-rwxr-xr-x 1 joelm joelm 157823 May 21 23:01 engineer gaming-B3N9rU6dJ5s.mp3
+-rwxr-xr-x 1 joelm joelm  34107 May 21 23:01 explosion.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 fock
+-rwxr-xr-x 1 joelm joelm 196077 May 21 23:01 Gangsta's Paradise Choir Sound Effect-hK20d1hWnqE.mp3
+-rwxr-xr-x 1 joelm joelm  10605 May 21 23:01 goku drip.mp3
+-rwxr-xr-x 1 joelm joelm 188898 May 21 23:01 hackerman.mp3
+-rwxr-xr-x 1 joelm joelm  13302 May 21 23:01 hey-beter-mp3cut.mp3
+-rwxr-xr-x 1 joelm joelm   4461 May 21 23:01 hotel mario note 1 one.mp3
+-rwxr-xr-x 1 joelm joelm  24912 May 21 23:01 I boutta go to bed.mp3
+-rwxr-xr-x 1 joelm joelm  41071 May 21 23:01 I like ya cut g-ERvofdiuJxA.mp3
+-rwxr-xr-x 1 joelm joelm  50408 May 21 23:01 Inception [Sound Effect]-1p-DA0zvuQ8.mp3
+-rwxr-xr-x 1 joelm joelm  96801 May 21 23:01 It Is Wednesday My Dudes Vine-du-TY1GUFGk.mp3
+-rwxr-xr-x 1 joelm joelm  35361 May 21 23:01 James May says cheese.-SyimUCBIo6c.mp3
+-rwxr-xr-x 1 joelm joelm 130029 May 21 23:01 J. Jonah Jameson Laughing-NIgfiSzCy1o.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 john madden
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 joker babey
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 keanu
+-rwxr-xr-x 1 joelm joelm  28256 May 21 23:01 Metal Gear Solid - Alert (!)-2P5qbcRAXVk.mp3
+-rwxr-xr-x 1 joelm joelm   1554 May 21 23:01 mgsv casette click.lnk
+-rwxr-xr-x 1 joelm joelm   6381 May 21 23:01 Minecraft Alpha Damage - Sound Effect.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 monke
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 monty python
+-rwxr-xr-x 1 joelm joelm  16971 May 21 23:01 My Name is Jeff - Sound Effect (HD)-_nce9A5S5uM.mp3
+-rwxr-xr-x 1 joelm joelm   9030 May 21 23:01 neil cic says swag.mp3
+-rwxr-xr-x 1 joelm joelm  29092 May 21 23:01 oh hey (couldn't skype tonight).mp3
+-rwxr-xr-x 1 joelm joelm 130238 May 21 23:01 Okay, That's All The Time I've Got - Reggie Animal Crossing New Leaf-V1EHtX7ykEY.mp3
+-rwxr-xr-x 1 joelm joelm   4461 May 21 23:01 op.mp3
+-rwxr-xr-x 1 joelm joelm   9448 May 21 23:01 Pingas SFX-AxKEG7U8ENs.mp3
+-rwxr-xr-x 1 joelm joelm  66290 May 21 23:01 Psycho Violin Screech-vfthzU3V4zo.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 ramsay
+-rwxr-xr-x 1 joelm joelm 164589 May 21 23:01 Rick Astley - Bro you just posted cringe!-Jrru9SHCPqc.mp3
+-rwxr-xr-x 1 joelm joelm   6381 May 21 23:01 Roblox Death Sound - OOF Sound Effect.mp3
+-rwxr-xr-x 1 joelm joelm  12525 May 21 23:01 sans.mp3
+-rwxr-xr-x 1 joelm joelm  21986 May 21 23:01 Soulja Boy YOUUU -  Sound Effect-J6OmF4wL3b4.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 trick noises
+-rwxr-xr-x 1 joelm joelm  60439 May 21 23:01 Urine and Feces-wuvmEDtiyRI.mp3
+drwxr-xr-x 7 joelm joelm   4096 May 21 23:01 video games
+-rwxr-xr-x 1 joelm joelm  36197 May 21 23:01 Vsauce - Hey Vsauce, Michael Here - Sound Effect-sk-_UnBRLcI.mp3
+-rwxr-xr-x 1 joelm joelm 175341 May 21 23:01 yooooooooooo-VKMw2it8dQY.mp3
+drwxr-xr-x 3 joelm joelm   4096 May 21 23:01 ytp sexer
+
+./ignore/Sound Effects/Sound Board/Sound Bites/be like:
+total 84
+-rwxr-xr-x 1 joelm joelm 59653 May 21 23:01 34B77E59-BE20-4E97-82EE-364EFFF6E061-5744-000003456D7A9333_1.1.2-34B77E59-BE20-4E97-82EE-364EFFF6E061-5744-000003456D7A9333_1.1.2.mp3
+-rwxr-xr-x 1 joelm joelm 12239 May 21 23:01 black ppl be like.mp3
+-rwxr-xr-x 1 joelm joelm 11405 May 21 23:01 white ppl be like.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/cartoons:
+total 28
+-rwxr-xr-x 1 joelm joelm 28269 May 21 23:01 Cartoon Running - Sound Effect (HD)-igSHbtv52G4.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/classics:
+total 140
+-rwxr-xr-x 1 joelm joelm 17050 May 21 23:01 Applause.mp3
+-rwxr-xr-x 1 joelm joelm  8482 May 21 23:01 Ba Dum Tss.mp3
+-rwxr-xr-x 1 joelm joelm 16527 May 21 23:01 Darth Vader NOOOOO.mp3
+-rwxr-xr-x 1 joelm joelm 22797 May 21 23:01 Evil Laugh.mp3
+-rwxr-xr-x 1 joelm joelm 15483 May 21 23:01 Laugh Track.mp3
+-rwxr-xr-x 1 joelm joelm 17259 May 21 23:01 Sad Trombone.mp3
+-rwxr-xr-x 1 joelm joelm 17990 May 21 23:01 Thunder Strike.mp3
+-rwxr-xr-x 1 joelm joelm  5138 May 21 23:01 Wilhelm Scream.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/dababy:
+total 24
+-rwxr-xr-x 1 joelm joelm 23658 May 21 23:01 Dababy Let's Go Sound Effect-HFdm5NEvtP8.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/fock:
+total 44
+-rwxr-xr-x 1 joelm joelm  1447 May 21 23:01 1 bash.wav - Shortcut.lnk
+-rwxr-xr-x 1 joelm joelm  1447 May 21 23:01 2 bash.wav - Shortcut.lnk
+-rwxr-xr-x 1 joelm joelm  1447 May 21 23:01 3 fock.wav - Shortcut.lnk
+-rwxr-xr-x 1 joelm joelm 30764 May 21 23:01 fock.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/john madden:
+total 452
+-rwxr-xr-x 1 joelm joelm  11537 May 21 23:01 aeiou.mp3
+-rwxr-xr-x 1 joelm joelm 413196 May 21 23:01 daisy daisy.mp3
+-rwxr-xr-x 1 joelm joelm  13209 May 21 23:01 football.mp3
+-rwxr-xr-x 1 joelm joelm  17807 May 21 23:01 john madden.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/joker babey:
+total 8528
+-rwxr-xr-x 1 joelm joelm   57453 May 21 23:01 AAAAAAAAAAAAAAA (tommy wiseau).mp3
+-rwxr-xr-x 1 joelm joelm 1504070 May 21 23:01 Do you want to know how i got these scars--8rv8WbqAHk.mp3
+-rwxr-xr-x 1 joelm joelm   80109 May 21 23:01 I'm the joker babey.mp3
+-rwxr-xr-x 1 joelm joelm 2262248 May 21 23:01 Joker Kitchen - Crazy Hamburger-pVbtFP40E50.mp3
+-rwxr-xr-x 1 joelm joelm   18225 May 21 23:01 Joker says society-j_fnXomQxk0.mp3
+-rwxr-xr-x 1 joelm joelm  149229 May 21 23:01 Let me introduce you to the new joker.mp3
+-rwxr-xr-x 1 joelm joelm 1606125 May 21 23:01 My JOKER Performance-sPpWzS3nCwM.mp3
+-rwxr-xr-x 1 joelm joelm 2793069 May 21 23:01 Tommy Wiseau’s Joker Audition Tape (Nerdist Presents)-eFjFxgHedgM.mp3
+-rwxr-xr-x 1 joelm joelm  159213 May 21 23:01 wanna know how I got these scars (drew russell).mp3
+-rwxr-xr-x 1 joelm joelm   37923 May 21 23:01 'WE LIVE IN A SOCIETY' - Joker (Zack Snyder's Justice League 2021)-0Im_MEOxC7Y.mp3
+-rwxr-xr-x 1 joelm joelm   37869 May 21 23:01 What a joker (Original)-UBCORUNqPu8.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/keanu:
+total 644
+-rwxr-xr-x 1 joelm joelm  71724 May 21 23:01 keanu 1.mp3
+-rwxr-xr-x 1 joelm joelm  42884 May 21 23:01 keanu 2.mp3
+-rwxr-xr-x 1 joelm joelm  47064 May 21 23:01 keanu 3.mp3
+-rwxr-xr-x 1 joelm joelm  38287 May 21 23:01 keanu 4.mp3
+-rwxr-xr-x 1 joelm joelm 124804 May 21 23:01 keanu 5.mp3
+-rwxr-xr-x 1 joelm joelm 321663 May 21 23:01 Keanu Reeves Is Extremely Horny (Cyberpunk 2077 Trailer Meme)-eDnsNsObNUU.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/monke:
+total 152
+-rwxr-xr-x 1 joelm joelm  38827 May 21 23:01 mmm monke.mp3
+-rwxr-xr-x 1 joelm joelm 110733 May 21 23:01 Mmm Monkey-oD9nAHuZsJU.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/monty python:
+total 3556
+-rwxr-xr-x 1 joelm joelm   17807 May 21 23:01 be quiet.mp3
+-rwxr-xr-x 1 joelm joelm  173421 May 21 23:01 Get on with it! (Monty Python)-sXE8LdXzeHM.mp3
+-rwxr-xr-x 1 joelm joelm 3148321 May 21 23:01 Monty Python - Constitutional Peasants Scene (HD)-t2c-X8HiBng.mp3
+-rwxr-xr-x 1 joelm joelm  202127 May 21 23:01 shut up! (come and see the violence inherent in the system).mp3
+-rwxr-xr-x 1 joelm joelm   14463 May 21 23:01 shut up.mp3
+-rwxr-xr-x 1 joelm joelm   71724 May 21 23:01 shut up will you shut up.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/ramsay:
+total 404
+-rwxr-xr-x 1 joelm joelm 111386 May 21 23:01 Gordon Ramsay- You Donkey-cSC87CI7yH4.mp3
+-rwxr-xr-x 1 joelm joelm 128566 May 21 23:01 Hell's Kitchen _ Kitchen Nightmares Dramatic Sound Effect (Waterphone)-SFtLvkqHIds.mp3
+-rwxr-xr-x 1 joelm joelm 165346 May 21 23:01 [ORIGINAL] Gordon Ramsey - THE BASS IS F_ING RAW!!!!!!-l2gEK64fc6c.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/trick noises:
+total 196
+-rwxr-xr-x 1 joelm joelm 71724 May 21 23:01 Creeper Explosion - Sound Effect-4-fjuyE4fJo.mp3
+-rwxr-xr-x 1 joelm joelm 23440 May 21 23:01 creeper.mp3
+-rwxr-xr-x 1 joelm joelm 49990 May 21 23:01 Microsoft Windows XP Error - Sound Effect (HD)-0lhhrUuw2N8.mp3
+-rwxr-xr-x 1 joelm joelm 45392 May 21 23:01 Windows 10 Error Sound-qlUFWSiOXpM.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/video games:
+total 344
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 cookie clicker
+-rwxr-xr-x 1 joelm joelm  10702 May 21 23:01 farewell.mp3
+-rwxr-xr-x 1 joelm joelm 312909 May 21 23:01 Farewell.-N6hVmn9FM7o.mp3
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 kanye quest
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 metal gear
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 MOAGUS
+-rwxr-xr-x 1 joelm joelm   1277 May 21 23:01 sound - Shortcut.lnk
+drwxr-xr-x 2 joelm joelm   4096 May 21 23:01 Stellaris
+
+./ignore/Sound Effects/Sound Board/Sound Bites/video games/cookie clicker:
+total 32
+-rwxr-xr-x 1 joelm joelm 30563 May 21 23:01 chime.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/video games/kanye quest:
+total 10236
+-rwxr-xr-x 1 joelm joelm    31341 May 21 23:01 don't let me into my zone.mp3
+-rwxr-xr-x 1 joelm joelm 10448365 May 21 23:01 Kanye Quest-eYG8almTvJo.opus
+
+./ignore/Sound Effects/Sound Board/Sound Bites/video games/metal gear:
+total 340
+-rwxr-xr-x 1 joelm joelm  24045 May 21 23:01 a hind d.mp3
+-rwxr-xr-x 1 joelm joelm 114669 May 21 23:01 A Hind D!-TSKnHP5nuTo.mp3
+-rwxr-xr-x 1 joelm joelm  72559 May 21 23:01 Metal Gear! It can't be!-6vL_RmSoOTc.mp3
+-rwxr-xr-x 1 joelm joelm  18669 May 21 23:01 psycho mantis.mp3
+-rwxr-xr-x 1 joelm joelm   2098 May 21 23:01 Supercut - Snake Asking Unnecessary Questions-cGOb1TcO-8o.wav - Shortcut.lnk
+-rwxr-xr-x 1 joelm joelm 106513 May 21 23:01 THAT RIGHT THERE IS WHY YOU'RE THE BEST BOSS-V6O-vBVCbg0.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/video games/MOAGUS:
+total 53848
+-rwxr-xr-x 1 joelm joelm   173277 May 21 23:01 AMOGUS Sound effect-C7aGuETBzw8.mp3
+-rwxr-xr-x 1 joelm joelm  1161069 May 21 23:01 Among Us Trap Remix (Among Drip Theme Song Original)-grd-K33tOSM.mp3
+-rwxr-xr-x 1 joelm joelm  1162221 May 21 23:01 among us trap remix loud (full)-ZKuDJQqy6ak.mp3
+-rwxr-xr-x 1 joelm joelm    55892 May 21 23:01 Danger Alarm Meme Sound Effect-8-pOCeuXhDM.mp3
+-rwxr-xr-x 1 joelm joelm    24074 May 21 23:01 Dramatic Vine_Instagram Boom - Sound Effect (HD)-TApmI8YtYhc.mp3
+-rwxr-xr-x 1 joelm joelm    10753 May 21 23:01 Guy Yelling Among Us Sound Effect-4KfC923EFsY.mp3
+-rwxr-xr-x 1 joelm joelm 22449502 May 21 23:01 IMPOSTER-DAMIAN (beat by Be-Twiin)-oq4yO5G8eAM.wav
+-rwxr-xr-x 1 joelm joelm 30093142 May 21 23:01 Official Among Us In Real Life Official Music Video - Rebecca Zamolo Shorts-Ns3YxbIhTRM.wav
+
+./ignore/Sound Effects/Sound Board/Sound Bites/video games/Stellaris:
+total 180
+-rwxr-xr-x 1 joelm joelm 28873 May 21 23:01 advisor_notification_colonization_progress_01.mp3
+-rwxr-xr-x 1 joelm joelm 25110 May 21 23:01 advisor_notification_colony_established_01.mp3
+-rwxr-xr-x 1 joelm joelm 11710 May 21 23:01 advisor_notification_construction_complete_01.mp3
+-rwxr-xr-x 1 joelm joelm 22185 May 21 23:01 advisor_notification_discovery_detected_01.mp3
+-rwxr-xr-x 1 joelm joelm 25528 May 21 23:01 advisor_notification_research_complete_01.mp3
+-rwxr-xr-x 1 joelm joelm 22603 May 21 23:01 advisor_notification_ships_upgraded_01.mp3
+-rwxr-xr-x 1 joelm joelm 14009 May 21 23:01 advisor_notification_special_project_complete_01.mp3
+-rwxr-xr-x 1 joelm joelm 14009 May 21 23:01 advisor_notification_system_survey_complete_01.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/ytp sexer:
+total 1432
+-rwxr-xr-x 1 joelm joelm    7917 May 21 23:01 ake my money.mp3
+drwxr-xr-x 2 joelm joelm    4096 May 21 23:01 amp
+-rwxr-xr-x 1 joelm joelm      40 May 21 23:01 amp.bat
+-rwxr-xr-x 1 joelm joelm     186 May 21 23:01 amp.py
+-rwxr-xr-x 1 joelm joelm   13677 May 21 23:01 ass.mp3
+-rwxr-xr-x 1 joelm joelm   11757 May 21 23:01 big mouth 2.mp3
+-rwxr-xr-x 1 joelm joelm   13293 May 21 23:01 big mouth.mp3
+-rwxr-xr-x 1 joelm joelm   26349 May 21 23:01 big mouth slow.mp3
+-rwxr-xr-x 1 joelm joelm    7917 May 21 23:01 bitch 2.mp3
+-rwxr-xr-x 1 joelm joelm    5997 May 21 23:01 bitch.mp3
+-rwxr-xr-x 1 joelm joelm    6381 May 21 23:01 cmere.mp3
+-rwxr-xr-x 1 joelm joelm   13677 May 21 23:01 explosion.mp3
+-rwxr-xr-x 1 joelm joelm   15213 May 21 23:01 fuck you.mp3
+-rwxr-xr-x 1 joelm joelm   34413 May 21 23:01 piano.mp3
+-rwxr-xr-x 1 joelm joelm   20205 May 21 23:01 shut the fuck u.mp3
+-rwxr-xr-x 1 joelm joelm    9453 May 21 23:01 toy story music 2.mp3
+-rwxr-xr-x 1 joelm joelm   21741 May 21 23:01 toy story music.mp3
+-rwxr-xr-x 1 joelm joelm   16749 May 21 23:01 up your ass.mp3
+-rwxr-xr-x 1 joelm joelm   10221 May 21 23:01 uv you the.mp3
+-rwxr-xr-x 1 joelm joelm   15981 May 21 23:01 uv you the slow.mp3
+-rwxr-xr-x 1 joelm joelm 1167597 May 21 23:01 ytp sexer-OW519A9F12I.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Bites/ytp sexer/amp:
+total 276
+-rwxr-xr-x 1 joelm joelm  7917 May 21 23:01 ake my money.mp3
+-rwxr-xr-x 1 joelm joelm 13677 May 21 23:01 ass.mp3
+-rwxr-xr-x 1 joelm joelm 11757 May 21 23:01 big mouth 2.mp3
+-rwxr-xr-x 1 joelm joelm 13293 May 21 23:01 big mouth.mp3
+-rwxr-xr-x 1 joelm joelm 26349 May 21 23:01 big mouth slow.mp3
+-rwxr-xr-x 1 joelm joelm  7917 May 21 23:01 bitch 2.mp3
+-rwxr-xr-x 1 joelm joelm  5997 May 21 23:01 bitch.mp3
+-rwxr-xr-x 1 joelm joelm  6381 May 21 23:01 cmere.mp3
+-rwxr-xr-x 1 joelm joelm 13677 May 21 23:01 explosion.mp3
+-rwxr-xr-x 1 joelm joelm 15213 May 21 23:01 fuck you.mp3
+-rwxr-xr-x 1 joelm joelm 34413 May 21 23:01 piano.mp3
+-rwxr-xr-x 1 joelm joelm 20205 May 21 23:01 shut the fuck u.mp3
+-rwxr-xr-x 1 joelm joelm  9453 May 21 23:01 toy story music 2.mp3
+-rwxr-xr-x 1 joelm joelm 21741 May 21 23:01 toy story music.mp3
+-rwxr-xr-x 1 joelm joelm 16749 May 21 23:01 up your ass.mp3
+-rwxr-xr-x 1 joelm joelm 10221 May 21 23:01 uv you the.mp3
+-rwxr-xr-x 1 joelm joelm 15981 May 21 23:01 uv you the slow.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Clips:
+total 30084
+-rwxr-xr-x 1 joelm joelm  143085 May 21 23:01 Are you gonna Finish that croissant, Quality Funny Meme-UZKcSuYaBQY.mp3
+drwxr-xr-x 2 joelm joelm    4096 May 21 23:01 bait n switch
+-rwxr-xr-x 1 joelm joelm  232557 May 21 23:01 Been Far-wqTpHhaKtL8.mp3
+-rwxr-xr-x 1 joelm joelm 1792879 May 21 23:01 [BUGSNAX] All Bunger Sounds! +Subtitles-Irzay0hSqD8.mp3
+-rwxr-xr-x 1 joelm joelm  182483 May 21 23:01 Burger king foot lettuce.mp3
+drwxr-xr-x 2 joelm joelm    4096 May 21 23:01 but now we shall both surely drown
+drwxr-xr-x 2 joelm joelm    4096 May 21 23:01 danse gooshers
+-rwxr-xr-x 1 joelm joelm  640984 May 21 23:01 Discombobulate-B62ACxuq8Pw.mp3
+-rwxr-xr-x 1 joelm joelm  432004 May 21 23:01 FROGGE-HguKPVgIZL8.mp3
+-rwxr-xr-x 1 joelm joelm  349293 May 21 23:01 Have you ever had a dream like this-G7RgN9ijwE4.mp3
+-rwxr-xr-x 1 joelm joelm 1214424 May 21 23:01 Hogasm Caught On Tape-cYbCZxmpkUI.mp3
+-rwxr-xr-x 1 joelm joelm   91368 May 21 23:01 if instruments were voices and voices were instruments-0a7uVzSkCu8.mp3
+-rwxr-xr-x 1 joelm joelm  246430 May 21 23:01 Im sorry we couldn't skype tonight-3F1MTubcVHw.mp3
+-rwxr-xr-x 1 joelm joelm  310378 May 21 23:01 it's time to stop-2k0SmqbBIpQ.mp3
+drwxr-xr-x 2 joelm joelm    4096 May 21 23:01 joe biden wake up
+drwxr-xr-x 2 joelm joelm    4096 May 21 23:01 macaroni
+drwxr-xr-x 2 joelm joelm    4096 May 21 23:01 morhsu
+-rwxr-xr-x 1 joelm joelm 3677037 May 21 23:01 Music make you lose control triangle-Zo_QeYg1uf8.mp3
+-rwxr-xr-x 1 joelm joelm  152301 May 21 23:01 Now now now now yes plants vs zombies-oYFo6tzEw-A.mp3
+-rwxr-xr-x 1 joelm joelm  120181 May 21 23:01 oblivion-qN80_7rNmcE.mp3
+-rwxr-xr-x 1 joelm joelm  244341 May 21 23:01 ok 19 dollar fortnite card-FbOsZ0LKr_c.mp3
+-rwxr-xr-x 1 joelm joelm 2224365 May 21 23:01 Roadman Shaq - The Ting Goes ('Man's not hot') HD-k3jlviX88iw.mp3
+-rwxr-xr-x 1 joelm joelm 3602925 May 21 23:01 Scatman's World-7neipvZ_H0c.mp3
+-rwxr-xr-x 1 joelm joelm 2640919 May 21 23:01 SCOTLAND FOREVER-ktJpZbNB-OY.mp3
+-rwxr-xr-x 1 joelm joelm 2775919 May 21 23:01 Skipper Stops Racism (FULL MOVIE by nass_is_secretly_a_pikmin)-pjgUrVdF2RI.mp3
+drwxr-xr-x 4 joelm joelm    4096 May 21 23:01 songs
+-rwxr-xr-x 1 joelm joelm 3082605 May 21 23:01 Supercut - Snake Asking Unnecessary Questions-cGOb1TcO-8o.mp3
+-rwxr-xr-x 1 joelm joelm  433005 May 21 23:01 take it 2.mp3
+-rwxr-xr-x 1 joelm joelm  262509 May 21 23:01 The Ting Goes.mp3
+-rwxr-xr-x 1 joelm joelm  178068 May 21 23:01 THX Sound Effect-FWkJ86JqlPA.mp3
+-rwxr-xr-x 1 joelm joelm  153069 May 21 23:01 To Be Continued - Sound Effect [Perfect Cut]-9bdORiwoLho.mp3
+-rwxr-xr-x 1 joelm joelm 3167085 May 21 23:01 Tobu - Candyland but it’s low quality and earrape-UYx6bmRH9Pc.mp3
+-rwxr-xr-x 1 joelm joelm  757485 May 21 23:01 tromp.mp3
+-rwxr-xr-x 1 joelm joelm  200685 May 21 23:01 Ultra Instinct Opening Theme - Sound Effect (HD)-i2TWdbcJp8s.mp3
+-rwxr-xr-x 1 joelm joelm  223725 May 21 23:01 Video by khadi-Bur2HgqAW23.mp3
+-rwxr-xr-x 1 joelm joelm   94293 May 21 23:01 WatchMojo.com - Intro-uumHKvl869E.mp3
+-rwxr-xr-x 1 joelm joelm   90861 May 21 23:01 WHAT ARE YOU DOING ON COMPUTER-WNmCm4oyrkY.mp3
+-rwxr-xr-x 1 joelm joelm  143853 May 21 23:01 'What' Bottom Text Meme (Sanctuary Guardian) - Sound Effect (HD)-pKzCXWGvIcg.mp3
+-rwxr-xr-x 1 joelm joelm  568341 May 21 23:01 Why are we still here - Kaz short speech-VKhpE-oNoGY.mp3
+-rwxr-xr-x 1 joelm joelm  138597 May 21 23:01 Why do girls only like.mp3
+-rwxr-xr-x 1 joelm joelm  142359 May 21 23:01 You've Sunk My Battleship-alDq5hAUoHY.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Clips/bait n switch:
+total 6392
+-rwxr-xr-x 1 joelm joelm  323949 May 21 23:01 And His Name is JOHN CENA - Sound Effect (HD)-2D-ZO2rGcSA.mp3
+-rwxr-xr-x 1 joelm joelm  939501 May 21 23:01 Henry Stickmin Distraction Dance Green Screen-7Xplhr7-TJs.mp3
+-rwxr-xr-x 1 joelm joelm 3393645 May 21 23:01 Rick Astley - Never Gonna Give You Up (Video)-dQw4w9WgXcQ.mp3
+-rwxr-xr-x 1 joelm joelm  202127 May 21 23:01 Ronaldinho Soccer.mp3
+-rwxr-xr-x 1 joelm joelm 1419501 May 21 23:01 Stick Bug Song (Bee Swarm Simulator)-y2oSVdSDY4I.mp3
+-rwxr-xr-x 1 joelm joelm  252282 May 21 23:01 youve been gnomed.wmv-6n3pFFPSlW4.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Clips/but now we shall both surely drown:
+total 164
+-rwxr-xr-x 1 joelm joelm 137761 May 21 23:01 'But now we shall both surely drown.'-NV-p_-OvUnA.mp3
+-rwxr-xr-x 1 joelm joelm  13627 May 21 23:01 lmao.mp3
+-rwxr-xr-x 1 joelm joelm  11119 May 21 23:01 lol.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Clips/danse gooshers:
+total 2608
+-rwxr-xr-x 1 joelm joelm 2629485 May 21 23:01 Kinderkreis - Danse Gooshers!-Of-HU6p9sT4.mp3
+-rwxr-xr-x 1 joelm joelm   40173 May 21 23:01 toll, toll, super toll.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Clips/joe biden wake up:
+total 364
+-rwxr-xr-x 1 joelm joelm 156151 May 21 23:01 Biden wake up Tiktok-PfufZ8faEXU.mp3
+-rwxr-xr-x 1 joelm joelm 212576 May 21 23:01 Joe Biden Wake Up--weroVRHwoA.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Clips/macaroni:
+total 2568
+-rwxr-xr-x 1 joelm joelm 2424832 May 21 23:01 macaroni and the chicken strips-eU1hOYufdBI.aup3
+-rwxr-xr-x 1 joelm joelm  106878 May 21 23:01 macaroni and the chicken strips-eU1hOYufdBI.mp3
+-rwxr-xr-x 1 joelm joelm   28674 May 21 23:01 macaroni.mp3
+-rwxr-xr-x 1 joelm joelm    9866 May 21 23:01 uh.mp3
+-rwxr-xr-x 1 joelm joelm   47900 May 21 23:01 with the chicken strips.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Clips/morhsu:
+total 636
+-rwxr-xr-x 1 joelm joelm 128877 May 21 23:01 M Lamp oil rope bombs.mp3
+-rwxr-xr-x 1 joelm joelm  11373 May 21 23:01 MMMMM.mp3
+-rwxr-xr-x 1 joelm joelm 363501 May 21 23:01 Morshu (Original)-X8HSnP1SiI0.mp3
+-rwxr-xr-x 1 joelm joelm 139629 May 21 23:01 M Sorry link.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Clips/songs:
+total 111152
+-rwxr-xr-x 1 joelm joelm 4342893 May 21 23:01 8 Bit Adventure-iZWXB8namu0.mp3
+-rwxr-xr-x 1 joelm joelm 4394733 May 21 23:01 Africa.mp3
+-rwxr-xr-x 1 joelm joelm 3206637 May 21 23:01 All Star-8ay_BkRuv-o.mp3
+-rwxr-xr-x 1 joelm joelm 4972941 May 21 23:01 BEGNAGRAD   Coc'n Rolla 1982-wPo2vYTldY8.mp3
+-rwxr-xr-x 1 joelm joelm 1782381 May 21 23:01 BIG CHUNGUS _ Official Main Theme _ Song by Endigo-cB4dYfFgaME.mp3
+-rwxr-xr-x 1 joelm joelm  491355 May 21 23:01 Bill Nye - The Science Guy [Original Intro] HD-UtVJdPfm0F8.mp3
+-rwxr-xr-x 1 joelm joelm 4963053 May 21 23:01 Black Ops 2 Soundtrack - Main Theme-M7GC_TaJxMI.mp3
+-rwxr-xr-x 1 joelm joelm 3170473 May 21 23:01 Candyland.mp3
+-rwxr-xr-x 1 joelm joelm 5602029 May 21 23:01 Cyberpunk 2077 - E3 2018 Trailer Music _ Hyper - ''SPOILER'' (4K)-9ayYeLLT8bs.mp3
+-rwxr-xr-x 1 joelm joelm 2970477 May 21 23:01 Daft Punk - Robot Rock (Official Video)-sFZjqVnWBhc.mp3
+-rwxr-xr-x 1 joelm joelm 4883565 May 21 23:01 Doom Eternal OST - The Only Thing they Fear is You (Mick Gordon)-T12ygsp9Mvg.mp3
+-rwxr-xr-x 1 joelm joelm 5254326 May 21 23:01 [Electro] - Laszlo - Supernova [Monstercat Release]-PKfxmFU3lWY.mp3
+-rwxr-xr-x 1 joelm joelm 3416709 May 21 23:01 FROZEN _ Let It Go Sing-along _ Official Disney UK-L0MK7qz13bU.mp3
+-rwxr-xr-x 1 joelm joelm    1959 May 21 23:01 Give it all you've got-MyXBqVmYCxw.mkv - Shortcut.lnk
+-rwxr-xr-x 1 joelm joelm  424173 May 21 23:01 Golden Wind OST Vol.3 - Diavolo Theme-NN2TOdiPtG4.mp3
+-rwxr-xr-x 1 joelm joelm 2031116 May 21 23:01 HEYYEYAAEYAAAEYAEYAA-ZZ5LpwO-An4.mp3
+-rwxr-xr-x 1 joelm joelm  815085 May 21 23:01 hotel mario theme-28ZcsyOayLM.mp3
+-rwxr-xr-x 1 joelm joelm 1675629 May 21 23:01 James Bond 007 Theme Tune (original)-ye8KvYKn9-0.mp3
+-rwxr-xr-x 1 joelm joelm 3418605 May 21 23:01 John Scatman - The Scatman (Video Clip)-JY0U1uq6BIQ.mp3
+-rwxr-xr-x 1 joelm joelm 4928109 May 21 23:01 JoJo's Bizarre Adventure - Stardust Crusaders OST - Stardust Crusaders-NFjE5A4UAJI.mp3
+-rwxr-xr-x 1 joelm joelm 4793520 May 21 23:01 linus.mp3
+-rwxr-xr-x 1 joelm joelm 4168941 May 21 23:01 Luis Fonsi - Despacito ft. Daddy Yankee-kJQP7kiw5Fk.mp3
+-rwxr-xr-x 1 joelm joelm 3234285 May 21 23:01 Mark Snow - Materia Primoris - The X-Files Theme (Main Title) (Official Audio)-Qz2wnSVeITg.mp3
+drwxr-xr-x 2 joelm joelm    4096 May 21 23:01 mashups
+-rwxr-xr-x 1 joelm joelm 3512685 May 21 23:01 Men At Work - Down Under (Video)-XfR9iY5y94s.mp3
+-rwxr-xr-x 1 joelm joelm 2258541 May 21 23:01 Metal Gear Solid OST  - Encounter-XI1VpElKWF8.mp3
+-rwxr-xr-x 1 joelm joelm 3314925 May 21 23:01 Mission Impossible Theme(full theme)-XAYhNHhxN0A.mp3
+-rwxr-xr-x 1 joelm joelm 2041983 May 21 23:01 Ocean Man Lyrics-6E5m_XtCX3c.mp3
+-rwxr-xr-x 1 joelm joelm 2424217 May 21 23:01 Pirates Of The Caribbean Theme Song-27mB8verLK8.mp3
+-rwxr-xr-x 1 joelm joelm 1401453 May 21 23:01 Plants vs. Zombies (Main Theme)-ssZoq1eUK-s.mp3
+-rwxr-xr-x 1 joelm joelm 4036077 May 21 23:01 PSY - GANGNAM STYLE M_V-9bZkp7q19f0.mp3
+-rwxr-xr-x 1 joelm joelm 7169517 May 21 23:01 Rob D - Clubbed To Death [Kurayamino Mix] (The Matrix)-eH7qfq_KkVM.mp3
+-rwxr-xr-x 1 joelm joelm 4357059 May 21 23:01 The Benny Hill Show Theme Tune-Gpc5_3B5xdk.mp3
+-rwxr-xr-x 1 joelm joelm  555720 May 21 23:01 Transformers opening theme-nLS2N9mHWaw.mp3
+-rwxr-xr-x 1 joelm joelm 1953794 May 21 23:01 Underbase - Fallen Down-NOMyOEodwk8.mp3
+-rwxr-xr-x 1 joelm joelm 2498157 May 21 23:01 Undertale OST - 100 - Megalovania-c5daGZ96QGU.mp3
+-rwxr-xr-x 1 joelm joelm 3269997 May 21 23:01 'Weird' Al Yankovic - Amish Paradise (Official Parody of 'Gangsta's Paradise')-lOfZLb33uCg.mp3
+drwxr-xr-x 2 joelm joelm    4096 May 21 23:01 ytpmv
+
+./ignore/Sound Effects/Sound Board/Sound Clips/songs/mashups:
+total 6284
+-rwxr-xr-x 1 joelm joelm 2563053 May 21 23:01 Doom - Eternal - The Only Thing They Fear Is YOUUUU-LP8GRjv6AIo.mp3
+-rwxr-xr-x 1 joelm joelm 3868269 May 21 23:01 Suge Rainbow Road (DaBaby x Mario Kart Wii) Full Song-5QV31OhlIAo.mp3
+
+./ignore/Sound Effects/Sound Board/Sound Clips/songs/ytpmv:
+total 6512
+-rwxr-xr-x 1 joelm joelm 1845741 May 21 23:01 [YTPMV] Morshu's Paradise-5bmXDcsuAsA.mp3
+-rwxr-xr-x 1 joelm joelm  977517 May 21 23:01 [YTPMV] Robotnik Dance (Undertale) (Unfinished)-2c5TzK7-jhs.mp3
+-rwxr-xr-x 1 joelm joelm 1109613 May 21 23:01 [YTPMV] Robotniktrousle-NbqkPbr_yVc.mp3
+-rwxr-xr-x 1 joelm joelm 2729325 May 21 23:01 [YTPMV] Scatman Morshu's World-ssjJ-kV_vf8.mp3
+
+./ignore/Sound Effects/typing:
+total 35380
+-rwxr-xr-x 1 joelm joelm   993252 May 21 23:01 10x speed.wav
+-rwxr-xr-x 1 joelm joelm  3528044 May 21 23:01 2x speed.wav
+-rwxr-xr-x 1 joelm joelm   318760 May 21 23:01 31xspeed.wav
+-rwxr-xr-x 1 joelm joelm  9943888 May 21 23:01 amplify, noise reduce.wav
+-rwxr-xr-x 1 joelm joelm    20610 May 21 23:01 edit.aup
+drwxr-xr-x 3 joelm joelm     4096 May 21 23:01 edit_data
+-rwxr-xr-x 1 joelm joelm  9943888 May 21 23:01 raw.wav
+-rwxr-xr-x 1 joelm joelm 11462660 May 21 23:01 take 2 amplify noise reduce.wav
+
+./ignore/Sound Effects/typing/edit_data:
+total 4
+drwxr-xr-x 3 joelm joelm 4096 May 21 23:01 e08
+
+./ignore/Sound Effects/typing/edit_data/e08:
+total 4
+drwxr-xr-x 2 joelm joelm 4096 May 21 23:01 d08
+
+./ignore/Sound Effects/typing/edit_data/e08/d08:
+total 54792
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808013.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808024.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808061.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e08080e6.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e08080e9.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e080817b.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e08081e0.au
+-rwxr-xr-x 1 joelm joelm  919608 May 21 23:01 e08081e1.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e08081e7.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808247.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e08082a8.au
+-rwxr-xr-x 1 joelm joelm  833628 May 21 23:01 e08082ea.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e080835a.au
+-rwxr-xr-x 1 joelm joelm  964928 May 21 23:01 e0808367.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e08083c3.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808442.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e08084c1.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e080859b.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e08085a2.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808603.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e080860b.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808647.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808721.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808736.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808764.au
+-rwxr-xr-x 1 joelm joelm  100800 May 21 23:01 e0808790.au
+-rwxr-xr-x 1 joelm joelm  964928 May 21 23:01 e0808823.au
+-rwxr-xr-x 1 joelm joelm  833628 May 21 23:01 e0808824.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808851.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808881.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e08088a1.au
+-rwxr-xr-x 1 joelm joelm  946268 May 21 23:01 e0808919.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808923.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e08089a0.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e08089b6.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e08089b9.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e08089c8.au
+-rwxr-xr-x 1 joelm joelm  919608 May 21 23:01 e0808a9b.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808ad5.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808ba0.au
+-rwxr-xr-x 1 joelm joelm  843904 May 21 23:01 e0808bf7.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808c79.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808c88.au
+-rwxr-xr-x 1 joelm joelm  100800 May 21 23:01 e0808ccd.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808cd7.au
+-rwxr-xr-x 1 joelm joelm  843904 May 21 23:01 e0808d40.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808d71.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808d7f.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808dcb.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808e03.au
+-rwxr-xr-x 1 joelm joelm  946268 May 21 23:01 e0808e25.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808ecf.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808f4b.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808fd0.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808ff2.au
+-rwxr-xr-x 1 joelm joelm 1060956 May 21 23:01 e0808ffe.au
+
+./__pycache__:
+total 16
+-rw-r--r-- 1 joelm joelm 6317 May 29 05:07 common.cpython-311.pyc
+-rw-r--r-- 1 joelm joelm 4622 May 22 22:26 indexer.cpython-311.pyc
